@@ -172,7 +172,7 @@
 			<base>http://skaisat.com/highchannel/</base>
 		</channel>
 		<channel active="True">
-			<name>KONTRA</name>
+			<name>KONTRA CHANNEL</name>
 			<type>hls</type>
 			<url>http://flashcloud.mediacdn.com/live/kontratv/playlist.m3u8</url>
 			<base>http://live24.gr/webtv/kontrachannel/</base>
