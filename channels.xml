@@ -2,20 +2,20 @@
 <channels>
 	<area name="PANHELLENIC">
 		<channel active="True">
-			<name>ERT1</name>
-			<type>hls</type>
+			<name>EPT1</name>
+			<!--<type>hls</type></-->
 			<url>http://38.140.63.250:1935/gr-live/et1.sdp/playlist.m3u8</url>
 			<base>http://webtv.ert.gr/ert1-live/</base>
 		</channel>
 		<channel active="True">
-			<name>ERT2</name>
-			<type>hls</type>
+			<name>EPT2</name>
+			<!--<type>hls</type>-->
 			<url>http://38.140.63.250:1935/gr-live/neritplus.sdp/playlist.m3u8</url>
 			<base>http://webtv.ert.gr/ert2-live/</base>
 		</channel>
 		<channel active="True">
-			<name>ERT3</name>
-			<type>hls</type>
+			<name>EPT3</name>
+			<!--<type>hls</type>-->
 			<url>http://ert3-lh.akamaihd.net/i/live_1@329807/master.m3u8</url>
 			<base>http://webtv.ert.gr/ert3-live/</base>
 		</channel>
@@ -151,8 +151,8 @@
 		</channel>
 		<channel active="False">
 			<name>BLUE SKY</name>
-			<type>hls</type>
-			<url>http://88.198.238.44:1935/live/bluesky/playlist.m3u8</url>
+			<!--<type>hls</type>-->
+			<url>http://136.243.200.188:1935/tvlive/tvlive/playlist.m3u8</url>
 			<base>http://www.blueskytv.gr/</base>
 		</channel>
 		<channel active="False">
@@ -215,9 +215,9 @@
 			<url>http://www.livestream.com/tvhalk</url>
 			<base>http://beechannel.gr/</base>
 		</channel>
-		<channel active="False">
+		<channel active="True">
 			<name>BERGINA</name>
-			<url>http://195.81.140.68/0f5e3de651a80e17745bbef999c967e8/VerginaStream1.m3u8</url>
+			<url>http://195.81.140.80:1935/live/VerginaStream1/playlist.m3u8</url>
 			<base>http://verginatv.blogspot.gr/</base>
 		</channel>
 		<channel active="False">
@@ -348,16 +348,20 @@
 			<url>http://www.ustream.tv/embed/1989576</url>
 			<base>http://wpso.com/</base>
 		</channel>
+		<channel active="True">
+			<name>JayZee HD</name>
+			<url>http://77.92.76.135:1935/jayzee/livestream/master.m3u8</url>
+		</channel>
 	</area>
 	<area name="CENTRAL GREECE">
 		<channel active="False">
 			<name>ETV</name>
 			<base>http://www.etv-hellas.net/</base>
 		</channel>
-		<channel active="False">
+		<channel active="True">
 			<name>ENA TV</name>
-			<type>livestream</type>
-			<url>http://www.livestream.com/lamiaenatv</url>
+			<!--<type>livestream</type>-->
+			<url>http://wpc.68fc.edgecastcdn.net/hls-live/2068FC/ena-channel-live/video/video.m3u8</url>
 			<base>http://www.enatv.gr/</base>
 		</channel>
 		<channel active="False">
@@ -527,14 +531,14 @@
 		</channel>
 	</area>
 	<area name="CRETE">
-		<channel active="False">
-			<name>KRITI TV</name>
-			<url>rtmp://live.cretetv.gr/cretetv/myStream live=1 timeout=10</url>
+		<channel active="True">
+			<name>KRHTH TV</name>
+			<url>http://live.cretetv.gr:1935/cretetv/myStream/playlist.m3u8</url>
 			<base>http://www.cretetv.gr/</base>
 		</channel>
-		<channel active="False">
+		<channel active="True">
 			<name>CRETA TV</name>
-			<type>hls</type>
+			<!--<type>hls</type>-->
 			<url>http://srv.viiideo.gr:1935/tvcreta/live/playlist.m3u8</url>
 			<base>http://tvcreta.gr/</base>
 		</channel>
@@ -642,10 +646,11 @@
 		</channel>
 	</area>
 	<area name="WEST MACEDONIA">
-		<channel active="False">
-			<name>.DIKTYO</name>
-			<type>livestream</type>
-			<url>http://www.livestream.com/diktyo</url>
+		<channel active="True">
+			<name>DIKTYO TV</name>
+			<!--<type>livestream</type>-->
+			<!--<url>http://www.livestream.com/diktyo</url>-->
+			<url>http://iphone-streaming.ustream.tv/uhls/2785459/streams/live/iphone/playlist.m3u8</url>
 			<base>http://www.diktyo1.gr/</base>
 		</channel>
 		<channel active="False">
@@ -744,14 +749,15 @@
 			<url>http://www.ustream.tv/channel/tv-epiloges</url>
 			<base>http://www.epiloges.tv/</base>
 		</channel>
-		<channel active="False">
+		<channel active="True">
 			<name>THRAKI NET</name>
-			<type>hls</type>
-			<url>http://hls.onestreaming.com:1935/live/thrakinettv/playlist.m3u8</url>
+			<!--<type>hls</type>-->
+			<url>http://hls.onestreaming.com:1935/live/thrakinettv/master.m3u8</url>
 			<base>http://www.thrakinet.tv/</base>
 		</channel>
-		<channel active="False">
+		<channel active="True">
 			<name>TV DELTA</name>
+			<url>mms://deltatv1.dyndns.org:1194</url>
 		</channel>
 		<channel active="False">
 			<name>TVS</name>

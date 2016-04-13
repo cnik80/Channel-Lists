@@ -1,12 +1,10 @@
 #EXTM3U
-#EXTINF:0,ERT 1
+#EXTINF:0,EPT 1
 http://38.140.63.250:1935/gr-live/et1.sdp/playlist.m3u8
-#EXTINF:0,ERT 2
+#EXTINF:0,EPT 2
 http://38.140.63.250:1935/gr-live/neritplus.sdp/playlist.m3u8
-#EXTINF:0,ERT 3
+#EXTINF:0,EPT 3
 http://ert3-lh.akamaihd.net/i/live_1@329807/master.m3u8
-#EXTINF:0,ERT WEBTV
-http://nerit3-lh.akamaihd.net/i/prosexos_1@48667/master.m3u8
 #EXTINF:0,MEGA
 http://38.140.63.250:1935/gr-live/mega.sdp/playlist.m3u8
 #EXTINF:0,ANT1
@@ -21,6 +19,22 @@ http://mgrouphdlive4-f.akamaihd.net/i/live_1@324569/master.m3u8
 http://stream.maktv.gr/i/live_1@332903/master.m3u8
 #EXTINF:0,Euronews
 rtsp://ewns-hls-p-stream.hexaglobe.net/rtpeuronewslive/gr_vidan350_rtp.sdp
+#EXTINF:0,MEGA CY
+http://over.ddns.net:65117/
+#EXTINF:0,ANT1 CY
+http://over.ddns.net:65116/
+#EXTINF:0,SIGMA CY
+http://81.21.47.74/hls/live.m3u8
+#EXTINF:0,CAPITAL CY
+http://over.ddns.net:65118/
+#EXTINF:0,MAD CY
+http://eradio.networksolutions.com.cy:1935/live/livestream/playlist.m3u8
+#EXTINF:0,RIK1
+http://over.ddns.net:65113/
+#EXTINF:0,RIK2
+http://over.ddns.net:65114/
+#EXTINF:0,RIK SAT
+http://cdnvideo.webvideocore.net/live11uk/out_2xtqzyrq6gysc48ko0cs/index.m3u8
 #EXTINF:0,SBC
 http://xsbcgrx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:0,EXTRA CHANNEL
@@ -41,14 +55,10 @@ http://xmpaxalotv1x.api.channel.livestream.com/3.0/playlist.m3u8
 http://176.9.123.140:1935/hellastv/_definst_/mp4:stream/master.m3u8
 #EXTINF:0,RIK SAT
 http://cdnvideo.webvideocore.net/livenl/out_2xtqzyrq6gysc48ko0cs/index.m3u8
-#EXTINF:0,SIGMA CY
-http://81.21.47.74/hls/live.m3u8
-#EXTINF:0,CAPITAL CY
-http://over.ddns.net:65118/
-#EXTINF:0,MAD CY
-http://eradio.networksolutions.com.cy:1935/live/livestream/playlist.m3u8
 #EXTINF:0,4E
 http://82.192.84.30:554/live/myStream.sdp/playlist.m3u8
+#EXTINF:0,WZRA
+http://iphone-streaming.ustream.tv/uhls/1989576/streams/live/iphone/playlist.m3u8
 #EXTINF:0,WZRA KIDS
 mmsh://wpso.com:200/kids
 #EXTINF:0,VOULI
