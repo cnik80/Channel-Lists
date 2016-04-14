@@ -48,18 +48,18 @@
 			<url>http://38.140.63.250:1935/gr-live/alpha.sdp/playlist.m3u8</url>
 			<base>http://www.alphatv.gr/Live.aspx</base>
 		</channel>
-		<!--<channel active="True">
+		<channel active="True">
 			<name>SKAI</name>
 			<type>hls</type>
 			<url>http://38.140.63.250:1935/gr-live/skai.sdp/playlist.m3u8</url>
 			<base>http://www.skai.gr</base>
-		</channel>-->
-		<channel active="True">
+		</channel>
+		<!--<channel active="True">
 			<name>SKAI</name>
 			<type>skai</type>
 			<url>http://www.skai.gr/player/tvlive/</url>
 			<base>http://www.skai.gr</base>
-		</channel>
+		</channel>-->
 		<channel active="True">
 			<name>E TV</name>
 			<type>hls</type>
