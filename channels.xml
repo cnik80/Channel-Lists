@@ -76,7 +76,6 @@
 	<area name="CYPRUS">
 		<channel active="True">
 			<name>MEGA CY</name>
-			<!--<type>hls</type> -->
 			<url>http://over.ddns.net:65117/</url>
 			<base>http://www.livenews.com.cy/cgibin/hweb?-A=5&amp;-V=livestreaming</base>
 		</channel>
@@ -87,38 +86,31 @@
 		</channel>
 		<channel active="True">
 			<name>SIGMA</name>
-			<type>hls</type>
 			<url>http://81.21.47.74/hls/live.m3u8</url>
 			<base>http://www.sigmatv.com/</base>
 		</channel>
 		<channel active="True">
 			<name>CAPITAL</name>
-			<type>http</type>
 			<url>http://over.ddns.net:65118/</url>
 		</channel>
 		<channel active="True">
 			<name>PLUS TV</name>
-			<!--<type>lakatamia</type>-->
 			<url>http://over.ddns.net:65120/</url>
 		</channel>
 		<channel active="True">
 			<name>EXTRA TV</name>
-			<!--<type>lakatamia</type>-->
 			<url>http://over.ddns.net:65119/</url>
 		</channel>
 		<channel active="True">
 			<name>RIK 1</name>
-			<!--<type>lakatamia</type>-->
 			<url>http://over.ddns.net:65113/</url>
 		</channel>
 		<channel active="True">
 			<name>RIK 2</name>
-			<!--<type>lakatamia</type>-->
 			<url>http://over.ddns.net:65114/</url>
 		</channel>
 		<channel active="True">
 			<name>RIK SAT</name>
-			<type>hls</type>
 			<url>http://cdnvideo.webvideocore.net/live11uk/out_2xtqzyrq6gysc48ko0cs/index.m3u8</url>
 			<base>http://www.riknews.com.cy/index.php/tv/sat-live</base>
 		</channel>
@@ -128,7 +120,7 @@
 			<name>AB CHANNEL</name>
 			<base>http://www.abchannel.gr/</base>
 		</channel>
-		<channel active="False">
+		<channel active="True">
 			<name>ACTION24</name>
 			<type>dailymotion</type>
 			<url>http://www.dailymotion.com/video/x2p626q</url>
