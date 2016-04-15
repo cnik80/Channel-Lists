@@ -64,14 +64,12 @@
 		</channel>
 		<channel active="True">
 			<name>BOYLH TV</name>
-			<type>hls</type>
 			<url>http://streamer-cache.grnet.gr/parliament/parltv.sdp/master.m3u8</url>
 			<base>http://www.hellenicparliament.gr/Enimerosi/Vouli-Tileorasi</base>
 		</channel>
 		<channel active="True">
 			<name>EURONEWS</name>
-			<type>euronews</type>
-			<url>http://gr.euronews.com/news/streaming-live/</url>
+			<url>rtsp://ewns-hls-p-stream.hexaglobe.net/rtpeuronewslive/gr_vidan350_rtp.sdp</url>
 			<base>http://gr.euronews.com</base>
 		</channel>
 	</area>
