@@ -133,7 +133,6 @@
 		</channel>
 		<channel active="False">
 			<name>BLUE SKY</name>
-			<!--<type>hls</type>-->
 			<url>http://136.243.200.188:1935/tvlive/tvlive/playlist.m3u8</url>
 			<base>http://www.blueskytv.gr/</base>
 		</channel>
@@ -665,7 +664,7 @@
 			<name>ALFA TV</name>
 			<base>http://www.alfadramas.gr/</base>
 		</channel>
-		<channel active="False">
+		<channel active="True">
 			<name>AMFIPOLIS TV</name>
 			<type>ustream</type>
 			<url>http://www.ustream.tv/channel/livezone-gr</url>
@@ -733,7 +732,7 @@
 		</channel>
 		<channel active="True">
 			<name>THRAKI NET</name>
-			<!--<type>hls</type>-->
+			<type>hls</type>
 			<url>http://hls.onestreaming.com:1935/live/thrakinettv/master.m3u8</url>
 			<base>http://www.thrakinet.tv/</base>
 		</channel>
