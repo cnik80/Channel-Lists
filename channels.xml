@@ -26,7 +26,6 @@
 		</channel>
 		<channel active="True">
 			<name>MEGA</name>
-			<type>hls</type>
 			<url>http://over.ddns.net:65110/</url>
 			<base>http://www.megatv.com/webtv/default.asp</base>
 		</channel>
