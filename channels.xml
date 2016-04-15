@@ -667,6 +667,7 @@
 		</channel>
 		<channel active="True">
 			<name>TOP CHANNEL</name>
+			<type>ustream</type>
 			<url>http://www.ustream.tv/channel/top-channel-kozani</url>
 			<base>http://topchannel.gr/</base>
 		</channel>
