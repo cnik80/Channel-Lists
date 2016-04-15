@@ -49,7 +49,6 @@
 		</channel>
 		<channel active="True">
 			<name>SKAI</name>
-			<type>hls</type>
 			<url>http://over.ddns.net:65112/</url>
 			<base>http://www.skai.gr</base>
 		</channel>
