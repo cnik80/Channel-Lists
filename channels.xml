@@ -121,7 +121,7 @@
 			<name>AB CHANNEL</name>
 			<base>http://www.abchannel.gr/</base>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>ACTION24</name>
 			<type>dailymotion</type>
 			<url>http://www.dailymotion.com/video/x2p626q</url>
@@ -136,10 +136,10 @@
 			<url>http://136.243.200.188:1935/tvlive/tvlive/playlist.m3u8</url>
 			<base>http://www.blueskytv.gr/</base>
 		</channel>
-		<channel active="False">
+		<channel active="True">
 			<name>CHANNEL 9</name>
 			<type>livestream</type>
-			<url>http://www.livestream.com/channel9gr</url>
+			<url>http://www.channel9.gr/livestream/</url>
 			<base>http://www.channel9.gr/</base>
 		</channel>
 		<channel active="True">
