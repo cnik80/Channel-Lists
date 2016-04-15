@@ -665,8 +665,9 @@
 			<url>mmsh://live.onestreaming.com/super28</url>
 			<base>http://grevenamedia.gr/</base>
 		</channel>
-		<channel active="False">
+		<channel active="True">
 			<name>TOP CHANNEL</name>
+			<url>http://www.ustream.tv/channel/top-channel-kozani</url>
 			<base>http://topchannel.gr/</base>
 		</channel>
 		<channel active="False">
