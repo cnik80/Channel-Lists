@@ -3,19 +3,16 @@
 	<area name="PANHELLENIC">
 		<channel active="True">
 			<name>EPT1</name>
-			<!--<type>hls</type></-->
 			<url>http://over.ddns.net:65101/</url>
 			<base>http://webtv.ert.gr/ert1/</base>
 		</channel>
 		<channel active="True">
 			<name>EPT2</name>
-			<!--<type>hls</type>-->
 			<url>http://over.ddns.net:65102/</url>
 			<base>http://webtv.ert.gr/ert2/</base>
 		</channel>
 		<channel active="True">
 			<name>EPT3</name>
-			<!--<type>hls</type>-->
 			<url>http://over.ddns.net:65103/</url>
 			<base>http://webtv.ert.gr/ert3/</base>
 		</channel>
@@ -31,7 +28,6 @@
 		</channel>
 		<channel active="True">
 			<name>ANT1</name>
-			<type>hls</type>
 			<url>http://over.ddns.net:65106/</url>
 			<base>http://www.antenna.gr/webtv/doubleip/live</base>
 		</channel>
@@ -42,7 +38,6 @@
 		</channel>
 		<channel active="True">
 			<name>ALPHA</name>
-			<type>hls</type>
 			<url>http://over.ddns.net:65105/</url>
 			<base>http://www.alphatv.gr/webtv/live</base>
 		</channel>
@@ -53,13 +48,11 @@
 		</channel>
 		<channel active="True">
 			<name>E TV</name>
-			<type>hls</type>
-			<url>http://mgrouphdlive4-f.akamaihd.net/i/live_1@324569/master.m3u8</url>
+			<url>http://over.ddns.net:65108/</url>
 			<base>http://www.epsilontv.gr/</base>
 		</channel>
 		<channel active="True">
 			<name>MACEDONIA TV</name>
-			<type>hls</type>
 			<url>http://stream.maktv.gr/i/live_1@332903/master.m3u8</url>
 			<base>http://www.maktv.gr/Live</base>
 		</channel>
