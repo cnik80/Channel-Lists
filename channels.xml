@@ -76,8 +76,9 @@
 	<area name="CYPRUS">
 		<channel active="True">
 			<name>MEGA CY</name>
+			<type>http</type>
 			<url>http://over.ddns.net:65117/</url>
-			<base>http://www.livenews.com.cy/cgibin/hweb?-A=5&amp;-V=livestreaming</base>
+			<base>http://www.megatv.com.cy/live/?cs=1</base>
 		</channel>
 		<channel active="True">
 			<name>ANT1 CY</name>
