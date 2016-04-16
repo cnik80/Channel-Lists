@@ -3,17 +3,17 @@
 	<area name="PANHELLENIC">
 		<channel active="True">
 			<name>EPT1</name>
-			<url>http://over.ddns.net:65101/</url>
+			<url>http://ert1geo-lh.akamaihd.net/i/live_1@364501/master.m3u8</url>
 			<base>http://webtv.ert.gr/ert1/</base>
 		</channel>
 		<channel active="True">
 			<name>EPT2</name>
-			<url>http://over.ddns.net:65102/</url>
+			<url>http://ert2geo-lh.akamaihd.net/i/live_1@362314/master.m3u8</url>
 			<base>http://webtv.ert.gr/ert2/</base>
 		</channel>
 		<channel active="True">
 			<name>EPT3</name>
-			<url>http://over.ddns.net:65103/</url>
+			<url>http://ert3-lh.akamaihd.net/i/live_1@329806/master.m3u8</url>
 			<base>http://webtv.ert.gr/ert3/</base>
 		</channel>
 		<channel active="False">
@@ -28,17 +28,17 @@
 		</channel>
 		<channel active="True">
 			<name>ANT1</name>
-			<url>http://over.ddns.net:65106/</url>
+			<url>http://antennatv-lh.akamaihd.net/i/live_1@329667/master.m3u8</url>
 			<base>http://www.antenna.gr/webtv/doubleip/live</base>
 		</channel>
 		<channel active="True">
 			<name>STAR</name>
-			<url>http://starhdlive2-lh.akamaihd.net/i/live_1@181243/master.m3u8</url>
+			<url>http://over.ddns.net:65111/</url>
 			<base>http://www.star.gr/tv/el/Pages/LiveVideo.aspx</base>
 		</channel>
 		<channel active="True">
 			<name>ALPHA</name>
-			<url>http://over.ddns.net:65105/</url>
+			<url>http://alfakanali-lh.akamaihd.net/i/live_1@90368/master.m3u8</url>
 			<base>http://www.alphatv.gr/webtv/live</base>
 		</channel>
 		<channel active="True">
@@ -48,7 +48,7 @@
 		</channel>
 		<channel active="True">
 			<name>E TV</name>
-			<url>http://over.ddns.net:65108/</url>
+			<url>http://mgrouphdlive4-f.akamaihd.net/i/live_1@324569/master.m3u8</url>
 			<base>http://www.epsilontv.gr/</base>
 		</channel>
 		<channel active="True">
@@ -195,7 +195,7 @@
 			<url>http://www.livestream.com/tvhalk</url>
 			<base>http://beechannel.gr/</base>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>BERGINA</name>
 			<url>http://195.81.140.80:1935/live/VerginaStream1/playlist.m3u8</url>
 			<base>http://verginatv.blogspot.gr/</base>
@@ -331,6 +331,11 @@
 		<channel active="True">
 			<name>JayZee HD</name>
 			<url>http://77.92.76.135:1935/jayzee/livestream/master.m3u8</url>
+		</channel>
+		<channel active="True">
+			<name>NetTVToronto</name>
+			<url>rtsp://176.9.25.17/NetvToronto/NetvToronto</url>
+			<base>http://www.netvtoronto.com/</base>
 		</channel>
 	</area>
 	<area name="CENTRAL GREECE">
@@ -663,7 +668,7 @@
 			<name>ALFA TV</name>
 			<base>http://www.alfadramas.gr/</base>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>AMFIPOLIS TV</name>
 			<type>ustream</type>
 			<url>http://www.ustream.tv/channel/livezone-gr</url>
