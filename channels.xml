@@ -608,10 +608,9 @@
 		</channel>
 	</area>
 	<area name="CYCLADES">
-		<channel active="False">
+		<channel active="True">
 			<name>AIGAIO TV</name>
-			<type>livestream</type>
-			<url>http://www.livestream.com/aigaiotv</url>
+			<url>http://xaigaiotelevisionx.api.channel.livestream.com/3.0/playlist.m3u8</url>
 			<base>http://aigaio-tv.blogspot.gr/</base>
 		</channel>
 		<channel active="False">
@@ -745,12 +744,6 @@
 		</channel>
 		<channel active="False">
 			<name>XANTHI CHANNEL</name>
-		</channel>
-		<channel active="True">
-			<name>ALFA OMEGA</name>
-			<type>livestream</type>
-			<url>http://original.livestream.com/alfaomegaeviawebtv</url>
-			<base>http://alfaomegaevia.blogspot.gr</base>
 		</channel>
 	</area>
 </channels>
