@@ -646,7 +646,7 @@
 			<url>mmsh://live.onestreaming.com/super28</url>
 			<base>http://grevenamedia.gr/</base>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>TOP CHANNEL</name>
 			<type>ustream</type>
 			<url>http://www.ustream.tv/channel/18640065</url>
@@ -745,6 +745,12 @@
 		</channel>
 		<channel active="False">
 			<name>XANTHI CHANNEL</name>
+		</channel>
+		<channel active="True">
+			<name>ALFA OMEGA</name>
+			<type>livestream</type>
+			<url>http://original.livestream.com/alfaomegaeviawebtv</url>
+			<base>http://alfaomegaevia.blogspot.gr</base>
 		</channel>
 	</area>
 </channels>
