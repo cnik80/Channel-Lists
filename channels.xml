@@ -3,21 +3,18 @@
 	<area name="PANHELLENIC">
 		<channel active="True">
 			<name>EPT1</name>
-			<!--<type>hls</type></-->
-			<url>http://38.140.63.250:1935/gr-live/et1.sdp/playlist.m3u8</url>
-			<base>http://webtv.ert.gr/ert1-live/</base>
+			<url>http://ertworld-lh.akamaihd.net/i/live_1@362313/master.m3u8</url>
+			<base>http://webtv.ert.gr/ert1/</base>
 		</channel>
 		<channel active="True">
 			<name>EPT2</name>
-			<!--<type>hls</type>-->
-			<url>http://38.140.63.250:1935/gr-live/neritplus.sdp/playlist.m3u8</url>
-			<base>http://webtv.ert.gr/ert2-live/</base>
+			<url>http://ert2world-lh.akamaihd.net/i/live_1@367166/master.m3u8</url>
+			<base>http://webtv.ert.gr/ert2/</base>
 		</channel>
 		<channel active="True">
 			<name>EPT3</name>
-			<!--<type>hls</type>-->
 			<url>http://ert3-lh.akamaihd.net/i/live_1@329807/master.m3u8</url>
-			<base>http://webtv.ert.gr/ert3-live/</base>
+			<base>http://webtv.ert.gr/ert3/</base>
 		</channel>
 		<channel active="False">
 			<name>ERT WEB TV</name>
@@ -26,43 +23,36 @@
 		</channel>
 		<channel active="True">
 			<name>MEGA</name>
-			<type>hls</type>
-			<!--<url>http://38.140.63.250:1935/gr-live/mega.sdp/playlist.m3u8</url>-->
 			<url>http://over.ddns.net:65110/</url>
-			<base>http://www.megatv.com/webtv</base>
+			<base>http://www.megatv.com/webtv/default.asp</base>
 		</channel>
 		<channel active="True">
 			<name>ANT1</name>
-			<type>hls</type>
 			<url>http://antennatv-lh.akamaihd.net/i/live_1@329667/master.m3u8</url>
 			<base>http://www.antenna.gr/webtv/doubleip/live</base>
 		</channel>
 		<channel active="True">
 			<name>STAR</name>
-			<url>http://starhdlive2-lh.akamaihd.net/i/live_1@181243/master.m3u8</url>
+			<url>http://over.ddns.net:65111/</url>
 			<base>http://www.star.gr/tv/el/Pages/LiveVideo.aspx</base>
 		</channel>
 		<channel active="True">
 			<name>ALPHA</name>
-			<type>hls</type>
-			<url>http://38.140.63.250:1935/gr-live/alpha.sdp/playlist.m3u8</url>
-			<base>http://www.alphatv.gr/Live.aspx</base>
+			<url>http://alfakanali-lh.akamaihd.net/i/live_1@90368/master.m3u8</url>
+			<base>http://www.alphatv.gr/webtv/live</base>
 		</channel>
 		<channel active="True">
 			<name>SKAI</name>
-			<!--<type>hls</type>-->
-			<url>http://38.140.63.250:1935/gr-live/skai.sdp/playlist.m3u8</url>
+			<url>http://over.ddns.net:65112/</url>
 			<base>http://www.skai.gr</base>
 		</channel>
 		<channel active="True">
 			<name>E TV</name>
-			<type>hls</type>
 			<url>http://mgrouphdlive4-f.akamaihd.net/i/live_1@324569/master.m3u8</url>
 			<base>http://www.epsilontv.gr/</base>
 		</channel>
 		<channel active="True">
 			<name>MACEDONIA TV</name>
-			<type>hls</type>
 			<url>http://stream.maktv.gr/i/live_1@332903/master.m3u8</url>
 			<base>http://www.maktv.gr/Live</base>
 		</channel>
@@ -74,23 +64,21 @@
 		</channel>
 		<channel active="True">
 			<name>BOYLH TV</name>
-			<type>hls</type>
 			<url>http://streamer-cache.grnet.gr/parliament/parltv.sdp/master.m3u8</url>
 			<base>http://www.hellenicparliament.gr/Enimerosi/Vouli-Tileorasi</base>
 		</channel>
 		<channel active="True">
 			<name>EURONEWS</name>
-			<type>euronews</type>
-			<url>http://gr.euronews.com/news/streaming-live/</url>
+			<url>rtsp://ewns-hls-p-stream.hexaglobe.net/rtpeuronewslive/gr_vidan350_rtp.sdp</url>
 			<base>http://gr.euronews.com</base>
 		</channel>
 	</area>
 	<area name="CYPRUS">
 		<channel active="True">
 			<name>MEGA CY</name>
-			<!--<type>hls</type> -->
+			<type>http</type>
 			<url>http://over.ddns.net:65117/</url>
-			<base>http://www.livenews.com.cy/cgibin/hweb?-A=5&amp;-V=livestreaming</base>
+			<base>http://www.megatv.com.cy/live/?cs=1</base>
 		</channel>
 		<channel active="True">
 			<name>ANT1 CY</name>
@@ -99,38 +87,31 @@
 		</channel>
 		<channel active="True">
 			<name>SIGMA</name>
-			<type>hls</type>
 			<url>http://81.21.47.74/hls/live.m3u8</url>
 			<base>http://www.sigmatv.com/</base>
 		</channel>
 		<channel active="True">
 			<name>CAPITAL</name>
-			<type>http</type>
 			<url>http://over.ddns.net:65118/</url>
 		</channel>
 		<channel active="True">
 			<name>PLUS TV</name>
-			<!--<type>lakatamia</type>-->
 			<url>http://over.ddns.net:65120/</url>
 		</channel>
 		<channel active="True">
 			<name>EXTRA TV</name>
-			<!--<type>lakatamia</type>-->
 			<url>http://over.ddns.net:65119/</url>
 		</channel>
 		<channel active="True">
 			<name>RIK 1</name>
-			<!--<type>lakatamia</type>-->
 			<url>http://over.ddns.net:65113/</url>
 		</channel>
 		<channel active="True">
 			<name>RIK 2</name>
-			<!--<type>lakatamia</type>-->
 			<url>http://over.ddns.net:65114/</url>
 		</channel>
 		<channel active="True">
 			<name>RIK SAT</name>
-			<type>hls</type>
 			<url>http://cdnvideo.webvideocore.net/live11uk/out_2xtqzyrq6gysc48ko0cs/index.m3u8</url>
 			<base>http://www.riknews.com.cy/index.php/tv/sat-live</base>
 		</channel>
@@ -152,19 +133,17 @@
 		</channel>
 		<channel active="False">
 			<name>BLUE SKY</name>
-			<!--<type>hls</type>-->
 			<url>http://136.243.200.188:1935/tvlive/tvlive/playlist.m3u8</url>
 			<base>http://www.blueskytv.gr/</base>
 		</channel>
-		<channel active="False">
+		<channel active="True">
 			<name>CHANNEL 9</name>
 			<type>livestream</type>
-			<url>http://www.livestream.com/channel9gr</url>
+			<url>http://www.channel9.gr/livestream/</url>
 			<base>http://www.channel9.gr/</base>
 		</channel>
 		<channel active="True">
 			<name>EXTRA</name>
-			<type>hls</type>
 			<url>rtmp://213.16.167.186:1935/live/mpegts_256.stream</url>
 			<base>http://www.extratv.gr/</base>
 		</channel>
@@ -216,7 +195,7 @@
 			<url>http://www.livestream.com/tvhalk</url>
 			<base>http://beechannel.gr/</base>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>BERGINA</name>
 			<url>http://195.81.140.80:1935/live/VerginaStream1/playlist.m3u8</url>
 			<base>http://verginatv.blogspot.gr/</base>
@@ -353,6 +332,11 @@
 			<name>JayZee HD</name>
 			<url>http://77.92.76.135:1935/jayzee/livestream/master.m3u8</url>
 		</channel>
+		<channel active="True">
+			<name>NetTVToronto</name>
+			<url>rtsp://176.9.25.17/NetvToronto/NetvToronto</url>
+			<base>http://www.netvtoronto.com/</base>
+		</channel>
 	</area>
 	<area name="CENTRAL GREECE">
 		<channel active="False">
@@ -361,7 +345,6 @@
 		</channel>
 		<channel active="True">
 			<name>ENA TV</name>
-			<!--<type>livestream</type>-->
 			<url>http://wpc.68fc.edgecastcdn.net/hls-live/2068FC/ena-channel-live/video/video.m3u8</url>
 			<base>http://www.enatv.gr/</base>
 		</channel>
@@ -649,8 +632,6 @@
 	<area name="WEST MACEDONIA">
 		<channel active="True">
 			<name>DIKTYO TV</name>
-			<!--<type>livestream</type>-->
-			<!--<url>http://www.livestream.com/diktyo</url>-->
 			<url>http://iphone-streaming.ustream.tv/uhls/2785459/streams/live/iphone/playlist.m3u8</url>
 			<base>http://www.diktyo1.gr/</base>
 		</channel>
@@ -706,12 +687,6 @@
 			<url>mmsh://ams01.egihosting.com/989630</url>
 			<base>http://www.deltatv.gr/</base>
 		</channel>
-		<channel active="True">
-			<name>DIKTYO TV</name>
-			<type>ustream</type>
-			<url>http://www.ustream.tv/channel/diktyo-tv1</url>
-			<base>http://www.diktyotv.gr/</base>
-		</channel>
 		<channel active="False">
 			<name>EGNATIA TV XANTHI</name>
 		</channel>
@@ -754,7 +729,7 @@
 		</channel>
 		<channel active="True">
 			<name>THRAKI NET</name>
-			<!--<type>hls</type>-->
+			<type>hls</type>
 			<url>http://hls.onestreaming.com:1935/live/thrakinettv/master.m3u8</url>
 			<base>http://www.thrakinet.tv/</base>
 		</channel>
