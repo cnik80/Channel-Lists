@@ -633,8 +633,6 @@
 	<area name="WEST MACEDONIA">
 		<channel active="True">
 			<name>DIKTYO TV</name>
-			<!--<type>livestream</type>-->
-			<!--<url>http://www.livestream.com/diktyo</url>-->
 			<url>http://iphone-streaming.ustream.tv/uhls/2785459/streams/live/iphone/playlist.m3u8</url>
 			<base>http://www.diktyo1.gr/</base>
 		</channel>
@@ -687,12 +685,6 @@
 			<name>DELTA TV</name>
 			<url>mmsh://ams01.egihosting.com/989630</url>
 			<base>http://www.deltatv.gr/</base>
-		</channel>
-		<channel active="True">
-			<name>DIKTYO TV</name>
-			<type>ustream</type>
-			<url>http://www.ustream.tv/channel/diktyo-tv1</url>
-			<base>http://www.diktyotv.gr/</base>
 		</channel>
 		<channel active="False">
 			<name>EGNATIA TV XANTHI</name>
