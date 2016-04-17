@@ -605,7 +605,7 @@
 	<area name="NORTH AEGEAN">
 		<channel active="True">
 			<name>TVM</name>
-			<url>rtmp://cp77174.live.edgefcs.net/live/123456@19937</url>
+			<url>rtmp://cp77174.live.edgefcs.net/live/123456@19937 live=1 timeout=10</url>
 			<base>http://www.tvmitilini.gr/</base>
 		</channel>
 		<channel active="False">
