@@ -195,7 +195,7 @@
 			<url>http://www.livestream.com/tvhalk</url>
 			<base>http://beechannel.gr/</base>
 		</channel>
-		<channel active="False">
+		<channel active="True">
 			<name>BERGINA</name>
 			<url>http://195.81.140.80:1935/live/VerginaStream1/playlist.m3u8</url>
 			<base>http://verginatv.blogspot.gr/</base>
@@ -516,7 +516,7 @@
 	</area>
 	<area name="CRETE">
 		<channel active="True">
-			<name>KRHTH TV</name>
+			<name>KPHTH TV</name>
 			<url>http://live.cretetv.gr:1935/cretetv/myStream/playlist.m3u8</url>
 			<base>http://www.cretetv.gr/</base>
 		</channel>
