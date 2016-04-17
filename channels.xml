@@ -390,7 +390,7 @@
 		</channel>
 	</area>
 	<area name="EPIRUS AND WEST GREECE">
-		<channel active="True">
+		<channel active="False">
 			<name>EPIRUS TV1</name>
 			<type>livestream</type>
 			<url>http://xepirustv1livex.api.channel.livestream.com/3.0/playlist.m3u8</url>
@@ -438,6 +438,12 @@
 		</channel>
 	</area>
 	<area name="PELOPONNESE AND WEST GREECE">
+		<channel active="True">
+			<name>MESSINIA WEB TV</name>
+			<type>webtv</type>
+			<url>rtmp://176.9.123.140:1935/messinia/messinia</url>
+			<base>http://messiniaradio.gr/messinia-webtv//</base>
+		</channel>
 		<channel active="False">
 			<name>ACHAIA CHANNEL</name>
 			<url>rtmp://78.129.184.15:30499/streaming/stream pageUrl=http://achaianews.listen2myradio.com/ live=1 timeout=10</url>
@@ -597,9 +603,9 @@
 		</channel>
 	</area>
 	<area name="NORTH AEGEAN">
-		<channel active="False">
+		<channel active="True">
 			<name>TVM</name>
-			<url>rtmp://cp77174.live.edgefcs.net:443/live/123456@19937 live=1 timeout=10</url>
+			<url>rtmp://cp77174.live.edgefcs.net/live/123456@19937</url>
 			<base>http://www.tvmitilini.gr/</base>
 		</channel>
 		<channel active="False">
