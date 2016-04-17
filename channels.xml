@@ -257,6 +257,12 @@
 			<url>rtmp://144.76.2.213/live/livestream swfUrl=http://jwplayer.mediaserve.com/player.swf live=1 timeout=10</url>
 			<base>http://www.madtv.com.cy/</base>
 		</channel>
+		<channel active="True">
+			<name>TV GOLD</name>
+			<type>webtv</type>
+			<url>mms://tvgold.webcast.mediacdn.com/tvgold</url>
+			<base>http://www.tvgold.gr/</base>
+		</channel>
 		<channel active="False">
 			<name>SMILE</name>
 			<type>videopublishing</type>
