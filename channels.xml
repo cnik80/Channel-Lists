@@ -554,10 +554,9 @@
 		</channel>
 	</area>
 	<area name="SOUTH AEGEAN">
-		<channel active="False">
+		<channel active="True">
 			<name>TV AIGAIO</name>
-			<type>livestream</type>
-			<url>http://www.livestream.com/aigaiotelevision</url>
+			<url>http://xaigaiotelevisionx.api.channel.livestream.com/3.0/playlist.m3u8</url>
 			<base>http://www.aigaio-tv.gr/</base>
 		</channel>
 		<channel active="False">
@@ -648,6 +647,8 @@
 		</channel>
 		<channel active="False">
 			<name>TOP CHANNEL</name>
+			<type>ustream</type>
+			<url>http://www.ustream.tv/channel/18640065</url>
 			<base>http://topchannel.gr/</base>
 		</channel>
 		<channel active="False">
