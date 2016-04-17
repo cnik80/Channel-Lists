@@ -554,10 +554,9 @@
 		</channel>
 	</area>
 	<area name="SOUTH AEGEAN">
-		<channel active="False">
+		<channel active="True">
 			<name>TV AIGAIO</name>
-			<type>livestream</type>
-			<url>http://www.livestream.com/aigaiotelevision</url>
+			<url>http://xaigaiotelevisionx.api.channel.livestream.com/3.0/playlist.m3u8</url>
 			<base>http://www.aigaio-tv.gr/</base>
 		</channel>
 		<channel active="False">
@@ -608,9 +607,10 @@
 		</channel>
 	</area>
 	<area name="CYCLADES">
-		<channel active="True">
+		<channel active="False">
 			<name>AIGAIO TV</name>
-			<url>http://xaigaiotelevisionx.api.channel.livestream.com/3.0/playlist.m3u8</url>
+			<type>livestream</type>
+			<url>http://www.livestream.com/aigaiotv</url>
 			<base>http://aigaio-tv.blogspot.gr/</base>
 		</channel>
 		<channel active="False">
