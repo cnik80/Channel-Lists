@@ -16,11 +16,6 @@
 			<url>http://ert3-lh.akamaihd.net/i/live_1@329807/master.m3u8</url>
 			<base>http://webtv.ert.gr/ert3/</base>
 		</channel>
-		<channel active="False">
-			<name>ERT WEB TV</name>
-			<url>http://nerit3-lh.akamaihd.net/i/prosexos_1@48667/master.m3u8</url>
-			<base>http://webtv.ert.gr/</base>
-		</channel>
 		<channel active="True">
 			<name>MEGA</name>
 			<url>http://over.ddns.net:65110/</url>
