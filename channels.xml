@@ -16,11 +16,6 @@
 			<url>http://ert3-lh.akamaihd.net/i/live_1@329807/master.m3u8</url>
 			<base>http://webtv.ert.gr/ert3/</base>
 		</channel>
-		<channel active="False">
-			<name>ERT WEB TV</name>
-			<url>http://nerit3-lh.akamaihd.net/i/prosexos_1@48667/master.m3u8</url>
-			<base>http://webtv.ert.gr/</base>
-		</channel>
 		<channel active="True">
 			<name>MEGA</name>
 			<url>http://over.ddns.net:65110/</url>
@@ -195,7 +190,7 @@
 			<url>http://www.livestream.com/tvhalk</url>
 			<base>http://beechannel.gr/</base>
 		</channel>
-		<channel active="False">
+		<channel active="True">
 			<name>BERGINA</name>
 			<url>http://195.81.140.80:1935/live/VerginaStream1/playlist.m3u8</url>
 			<base>http://verginatv.blogspot.gr/</base>
@@ -259,7 +254,6 @@
 		</channel>
 		<channel active="True">
 			<name>TV GOLD</name>
-			<type>webtv</type>
 			<url>mms://tvgold.webcast.mediacdn.com/tvgold</url>
 			<base>http://www.tvgold.gr/</base>
 		</channel>
@@ -364,7 +358,6 @@
 	<area name="THESSALY">
 		<channel active="True">
 			<name>ASTRA TV</name>
-			<type>hls</type>
 			<url>http://www.astratv.gr:8090/hls/livestream.m3u8</url>
 			<base>http://www.astratv.gr/</base>
 		</channel>
@@ -390,9 +383,8 @@
 		</channel>
 	</area>
 	<area name="EPIRUS AND WEST GREECE">
-		<channel active="False">
+		<channel active="True">
 			<name>EPIRUS TV1</name>
-			<type>livestream</type>
 			<url>http://xepirustv1livex.api.channel.livestream.com/3.0/playlist.m3u8</url>
 			<base>http://epirustv1.gr/</base>
 		</channel>
@@ -528,19 +520,17 @@
 	</area>
 	<area name="CRETE">
 		<channel active="True">
-			<name>KRHTH TV</name>
+			<name>KPHTH TV</name>
 			<url>http://live.cretetv.gr:1935/cretetv/myStream/playlist.m3u8</url>
 			<base>http://www.cretetv.gr/</base>
 		</channel>
 		<channel active="True">
 			<name>CRETA TV</name>
-			<!--<type>hls</type>-->
 			<url>http://srv.viiideo.gr:1935/tvcreta/live/playlist.m3u8</url>
 			<base>http://tvcreta.gr/</base>
 		</channel>
 		<channel active="True">
 			<name>NEA TV</name>
-			<type>hls</type>
 			<url>http://srv.viiideo.gr:1935/neatv/live/playlist.m3u8</url>
 			<base>http://www.neatv.gr/</base>
 		</channel>
@@ -603,7 +593,7 @@
 		</channel>
 	</area>
 	<area name="NORTH AEGEAN">
-		<channel active="False">
+		<channel active="True">
 			<name>TVM</name>
 			<url>rtmp://cp77174.live.edgefcs.net/live/123456@19937 live=1 timeout=10</url>
 			<base>http://www.tvmitilini.gr/</base>
@@ -627,7 +617,6 @@
 		</channel>
 		<channel active="True">
 			<name>SYROS TV1</name>
-			<type>hls</type>
 			<url>http://176.9.123.140:1935/msg116s/msg116s/playlist.m3u8</url>
 			<base>http://www.syrostv1.gr/</base>
 		</channel>
