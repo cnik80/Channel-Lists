@@ -334,7 +334,7 @@
 		</channel>
 		<channel active="True">
 			<name>NetTVToronto</name>
-			<url>rtsp://176.9.25.17/NetvToronto/NetvToronto</url>
+			<url>rtmp://176.9.25.17/NetvToronto/NetvToronto</url>
 			<base>http://www.netvtoronto.com/</base>
 		</channel>
 	</area>
