@@ -241,6 +241,11 @@
 		</channel>
 	</area>
 	<area name="THEMATIC">
+		<channel active="True">
+			<name>NETV Toronto</name>
+			<url>rtmp://176.9.25.17/NetvToronto/NetvToronto</url>
+			<base>http://www.netvtoronto.com/</base>
+		</channel>
 		<channel active="False">
 			<name>MAD TV</name>
 			<type>madtv</type>
@@ -331,11 +336,6 @@
 		<channel active="True">
 			<name>JayZee HD</name>
 			<url>http://77.92.76.135:1935/jayzee/livestream/master.m3u8</url>
-		</channel>
-		<channel active="True">
-			<name>Netv Toronto</name>
-			<url>rtmp://176.9.25.17/NetvToronto/NetvToronto</url>
-			<base>http://www.netvtoronto.com/</base>
 		</channel>
 	</area>
 	<area name="CENTRAL GREECE">
