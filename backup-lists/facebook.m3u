@@ -1,0 +1,1563 @@
+#EXTM3U
+
+#EXTINF:-1,[COLOR deepskyblue][B]» » PANELLADIKA « «[/B][/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1, tvg-id="EPT1.gr" tvg-logo=http://over.ddns.net/channels/android/240/ert1.png , group-title="PANELLADIKA", [COLOR deepskyblue][B]EPT1[/B][/COLOR] 
+http://over.ddns.net:65101
+
+#EXTINF:-1, tvg-id="EPT2.gr" tvg-logo=http://over.ddns.net/channels/android/240/ert2.png , group-title="PANELLADIKA", [COLOR deepskyblue][B]EPT2[/B][/COLOR] 
+http://over.ddns.net:65102
+
+#EXTINF:-1, tvg-id="EPT3.gr" tvg-logo=http://over.ddns.net/channels/android/240/ert3.png , group-title="PANELLADIKA", [COLOR deepskyblue][B]EPT3[/B][/COLOR] 
+http://over.ddns.net:65103
+
+#EXTINF:-1, tvg-id="vouli.gr" tvg-logo=http://over.ddns.net/channels/android/240/vouli.png , group-title="PANELLADIKA", [COLOR deepskyblue][B]VOULI[/B][/COLOR]
+ http://over.ddns.net:65104
+
+#EXTINF:-1, tvg-id="alpha.gr" tvg-logo=http://over.ddns.net/channels/android/240/alpha.png , group-title="PANELLADIKA", [COLOR deepskyblue][B]Alpha[/B][/COLOR] 
+http://over.ddns.net:65105
+
+#EXTINF:-1, tvg-id="ant1.gr" tvg-logo=http://over.ddns.net/channels/android/240/ant1new.png , group-title="PANELLADIKA", [COLOR deepskyblue][B]Ant1[/B][/COLOR] 
+http://over.ddns.net:65106
+
+#EXTINF:-1, tvg-id="APT.gr" tvg-logo=http://over.ddns.net/channels/android/240/art.png , group-title="PANELLADIKA", [COLOR deepskyblue][B]ART[/B][/COLOR] 
+http://over.ddns.net:65107
+
+#EXTINF:-1, tvg-id="ETV.gr" tvg-logo=http://over.ddns.net/channels/android/240/epsilon.png , group-title="PANELLADIKA", [COLOR deepskyblue][B]E TV[/B][/COLOR] 
+http://over.ddns.net:65108
+
+#EXTINF:-1, tvg-id="Macedonia.gr" tvg-logo=http://over.ddns.net/channels/android/240/macedonia.png , group-title="PANELLADIKA", [COLOR deepskyblue][B]m. TV[/B][/COLOR]
+ http://over.ddns.net:65109
+
+#EXTINF:-1, tvg-id="mega.gr" tvg-logo=http://over.ddns.net/channels/android/240/meganew.png , group-title="PANELLADIKA", [COLOR deepskyblue][B]MEGA[/B][/COLOR] 
+http://over.ddns.net:65110
+
+#EXTINF:-1, tvg-id="star.gr" tvg-logo=http://over.ddns.net/channels/android/240/star.png , group-title="PANELLADIKA", [COLOR deepskyblue][B]STAR[/B][/COLOR]
+ http://over.ddns.net:65111
+
+#EXTINF:-1, tvg-id="Skai.gr" tvg-logo=http://over.ddns.net/channels/android/240/skai.png , group-title="PANELLADIKA", [COLOR deepskyblue][B]Skai[/B][/COLOR]
+ http://over.ddns.net:65112
+
+#EXTINF:-1, tvg-id="Extra.gr" tvg-logo="http://i.imgur.com/fmrqBcI.jpg", group-title="PANELLADIKA", [COLOR deepskyblue][B]Extra[/B][/COLOR]
+rtmp://213.16.167.186:1935/live/mpegts_256.stream
+
+#EXTINF:-1, tvg-id="Kontra.gr" tvg-logo="http://i.imgur.com/GlLp3Ic.jpg", group-title="PANELLADIKA", [COLOR deepskyblue][B]Kontra Channel[/B][/COLOR]
+http://flashcloud.mediacdn.com/live/kontratv/.m3u8
+
+#EXTINF:-1, tvg-logo="http://i.imgur.com/76rbwGE.jpg",group-title="PANELLADIKA", [COLOR deepskyblue][B]TV-100[/B][/COLOR]
+http://178.62.176.153:1935/TV100/myStream/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="http://i.imgur.com/ZXBfth7.jpg", group-title="PANELLADIKA", [COLOR deepskyblue][B]BERGINA[/B][/COLOR]
+http://195.81.140.80:1935/live/VerginaStream1/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="http://i.imgur.com/Eo9S53w.jpg", group-title="PANELLADIKA", [COLOR deepskyblue][B]EUROPE ONE[/B][/COLOR]
+ http://iphone-streaming.ustream.tv/uhls/12548227/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1,[COLOR blue][B]» » PERIFEREIAKA « «[/B][/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1, tvg-logo="http://i.imgur.com/xTy0Qww.gif", group-title="PERIFEREIAKA", [COLOR blue][B]SBC[/B][/COLOR]
+ http://xsbcgrx.api.channel.livestream.com/3.0/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="http://i.imgur.com/CzxGu1G.png", group-title="PERIFEREIAKA", [COLOR blue][B]BLUE SKY[/B][/COLOR]
+http://88.198.238.44:1935/live/bluesky/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="http://i.imgur.com/dW08jNe.png", group-title="PERIFEREIAKA", [COLOR blue][B]Zougla TV[/B][/COLOR]
+ http://zouglahd-f.akamaihd.net/i/zougla_1@56341/master.m3u8
+
+#EXTINF:-1, tvg-logo="http://i.imgur.com/vC04gIr.gif", group-title="PERIFEREIAKA", [COLOR blue][B]Lampsi TV[/B][/COLOR]
+http://176.9.25.17:1935/LampsiTV/LampsiTV/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="http://i.imgur.com/6xRxPun.png" , group-title="PERIFEREIAKA", [COLOR blue][B]TV GOLD[/B][/COLOR]
+mms://tvgold.webcast.mediacdn.com/tvgold
+
+#EXTINF:-1, tvg-logo="http://i.imgur.com/cF6mgTb.png" , group-title="PERIFEREIAKA", [COLOR blue][B]MPAXALO TV[/B][/COLOR]
+http://xmpaxalotv1x.api.channel.livestream.com/3.0/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="http://i.imgur.com/Fs1wQbm.png", group-title="PERIFEREIAKA", [COLOR blue][B]HELLAS TV[/B][/COLOR]
+http://176.9.123.140:1935/hellastv/_definst_/mp4:stream/master.m3u8
+
+#EXTINF:-1, tvg-logo="http://i.imgur.com/PvFxL49.png", group-title="PERIFEREIAKA", [COLOR blue][B]TINOS TV[/B][/COLOR] 
+http://iphone-streaming.ustream.tv/uhls/20905250/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="http://i.imgur.com/iOv12tV.png", group-title="PERIFEREIAKA", [COLOR blue][B]DIKTYO TV[/B][/COLOR]
+ http://iphone-streaming.ustream.tv/uhls/2785459/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="http://i.imgur.com/QTqlToQ.png", group-title="PERIFEREIAKA", [COLOR blue][B]ENA CHANNEL[/B][/COLOR]
+http://wpc.68fc.edgecastcdn.net/hls-live/2068FC/ena-channel-live/video/video.m3u8
+
+#EXTINF:-1, tvg-logo="http://i.imgur.com/5GXo7d3.png", group-title="PERIFEREIAKA", [COLOR blue][B]R CHANNEL[/B][/COLOR]
+http://94.23.218.186:1935/kanali5/kanali5/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="http://i.imgur.com/A5ty4Az.png", group-title="PERIFEREIAKA", [COLOR blue][B]STAR B.E.[/B][/COLOR]
+mmsh://radiofeeds1.mediabox.gr/startv
+
+#EXTINF:-1, tvg-logo="http://i.imgur.com/WXlf12i.png", group-title="PERIFEREIAKA", [COLOR blue][B]THRAKI NET[/B][/COLOR]
+http://hls.onestreaming.com:1935/live/thrakinettv/master.m3u8
+
+#EXTINF:-1, tvg-logo="http://i.imgur.com/PNlJ9g5.png", group-title="PERIFEREIAKA", [COLOR blue][B]TV EPILOGES[/B][/COLOR]
+http://www.ustream.tv/channel/14718903
+
+#EXTINF:-1, tvg-logo="http://i.imgur.com/5fAgbi5.png", group-title="PERIFEREIAKA", [COLOR blue][B] DELTA TV[/B][/COLOR]
+mms://deltatv1.dyndns.org:1194
+
+#EXTINF:-1, tvg-logo="http://i.imgur.com/MVrLjre.png", group-title="PERIFEREIAKA", [COLOR blue][B]TOP CHANNEL[/B][/COLOR] 
+http://iphone-streaming.ustream.tv/uhls/18640065/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="http://i.imgur.com/RW83YYe.png", group-title="PERIFEREIAKA", [COLOR blue][B]AXELWOS TV[/B][/COLOR]
+http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8
+
+#EXTINF:-1, tvg-id="IPIROSTV.gr" tvg-logo="http://i.imgur.com/Gi8YadR.png", group-title="PERIFEREIAKA", [COLOR blue][B]Epirus TV1[/B][/COLOR]
+http://xepirustv1livex.api.channel.livestream.com/3.0/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="http://i.imgur.com/sJ4xLl0.png", group-title="PERIFEREIAKA", [COLOR blue][B]Start TV[/B][/COLOR]
+http://94.23.218.186:1935/StartMedia/StartMedia/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="http://i.imgur.com/DFeXxxO.png", group-title="PERIFEREIAKA", [COLOR blue][B]astra TV[/B][/COLOR]
+http://www.astratv.gr:8090/hls/livestream.m3u8
+
+#EXTINF:-1, tvg-logo="http://i.imgur.com/nAzfWx5.png", group-title="PERIFEREIAKA", [COLOR blue][B]TRT TV[/B][/COLOR]
+http://xelladalivex.api.channel.livestream.com/3.0/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="http://i.imgur.com/581FocM.png", group-title="PERIFEREIAKA", [COLOR blue][B]E[/B][/COLOR]
+http://176.9.30.75:1935/live/epsilon/master.m3u8
+
+#EXTINF:-1, tvg-logo="http://i.imgur.com/Hpu1DhY.png", group-title="PERIFEREIAKA", [COLOR blue][B]BEST TV[/B][/COLOR]
+http://hls.onestreaming.com:1935/live/besttv/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="http://i.imgur.com/MgxJjAV.png", group-title="PERIFEREIAKA", [COLOR blue][B]LEPANTO[/B][/COLOR]
+http://78.129.184.15:33102/streaming/stream/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="http://i.imgur.com/Glp0YiN.png", group-title="PERIFEREIAKA", [COLOR blue][B]LYCHNOS[/B][/COLOR]
+http://erato.multiserver.gr:1935/imp/imp/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="http://i.imgur.com/jYdwvZB.png", group-title="PERIFEREIAKA", [COLOR blue][B]AIGAIOTV[/B][/COLOR]
+http://xaigaiotelevisionx.api.channel.livestream.com/3.0/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="http://i.imgur.com/7o98X3F.png", group-title="PERIFEREIAKA",[COLOR blue][B]OMEGA[/B][/COLOR]
+http://stream2.omegatv.net/hls-live/livepkgr/_definst_/liveevent/omegatv.m3u8
+
+#EXTINF:-1, tvg-logo="http://i.imgur.com/ENwk1Qq.png", group-title="PERIFEREIAKA",[COLOR blue][B]SAMIAKI TV[/B][/COLOR]
+rtmp://94.23.218.186/samiaki/samiaki
+
+#EXTINF:-1, tvg-logo="http://i.imgur.com/mAhkgEw.png", group-title="PERIFEREIAKA",[COLOR blue][B]TV1[/B][/COLOR]
+http://176.9.123.140:1935/msg116s/msg116s/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="http://i.imgur.com/z9YLCnG.png", group-title="PERIFEREIAKA",[COLOR blue][B]TV MYTILINI[/B][/COLOR]
+rtmp://cp77174.live.edgefcs.net/live/123456@19937
+
+#EXTINF:-1, tvg-logo="http://i.imgur.com/dPYhckT.png", group-title="PERIFEREIAKA",[COLOR blue][B]TV EPILOGES[/B][/COLOR] 
+http://iphone-streaming.ustream.tv/uhls/14718903/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="http://i.imgur.com/M1vn8hv.png", group-title="PERIFEREIAKA",[COLOR blue][B]EBS[/B][/COLOR]
+http://ott.ec.streamcloud.be/live/disk1/EBS/hls_el/EBS-audio_AACL_ell_66400_207=66400-video=800000.m3u8#
+
+#EXTINF:-1, tvg-logo="http://i.imgur.com/n907AGO.png", group-title="PERIFEREIAKA",[COLOR blue][B]EBS PLUS[/B][/COLOR]
+http://ott.ec.streamcloud.be/live/disk1/EBSplus/hls_el/EBSplus-audio_AACL_ell_66400_407=66400-video=800000.m3u8
+
+#EXTINF:-1, tvg-logo="http://i.imgur.com/ZVmCknP.png", group-title="PERIFEREIAKA",[COLOR blue][B]ELLINIKOSFM TV[/B][/COLOR]
+http://o98d0njv.blue.onyxservers.com/hls-live/livepkgr/_definst_/liveevent/EllinikosFM.m3u8
+
+#EXTINF:-1, tvg-logo="http://i.imgur.com/H9IxXkX.png", group-title="PERIFEREIAKA",[COLOR blue][B]ERT PROSEXOS[/B][/COLOR]
+ http://nerit3-lh.akamaihd.net/i/prosexos_1@48667/master.m3u8
+
+#EXTINF:-1, tvg-logo="http://i.imgur.com/QUYJeJ5.png", group-title="PERIFEREIAKA",[COLOR blue][B]MAKELEIO TV[/B][/COLOR]
+ http://makeliolive-lh.akamaihd.net/i/event_1@167269/master.m3u8
+
+#EXTINF:-1, tvg-logo="http://i.imgur.com/lF7tUV8.png", group-title="PERIFEREIAKA",[COLOR blue][B]MANA ELLADA TV[/B][/COLOR]
+ http://iphone-streaming.ustream.tv/uhls/17099727/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="http://i.imgur.com/nwInqes.png", group-title="PERIFEREIAKA",[COLOR blue][B]messinia WEBTV[/B][/COLOR]
+http://176.9.123.140:1935/messinia/messinia/master.m3u8
+
+#EXTINF:-1, tvg-logo="http://i.imgur.com/0Ovqq2f.png", group-title="PERIFEREIAKA",[COLOR blue][B]TILESPORT[/B][/COLOR]
+rtmp://78.47.151.114/tilesport/movie1
+
+#EXTINF:-1, tvg-logo="http://i.imgur.com/uet8P2n.jpg", group-title="PERIFEREIAKA",[COLOR blue][B]WZRA[/B][/COLOR]
+http://iphone-streaming.ustream.tv/uhls/1989576/streams/live/iphone/playlist.m3u8
+
+#EXTINF:0, group-title="PERIFEREIAKA",[COLOR blue][B]NATURA CINEMA[/B][/COLOR]
+http://xnaturatv1x.api.channel.livestream.com/3.0/playlist.m3u8
+
+#EXTINF:0, group-title="PERIFEREIAKA",[COLOR blue][B]FAROS WEB TV[/B][/COLOR]
+http://xwebtvfarosx.api.channel.livestream.com/3.0/playlist.m3u8
+
+#EXTINF:0, group-title="PERIFEREIAKA",[COLOR blue][B]VOICE OF GOD[/B][/COLOR]
+mmsh://media.voiceofgod.gr/VoiceofGod300GR
+
+#EXTINF:0, group-title="PERIFEREIAKA",[COLOR blue][B]FOS[/B][/COLOR]
+http://wm1.gmlogic.com/ch-patra?ovpsv=2.3.1.0
+
+#EXTINF:0, group-title="PERIFEREIAKA",[COLOR blue][B]AGIOS NIKOLAOS CINCINATI WEB TV[/B][/COLOR]
+rtmp://fls.8.c3.audiovideoweb.com:443/live/il81flslive3150
+
+#EXTINF:0, group-title="PERIFEREIAKA",[COLOR blue][B]AGIOS NIKOLAOS MICHIGAN WEB TV[/B][/COLOR]
+http://greekhls-lh.akamaihd.net/i/stnicholas_mi@98986/master.m3u8
+
+#EXTINF:-1,[COLOR cyan][B]» » KRHTIKA « «[/B][/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1, tvg-id="KritiTV.gr" tvg-logo="http://i.imgur.com/gN761Me.png", group-title="KRHTIKA", [COLOR cyan][B]KPHTH TV[/B][/COLOR]
+http://live.cretetv.gr:1935/cretetv/myStream/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="http://i.imgur.com/JnKysEY.png", group-title="KRHTIKA", [COLOR cyan][B]NEA TV[/B][/COLOR]
+http://srv.viiideo.gr:1935/neatv/live/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="http://i.imgur.com/dzR618m.png", group-title="KRHTIKA", [COLOR cyan][B]TV CRETA[/B][/COLOR]
+http://srv.viiideo.gr:1935/tvcreta/live/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="http://i.imgur.com/sbKOMEv.png", group-title="KRHTIKA", [COLOR cyan][B]KYDON[/B][/COLOR] 
+http://iphone-streaming.ustream.tv/uhls/9461248/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="http://i.imgur.com/nSIaZhH.png", group-title="KRHTIKA", [COLOR cyan][B]CRETA TV[/B][/COLOR]
+http://94.23.218.186:1935/cretatv/cretatv/playlist.m3u8
+
+
+#EXTINF:-1,[COLOR lime][B]» » PAIDIKA « «[/B][/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1, tvg-id="BabyTV.gr" tvg-logo=http://bit.ly/1YntdRJ , group-title="PAIDIKA", [COLOR lime][B]JimJam[/B][/COLOR]
+ http://over.ddns.net:65201
+
+#EXTINF:-1 tvg-id="DisneyJunior.gr" tvg-logo=http://bit.ly/1qBVKIE , group-title="PAIDIKA",[COLOR lime][B]Disney Junior GR[/B][/COLOR] 
+http://over.ddns.net:65202
+
+#EXTINF:-1, tvg-id="DisneyChannel.gr" tvg-logo=http://bit.ly/1SXUJno , group-title="PAIDIKA",[COLOR lime][B]nickelodeon US[/B][/COLOR]
+ http://over.ddns.net:65209
+
+#EXTINF:-1, tvg-logo=http://i.imgur.com/UKdSX5z.png, group-title="PAIDIKA", [COLOR lime][B]WZRA KIDS[/B][/COLOR]
+ mmsh://wpso.com:200/kids
+
+#EXTINF:-1,[COLOR yellow][B]» » MOYSIKA « «[/B][/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1, tvg-id="MADTV.gr" tvg-logo=http://over.ddns.net/channels/android/240/mad.png , group-title="MOYSIKA", [COLOR yellow][B]MAD GR[/B][/COLOR] 
+http://over.ddns.net:65213
+
+#EXTINF:-1, tvg-logo="http://i.imgur.com/njCyV7W.jpg", group-title="MOYSIKA", [COLOR yellow][B] JayzeeHD[/B][/COLOR]
+http://77.92.76.135:1935/jayzee/livestream/master.m3u8
+
+#EXTINF:-1, tvg-logo="http://i.imgur.com/sepsdxn.png", group-title="MOYSIKA", [COLOR yellow][B] THEMA TV[/B][/COLOR]
+http://5.196.92.57/webtv/medium.m3u8
+
+#EXTINF:1, tvg-logo=, group-title="MOYSIKA", [COLOR yellow][B]THLE MOUSIKH GR[/B][/COLOR]
+mmsh://wpso.com:200/music
+
+#EXTINF:1, tvg-logo=http://bit.ly/1oTPyKG, group-title="MOYSIKA", [COLOR yellow][B]RYTHMOS FM WEB TV[/B][/COLOR]
+http://rythmostv-lh.akamaihd.net/i/live_1@334551/master.m3u8
+
+#EXTINF:1, tvg-logo=http://bit.ly/1VjIrt0, group-title="MOYSIKA", [COLOR yellow][B]KLIK FM WEB TV[/B][/COLOR]
+http://smooth2.istoikona.net:1935/live/klikfm/master.m3u8
+
+#EXTINF:1, tvg-logo=http://bit.ly/25WZKnh, group-title="MOYSIKA", [COLOR yellow][B]RADIO VERENIKI WEB TV[/B][/COLOR]
+http://iphone-streaming.ustream.tv/uhls/7948248/streams/live/iphone/playlist.m3u8
+
+#EXTINF:1, tvg-logo=http://bit.ly/23AV9VS, group-title="MOYSIKA", [COLOR yellow][B]RYTHMOS 94.3 WEB TV[/B][/COLOR]
+http://rythmoscam.dyndns.org:1935/live/myStream/master.m3u8
+
+#EXTINF:-1, tvg-logo=http://bit.ly/1qgZrTw, group-title="MOYSIKA", [COLOR yellow][B]DJING Animation HD (Music) (US)[/B][/COLOR] 
+http://www.djing.com/tv/a-05.m3u8
+
+#EXTINF:-1, tvg-logo=http://bit.ly/1XpfMkd, group-title="MOYSIKA", [COLOR yellow][B]DJING Classic HD (Music) (US)[/B][/COLOR] 
+http://www.djing.com/tv/i-05.m3u8
+
+#EXTINF:-1, tvg-logo=http://bit.ly/1XpfMkd, group-title="MOYSIKA", [COLOR yellow][B]DJING Dancefloor HD (Music) (US)[/B][/COLOR] 
+http://www.djing.com/tv/d-05.m3u8
+
+#EXTINF:-1, tvg-logo=http://bit.ly/1VgZSuj, group-title="MOYSIKA", [COLOR yellow][B]DJING Underground HD (Music) (US)[/B][/COLOR] 
+http://www.djing.com/tv/u-05.m3u8
+
+#EXTINF:-1, tvg-logo=http://bit.ly/1WlLX5E, group-title="MOYSIKA", [COLOR yellow][B]VEVO 1 HD (Music) (US)[/B][/COLOR]
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+
+#EXTINF:-1, tvg-logo=http://bit.ly/1WlLX5E, group-title="MOYSIKA", [COLOR yellow][B]VEVO 2 (Music) (US)[/B][/COLOR] 
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+
+#EXTINF:-1, tvg-logo=http://bit.ly/1WlLX5E, group-title="MOYSIKA", [COLOR yellow][B]VEVO 3 HD (Music) (US)[/B][/COLOR] 
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+
+#EXTINF:-1,[COLOR orange][B]» » KYPRIAKA « «[/B][/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1, tvg-id="Rik1.gr" tvg-logo=http://over.ddns.net/channels/android/240/rik1.png , group-title="KYPRIAKA", [COLOR orange][B]PIK1[/B][/COLOR] 
+http://over.ddns.net:65113
+
+#EXTINF:-1, tvg-id="Rik2.gr" tvg-logo=http://over.ddns.net/channels/android/240/rik2.png , group-title="KYPRIAKA", [COLOR orange][B]PIK2[/B][/COLOR] 
+http://over.ddns.net:65114
+
+#EXTINF:-1, tvg-id="Sigma.gr" tvg-logo=http://over.ddns.net/channels/android/240/sigma.png , group-title="KYPRIAKA", [COLOR orange][B]SIGMA[/B][/COLOR]
+ http://over.ddns.net:65115
+
+#EXTINF:-1, tvg-id="Ant1CY.gr" tvg-logo=http://over.ddns.net/channels/android/240/ant1new.png , group-title="KYPRIAKA", [COLOR orange][B]Ant1CY[/B][/COLOR]
+ http://over.ddns.net:65116
+
+#EXTINF:-1, tvg-id="MegaCY.gr" tvg-logo=http://over.ddns.net/channels/android/240/meganew.png , group-title="KYPRIAKA", [COLOR orange][B]MegaCY[/B][/COLOR]
+ http://over.ddns.net:65117
+
+#EXTINF:-1, tvg-id="" tvg-logo=http://over.ddns.net/channels/android/240/capital.png , group-title="KYPRIAKA", [COLOR orange][B]CAPITAL[/B][/COLOR]
+ http://over.ddns.net:65118
+
+#EXTINF:-1, tvg-id="ExtraCY.gr" tvg-logo=http://over.ddns.net/channels/android/240/extra.png , group-title="KYPRIAKA", [COLOR orange][B]EXTRA[/B][/COLOR]
+ http://over.ddns.net:65119
+
+#EXTINF:-1, tvg-id="PlustvCY.gr" tvg-logo=http://over.ddns.net/channels/android/240/plus.png , group-title="KYPRIAKA", [COLOR orange][B]PLUS.[/B][/COLOR]
+ http://over.ddns.net:65120
+
+#EXTINF:-1, tvg-logo="http://i.imgur.com/imgHmLP.png" , group-title="KYPRIAKA", [COLOR orange][B]MAD CY[/B][/COLOR]
+rtmp://eradio.networksolutions.com.cy/live/livestream
+
+#EXTINF:-1,[COLOR mediumslateblue][B]» » SYNDROMHTIKA « «[/B][/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1, tvg-id="natgeo.gr" tvg-logo=http://over.ddns.net/channels/android/240/natgeo.png , group-title="SYNDROMHTIKA", [COLOR mediumslateblue][B]National Geographic RU[/B][/COLOR]
+ http://over.ddns.net:65203
+
+#EXTINF:-1, tvg-id="discovery.gr" tvg-logo=http://over.ddns.net/channels/android/240/discovery.png , group-title="SYNDROMHTIKA", [COLOR mediumslateblue][B]Discovery Channel RU[/B][/COLOR]
+ http://over.ddns.net:65204
+
+#EXTINF:-1, tvg-id="TheHistoryChannel.gr" tvg-logo=http://over.ddns.net/channels/android/240/history.png , group-title="SYNDROMHTIKA", [COLOR mediumslateblue][B]History[/B][/COLOR]
+ http://over.ddns.net:65205
+
+#EXTINF:-1, tvg-id="FOX.gr" tvg-logo=http://over.ddns.net/channels/android/240/fox.png , group-title="SYNDROMHTIKA", [COLOR mediumslateblue][B]Fox[/B][/COLOR]
+ http://over.ddns.net:65206
+
+#EXTINF:-1, tvg-id="Foxlife.gr" tvg-shift="-1" tvg-logo=http://over.ddns.net/channels/android/240/foxlife.png , group-title="SYNDROMHTIKA",[COLOR mediumslateblue][B]FOXLIFE[/B][/COLOR]
+ http://over.ddns.net:65207
+
+#EXTINF:-1, tvg-id="DiscoveryID.gr" tvg-logo=http://over.ddns.net/channels/android/240/id.png , group-title="SYNDROMHTIKA", [COLOR mediumslateblue][B]Discovery IDX[/B][/COLOR] 
+http://over.ddns.net:65208
+
+#EXTINF:-1, tvg-id="animalplanet.gr" tvg-logo=http://over.ddns.net/channels/android/240/animal.png , group-title="SYNDROMHTIKA", [COLOR mediumslateblue][B]Animal Planet[/B][/COLOR] 
+http://over.ddns.net:65210
+
+#EXTINF:-1, tvg-id="NatGeoWild.gr" tvg-logo=http://over.ddns.net/channels/android/240/natgeowild.png , group-title="SYNDROMHTIKA", [COLOR mediumslateblue][B]Nat Geo Wild[/B][/COLOR] 
+http://over.ddns.net:65211
+
+#EXTINF:-1, tvg-id="NovaCinema1.gr" tvg-logo=http://i.imgur.com/xdhrwic.png , group-title="SYNDROMHTIKA", [COLOR mediumslateblue][B]NovaCinema1[/B][/COLOR] 
+http://38.140.63.250:1935/gr-live/filmnet.sdp/playlist.m3u8
+
+#EXTINF:-1, tvg-id="NovaCinema2.gr" tvg-logo=http://i.imgur.com/X4grIgU.png , group-title="SYNDROMHTIKA", [COLOR mediumslateblue][B]NovaCinema2[/B][/COLOR]
+ http://38.140.63.250:1935/gr-live/net.sdp/playlist.m3u8
+
+#EXTINF:-1 , tvg-id="NovaSports1.gr" tvg-logo=http://i.imgur.com/Ss3BaEp.png , group-title="SYNDROMHTIKA", [COLOR mediumslateblue][B]NovaSports1[/B][/COLOR]
+ http://38.140.63.250:1935/gr-live/sport1.sdp/playlist.m3u8
+
+#EXTINF:-1,  tvg-id="NovaSports2.gr" tvg-logo=http://i.imgur.com/d4MQwI3.png , group-title="SYNDROMHTIKA", [COLOR mediumslateblue][B]NovaSports2[/B][/COLOR]
+ http://38.140.63.250:1935/gr-live/sport2.sdp/playlist.m3u8
+
+#EXTINF:-1, tvg-id="NovaSports3.gr" tvg-logo=http://i.imgur.com/6hnfxnQ.png , group-title="SYNDROMHTIKA", [COLOR mediumslateblue][B]NovaSports3[/B][/COLOR]
+ http://38.140.63.250:1935/gr-live/alter.sdp/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Euronews.nws" tvg-logo=http://bit.ly/1oemMUD, group-title="SYNDROMHTIKA", [COLOR mediumslateblue][B]EuroNews[/B][/COLOR] 
+rtsp://ewns-hls-p-stream.hexaglobe.net/rtpeuronewslive/gr_vidan350_rtp.sdp
+
+#EXTINF:-1,[COLOR lavenderblush][B]» » TAINIES « «[/B][/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1, tvg-id="" tvg-logo=http://over.ddns.net/channels/android/240/cinema.png , group-title="TAINIES", [COLOR lavenderblush][B]CINEMA 1[/B][/COLOR]
+ http://over.ddns.net:65301
+
+#EXTINF:-1, tvg-id="" tvg-logo=http://over.ddns.net/channels/android/240/cinema.png , group-title="TAINIES", [COLOR lavenderblush][B]CINEMA 2[/B][/COLOR]
+ http://over.ddns.net:65302
+
+#EXTINF:-1, tvg-id="" tvg-logo=http://over.ddns.net/channels/android/240/cinema.png , group-title="TAINIES", [COLOR lavenderblush][B]CINEMA 3[/B][/COLOR] 
+http://over.ddns.net:65303
+
+#EXTINF:-1, tvg-id="" tvg-logo=http://over.ddns.net/channels/android/240/cinema.png , group-title="TAINIES", [COLOR lavenderblush][B]CINEMA 4[/B][/COLOR]
+ http://over.ddns.net:65304
+
+#EXTINF:-1, tvg-id="" tvg-logo=http://over.ddns.net/channels/android/240/cinema.png , group-title="TAINIES", [COLOR lavenderblush][B]CINEMA 5[/B][/COLOR]
+ http://over.ddns.net:65305
+
+#EXTINF:-1, tvg-id="" tvg-logo=http://over.ddns.net/channels/android/240/cinema.png , group-title="TAINIES", [COLOR lavenderblush][B]CINEMA 6[/B][/COLOR]
+ http://over.ddns.net:65306
+
+#EXTINF:-1, tvg-id="" tvg-logo=http://over.ddns.net/channels/android/240/cinema.png , group-title="TAINIES", [COLOR lavenderblush][B]CINEMA 7[/B][/COLOR]
+ http://over.ddns.net:65307
+
+#EXTINF:-1, tvg-id="" tvg-logo=http://over.ddns.net/channels/android/240/cinema.png , group-title="TAINIES", [COLOR lavenderblush][B]CINEMA 8[/B][/COLOR]
+ http://over.ddns.net:65308
+
+#EXTINF:-1,[COLOR yellowgreen][B]» » ATHLHTIKA « «[/B][/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1, tvg-id="" tvg-logo=https://goo.gl/PfMyhH , group-title="ATHLHTIKA", [COLOR yellowgreen][B]Arenavision 1/2[/B][/COLOR] 
+http://over.ddns.net:65401
+
+#EXTINF:-1, tvg-id="" tvg-logo=https://goo.gl/PfMyhH , group-title="ATHLHTIKA", [COLOR yellowgreen][B]Arenavision 3/4[/B][/COLOR]
+http://over.ddns.net:65402
+
+#EXTINF:-1, tvg-id="" tvg-logo=http://over.ddns.net/channels/android/240/joker.png , group-title="ATHLHTIKA", [COLOR yellowgreen][B]SPORTS 3[/B][/COLOR] 
+http://over.ddns.net:65403
+
+#EXTINF:-1, tvg-id="" tvg-logo=https://goo.gl/PfMyhH , group-title="ATHLHTIKA", [COLOR yellowgreen][B]Arenavision 7/8[/B][/COLOR]
+ http://over.ddns.net:65404
+
+#EXTINF:-1, tvg-id="" tvg-logo=https://goo.gl/PfMyhH , group-title="ATHLHTIKA", [COLOR yellowgreen][B]Arenavision 9/10[/B][/COLOR] 
+http://over.ddns.net:65405
+
+#EXTINF:-1, tvg-id="" tvg-logo=https://goo.gl/PfMyhH , group-title="ATHLHTIKA", [COLOR yellowgreen][B]Arenavision 11/12[/B][/COLOR]
+ http://over.ddns.net:65406
+
+#EXTINF:-1, tvg-id="" tvg-logo=http://over.ddns.net/channels/android/240/joker.png , group-title="ATHLHTIKA", [COLOR yellowgreen][B]SPORTS 7[/B][/COLOR] 
+http://over.ddns.net:65407
+
+#EXTINF:-1, tvg-id="" tvg-logo=https://goo.gl/PfMyhH , group-title="ATHLHTIKA", [COLOR yellowgreen][B]Arenavision 14/15[/B][/COLOR] 
+http://over.ddns.net:65408
+
+#EXTINF:-1, tvg-id="" tvg-logo=https://goo.gl/PfMyhH , group-title="ATHLHTIKA", [COLOR yellowgreen][B]Arenavision 16[/B][/COLOR] 
+http://over.ddns.net:65409
+
+#EXTINF:-1, tvg-id="" tvg-logo=http://over.ddns.net/channels/android/240/joker.png , group-title="ATHLHTIKA", [COLOR yellowgreen][B]SPORTS 10[/B][/COLOR]
+http://over.ddns.net:65410
+
+#EXTINF:-1, tvg-id="" tvg-logo=https://goo.gl/PfMyhH , group-title="ATHLHTIKA", [COLOR yellowgreen][B]Arenavision 18[/B][/COLOR] 
+http://over.ddns.net:65411
+
+#EXTINF:-1, tvg-id="" tvg-logo=https://goo.gl/PfMyhH , group-title="ATHLHTIKA", [COLOR yellowgreen][B]Arenavision 19/20[/B][/COLOR]
+http://over.ddns.net:65412
+
+#EXTINF:-1,[COLOR red][B]» » EFEDRIKA « «[/B][/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1, tvg-id="EPT1.gr" tvg-logo=http://i.imgur.com/nbS3IKQ.png , group-title="EFEDRIKA", [COLOR red][B]EPT1 BUP 1[/B][/COLOR] 
+http://38.140.63.250:1935/gr-live/et1.sdp/playlist.m3u8
+
+#EXTINF:-1, tvg-id="EPT1.gr" tvg-logo="http://i.imgur.com/nbS3IKQ.png", group-title="EFEDRIKA", [COLOR red][B]EPT1 BUP 2[/B][/COLOR]
+ http://nerit1-lh.akamaihd.net/i/nerit_1@120689/master.m3u8
+
+#EXTINF:-1, tvg-id="EPT2.gr" tvg-logo="http://i.imgur.com/gCFl7VI.png", group-title="EFEDRIKA", [COLOR red][B]EPT2 BUP 1[/B][/COLOR]
+ http://38.140.63.250:1935/gr-live/neritplus.sdp/playlist.m3u8
+
+#EXTINF:-1, tvg-id="EPT2.gr" tvg-logo="http://i.imgur.com/gCFl7VI.png", group-title="EFEDRIKA", [COLOR red][B]EPT2 BUP 2[/B][/COLOR]
+ http://nerit2-lh.akamaihd.net/i/neritplus_1@121149/master.m3u8
+
+#EXTINF:-1, tvg-id="EPT3.gr" tvg-logo="http://i.imgur.com/0Oz56bA.png", group-title="EFEDRIKA", [COLOR red][B]EPT3 BUP 1[/B][/COLOR]
+ http://ert3-lh.akamaihd.net/i/live_1@329806/master.m3u8
+
+#EXTINF:-1, tvg-id="mega.gr" tvg-logo="http://i.imgur.com/tSNcPRn.gif", group-title="EFEDRIKA", [COLOR red][B]MEGA BUP 1[/B][/COLOR]
+ http://38.140.63.250:1935/gr-live/mega.sdp/playlist.m3u8
+
+#EXTINF:-1, tvg-id="mega.gr" tvg-logo="http://i.imgur.com/tSNcPRn.gif", group-title="EFEDRIKA", [COLOR red][B]MEGA BUP 2[/B][/COLOR] 
+http://megahdlive1-f.akamaihd.net/i/live_1@105260/master.m3u8
+
+#EXTINF:-1, tvg-id="mega.gr" tvg-logo="http://i.imgur.com/tSNcPRn.gif", group-title="EFEDRIKA", [COLOR red][B]MEGA BUP 3[/B][/COLOR]
+ http://94.23.218.186:1935/galanos11/galanos11/playlist.m3u8
+
+#EXTINF:-1, tvg-id="ant1.gr" tvg-logo="http://i.imgur.com/Pk6b6et.png", group-title="EFEDRIKA", [COLOR red][B]Ant1 BUP 1[/B][/COLOR]
+ http://38.140.63.250:1935/gr-live/ant1.sdp/playlist.m3u8
+
+#EXTINF:-1, tvg-id="ant1.gr" tvg-logo="http://i.imgur.com/Pk6b6et.png", group-title="EFEDRIKA", [COLOR red][B]Ant1 BUP 2[/B][/COLOR]
+ http://antennatv-lh.akamaihd.net/i/live_1@329667/master.m3u8
+
+#EXTINF:-1, tvg-id="ant1.gr" tvg-logo="http://i.imgur.com/Pk6b6et.png", group-title="EFEDRIKA", [COLOR red][B]Ant1 BUP 3[/B][/COLOR] 
+http://94.23.218.186:1935/galanos3/galanos3/playlist.m3u8
+
+#EXTINF:-1, tvg-id="alpha.gr" tvg-logo="http://i.imgur.com/UzJNech.png",  group-title="EFEDRIKA", [COLOR red][B]Alpha BUP 1[/B][/COLOR]
+ http://38.140.63.250:1935/gr-live/alpha.sdp/playlist.m3u8
+
+#EXTINF:-1, tvg-id="alpha.gr" tvg-logo="http://i.imgur.com/UzJNech.png", group-title="EFEDRIKA", [COLOR red][B]Alpha BUP 2[/B][/COLOR]
+ http://alfakanali-lh.akamaihd.net/i/live_1@90368/master.m3u8
+
+#EXTINF:-1, tvg-id="star.gr" tvg-logo="http://i.imgur.com/30uLkyA.png", group-title="EFEDRIKA", [COLOR red][B]STAR BUP 1[/B][/COLOR]
+ http://38.140.63.250:1935/gr-live/star.sdp/playlist.m3u8
+
+#EXTINF:-1, tvg-id="star.gr" tvg-logo="http://i.imgur.com/30uLkyA.png", group-title="EFEDRIKA", [COLOR red][B]STAR BUP 2[/B][/COLOR]
+ http://starhdlive2-lh.akamaihd.net/i/live_1@181243/master.m3u8
+
+#EXTINF:-1, tvg-id="star.gr" tvg-logo="http://i.imgur.com/30uLkyA.png", group-title="EFEDRIKA", [COLOR red][B]STAR BUP 3[/B][/COLOR] 
+http://94.23.218.186:1935/galanos2/galanos2/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Skai.gr" tvg-logo="http://i.imgur.com/xYOQeIj.png", group-title="EFEDRIKA", [COLOR red][B]Skai BUP 1[/B][/COLOR]
+ http://38.140.63.250:1935/gr-live/skai.sdp/playlist.m3u8
+
+#EXTINF:-1, tvg-id="ETV.gr" tvg-logo="http://i.imgur.com/fojL2bG.png", group-title="EFEDRIKA", [COLOR red][B]E TV BUP 1[/B][/COLOR]
+http://38.140.63.250:1935/gr-live/otesport5.sdp/playlist.m3u8
+
+#EXTINF:-1, tvg-id="ETV.gr" tvg-logo="http://i.imgur.com/fojL2bG.png", group-title="EFEDRIKA", [COLOR red][B]E TV BUP 2[/B][/COLOR]
+ http://mgrouphdlive4-f.akamaihd.net/i/live_1@324569/master.m3u8
+
+#EXTINF:-1, tvg-id="Macedonia.gr" tvg-logo="http://i.imgur.com/wCnAUot.png", group-title="EFEDRIKA", [COLOR red][B]m.TV BUP 1[/B][/COLOR]
+ http://stream.maktv.gr/i/live_1@332903/master.m3u8
+
+#EXTINF:-1, tvg-logo="http://i.imgur.com/Comxiil.png", group-title="EFEDRIKA", [COLOR red][B]ART BUP 1[/B][/COLOR] 
+https://video02-atl.streamup.com/app/artthleorashs-channel/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="http://i.imgur.com/Pk6b6et.png", group-title="EFEDRIKA", [COLOR red][B]ANT1 CY BUP 1[/B][/COLOR]
+ rtmp://46.21.53.171/iwohttporigin/mp4:livestream
+
+#EXTINF:-1, tvg-logo="http://i.imgur.com/Pk6b6et.png", group-title="EFEDRIKA", [COLOR red][B]ANT1 CY BUP 2[/B][/COLOR]
+ http://ant1cypruslive-vh.akamaihd.net/iwohttporigin/livestream/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="http://i.imgur.com/BMvgdlc.png", group-title="EFEDRIKA", [COLOR red][B]SIGMA CY BUP 1[/B][/COLOR]
+ http://81.21.47.74/hls/live.m3u8
+
+#EXTINF:-1, tvg-id="4E.gr" tvg-logo="http://i.imgur.com/yMPAiaq.png", group-title="EFEDRIKA", [COLOR red][B]4E BUP 1[/B][/COLOR]
+ http://82.192.84.30:554/live/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1, tvg-id="4E.gr" tvg-logo="http://i.imgur.com/yMPAiaq.png", group-title="EFEDRIKA", [COLOR red][B]4E BUP 2[/B][/COLOR]
+http://mail.tv4e.gr:1935/live/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1, tvg-id="vouli.gr" tvg-logo="http://i.imgur.com/N1NbcYV.png", group-title="EFEDRIKA", [COLOR red][B]VOULI BUP 1[/B][/COLOR]
+http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
+
+#EXTINF:-1, tvg-id="vouli.gr" tvg-logo="http://i.imgur.com/N1NbcYV.png", group-title="EFEDRIKA", [COLOR red][B]VOULI BUP 2[/B][/COLOR] 
+mms://media19.internet.gr/ParliamentTV-HQ
+
+#EXTINF:-1,[COLOR green][B]» » VOD « «[/B][/COLOR]
+
+#EXTINF:-1,[COLOR purple][B]» » VOD SERIES « «[/B][/COLOR]
+
+#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",[COLOR orangered][B]RADIOS[/B][/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",[COLOR orangered][B]ERT Radios[/B][/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1,PROTO PROGRAMMA 91.6
+http://nerit1radio-lh.akamaihd.net/i/proto_1@123327/master.m3u8
+#EXTINF:-1,DEUTERO PROGRAMMA 102.9
+http://nerit2radio-lh.akamaihd.net/i/deftero_1@123328/master.m3u8
+#EXTINF:-1,TRITO PROGRAMMA 90.9
+http://nerit3radio-lh.akamaihd.net/i/trito_1@123329/master.m3u8
+#EXTINF:-1,ERA SPORT 101.8
+http://erasport-lh.akamaihd.net/i/live_1@326375/master.m3u8
+#EXTINF:-1,KOSMOS 93.6
+http://nerit4radio-lh.akamaihd.net/i/kosmos_1@123354/master.m3u8
+#EXTINF:-1,I FONI TIS ELLADAS 7475
+http://voiceofgreece-lh.akamaihd.net/i/live_1@326376/master.m3u8
+#EXTINF:-1,ERT3 958 95.8
+http://958fm-lh.akamaihd.net/i/live_1@359477/master.m3u8
+#EXTINF:-1,ERT3 A PROGRAMMA 102
+http://neritmakedonia-lh.akamaihd.net/i/radiomakedonia_1@125579/master.m3u8
+#EXTINF:-1,ERTOPEN 106.7
+http://radio.ertopen.com/erasport
+#EXTINF:-1,ERA AIGAIOY
+http://ert_aigaio-lh.akamaihd.net/i/ert_aigaio_1@334602/master.m3u8
+#EXTINF:-1,ERA BOLOY
+http://ert_volos-lh.akamaihd.net/i/ert_volos_1@334604/master.m3u8
+#EXTINF:-1,ERA ZAKYNTHOY
+http://ert_zakinthos-lh.akamaihd.net/i/ert_zakynthos_1@334607/master.m3u8
+#EXTINF:-1,ERA HRAKLEIOY
+http://ert_heraklio-lh.akamaihd.net/i/ert_heraklio_1@334609/master.m3u8
+#EXTINF:-1,ERA IWANNINWN
+http://ert_ioannina-lh.akamaihd.net/i/ert_ioannina_1@334610/master.m3u8
+#EXTINF:-1,ERA KABALAS
+http://ert_kavala-lh.akamaihd.net/i/ert_kavala_1@334611/master.m3u8
+#EXTINF:-1,ERA KALAMATAS
+http://ert_kalamata-lh.akamaihd.net/i/ert_kalamata_1@334612/master.m3u8
+#EXTINF:-1,ERA KERKYRAS
+http://ert_kerkyra-lh.akamaihd.net/i/ert_kerkyra_1@334614/master.m3u8
+#EXTINF:-1,ERA KOZANHS
+http://ert_kozani-lh.akamaihd.net/i/ert_kozani_1@334619/master.m3u8
+#EXTINF:-1,ERA KOMOTHNHS
+http://ert_komotini-lh.akamaihd.net/i/ert_komotini_1@334621/master.m3u8
+#EXTINF:-1,ERA LARISAS
+http://ert_larisa-lh.akamaihd.net/i/ert_larisa_1@334622/master.m3u8
+#EXTINF:-1,ERA ORESTIADAS
+http://ert_orestiada-lh.akamaihd.net/i/ert_orestiada_1@334623/master.m3u8
+#EXTINF:-1,ERA PATRAS
+http://ert_patra-lh.akamaihd.net/i/ert_patra_1@334652/master.m3u8
+#EXTINF:-1,ERA PYRGOY
+http://ert_pyrgos-lh.akamaihd.net/i/ert_pyrgos_1@334654/master.m3u8
+#EXTINF:-1,ERA RODOY
+http://ert_rodos-lh.akamaihd.net/i/ert_rodos_1@334655/master.m3u8
+#EXTINF:-1,ERA SERRWN
+http://ert_serres-lh.akamaihd.net/i/ert_serres_1@334656/master.m3u8
+#EXTINF:-1,ERA TRIPOLHS
+http://ert_tripoli-lh.akamaihd.net/i/ert_tripoli_1@334658/master.m3u8
+#EXTINF:-1,ERA FLWRINAS
+http://ert_florina-lh.akamaihd.net/i/ert_florina_1@334659/master.m3u8
+#EXTINF:-1,ERA XANIWN
+http://ert_chania-lh.akamaihd.net/i/ert_chania_1@334660/master.m3u8
+
+#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",[COLOR orangered][B]Athens Radios[/B][/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1,KPHTH FM 87.5
+http://s3.onweb.gr:8878/
+#EXTINF:-1,EN LEFKO 87.7
+http://stream02.iphost.gr:8000/stream
+#EXTINF:-1,MENTA 88
+http://95.211.207.93/listen/menta
+#EXTINF:-1,UP RADIO 88.6
+http://netradio.live24.gr/886radio
+#EXTINF:-1,HIT FM 88.9
+http://hit889.live24.gr/hit889
+#EXTINF:-1,MUSIC 89.2
+http://mousikokanali1-f.akamaihd.net/i/live_1@73264/master.m3u8
+#EXTINF:-1,ECCLESIA 89.5
+http://85.10.206.222:8002/
+#EXTINF:-1,DROMOS FM 89.8
+http://dromos898.live24.gr/dromos898
+#EXTINF:-1,PARAPOLITIKA FM 90.1
+http://netradio.live24.gr/athinaradio
+#EXTINF:-1,PEIRAIKI EKKLHSIA 91.2
+http://148.251.182.223:8310/;listen.pls
+#EXTINF:-1,KPHTIKH PADIOFWNIA 91.4
+http://46.227.60.32:8072/;
+#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",Galaxy 92 Athens
+http://galaxy.live24.gr/galaxy9292
+
+#EXTINF:-1,LAMPSI FM 92.3
+http://lampsi2-lh.akamaihd.net/i/live_1@324565/master.m3u8
+
+#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",Lampsi 92.3 Athens
+http://91.132.6.21:8005/
+
+#EXTINF:-1,BEST RADIO 92.6
+http://best.live24.gr/best1222
+
+#EXTINF:-1,KISS FM 92.9
+http://kissfm.live24.gr/kiss2111
+
+#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",Kiss 92.9 Athens
+http://kissfm.live24.gr:80/kiss2111
+
+#EXTINF:-1,ELLHINIKOS 93.2
+http://orange.live24.gr/orange9320
+
+#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",Ellinikos 93.2 Athens
+http://orange.live24.gr/orange9320
+
+#EXTINF:-1,RADIO 98 93.8
+http://147.102.82.129:8000/medium
+#EXTINF:-1,NTIRLA 94.3
+http://144.76.84.8:8262/;stream/1
+#EXTINF:-1,OTE SPORT FM 94.6
+http://sportfm.live24.gr/sportfm7712
+#EXTINF:-1,RYTHMOS FM 94.9
+http://rythmos1-lh.akamaihd.net/i/live_1@334542/master.m3u8
+
+#EXTINF:-1,ATHENS DJ 95.2
+http://rdj-lh.akamaihd.net/i/live_1@324558/master.m3u8
+
+#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",Athens DeeJay 95.2 Athens
+http://91.132.6.21:8001/
+#EXTINF:-1,PANIKOS FM 95.4
+http://78.47.96.202:8092/;
+#EXTINF:-1,FLASH FM 96
+http://flash.live24.gr/flash96
+#EXTINF:-1,RED FM 96.3
+http://s7.streammonster.com:8376/;stream.mp3
+#EXTINF:-1,PEPPER FM 96.6
+http://85.17.81.152/listen/pepper
+#EXTINF:-1,ROCK FM 96.9
+http://rockfm-lh.akamaihd.net/i/live_1@324559/master.m3u8
+#EXTINF:-1,EASY FM 97.2
+http://easyhd1-lh.akamaihd.net/i/live_1@363719/master.m3u8
+
+#EXTINF:-1,LOVE RADIO 97.5
+http://loveradio.live24.gr/loveradio-1000
+
+#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",Love Radio 97.5 Athens
+http://loveradio.live24.gr:80/loveradio-1000
+
+#EXTINF:-1,REAL FM 97.8
+http://netradio.live24.gr/realfm
+#EXTINF:-1,ATHINA 984 98.4
+http://athenshdlive-lh.akamaihd.net/i/athina984fmlive_2@88331/master.m3u8
+#EXTINF:-1,DERTI FM 98.6
+http://derti.live24.gr/derty1000
+#EXTINF:-1,ALPHA 98.9
+http://194.219.46.2:8080/live
+#EXTINF:-1,MELODIA FM 99.2
+http://netradio.live24.gr/melodia
+
+#EXTINF:-1,BHMA FM 99.5
+http://streaming.dol.gr/vimafm
+
+#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",Vima Fm 99.5 Athens
+http://music.vimafm995.gr/vimafm
+
+#EXTINF:-1 radio="true"tvg-logo="" group-title="RADIOS",SKAI Radio 100.3 Athens
+http://iphone.live24.gr:80/skai1003
+#EXTINF:-1,DIESI 101.3
+http://diesi.live24.gr/diesi1013
+#EXTINF:-1,PARADISE RADIO 101.6
+http://213.239.206.179:8850/;stream.mp3
+
+#EXTINF:-1,SFERA FM 102.2
+http://netradio.live24.gr/sfera4132
+
+#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",Sfera 102.2 Athens
+http://sfera.live24.gr/sfera4132
+
+#EXTINF:-1,NITRO RADIO 102.5
+http://nitro.live24.gr/nitro4555
+
+#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",Nitro Radio 102.5 Athens
+http://loveradio.live24.gr/nitro4555
+
+#EXTINF:-1,RADIO BLACKMAN 103.1
+http://213.239.206.179:8184/;.mp3
+#EXTINF:-1,SPORT24 103.3
+http://sport24radio.live24.gr/sport24radio
+#EXTINF:-1,PAREA FM 104
+http://parea104.live24.gr/parea104
+#EXTINF:-1,MINORE FM 104.3
+http://24streams.me:8077/minorefm
+
+#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",Hot Fm 104.6 Athens
+http://hotfm.live24.gr/hotfm
+
+#EXTINF:-1,STYL FM 104.9
+http://85.17.122.39:8530/;stream.mp3
+#EXTINF:-1,ATLANTIS FM 105.2
+http://144.76.84.8:8308/;*.mp3
+#EXTINF:-1,PALMOS FM 105.4
+http://s6.onweb.gr:8010/;
+#EXTINF:-1,STO KOKKINO 105.5
+http://83.149.126.10/listen/kokkino-ath
+#EXTINF:-1,PIQERAS DEEJAY 105.6
+http://37.48.67.169:8000/stream
+#EXTINF:-1,MAD FM 106.2
+http://mediaserver.mad.tv:8000/stream
+#EXTINF:-1,RIZES 106.5
+http://213.239.206.179:9670/;listen.pls
+#EXTINF:-1,A100 FM 107.4
+http://bestgreek.info:8104/;
+#EXTINF:-1,STAR ATHENS 107.7
+http://shaincast.caster.fm:24106/listen.mp3?authn6775082a4bdb82d04dee69601f8c6a54
+#EXTINF:-1,RADIO HXORAMA 108
+http://78.47.56.126:9217/stream
+#EXTINF:-1,RADIO APOLLWN 1242
+http://live.radioapollon.gr:7026/;stream.mp3
+
+#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",[COLOR orangered][B]Thessalonikis Radios[/B][/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1,LAIKOS FM 87.6
+http://ice.streamcloud.mediacdn.com/laikos876
+#EXTINF:-1,SOHOS FM 88.7
+http://s5.onweb.gr:8418/;
+#EXTINF:-1,RAINBOW 89
+http://80.86.85.86:8006/;
+#EXTINF:-1,ARENA SPORTS 89.4
+http://arenafm.gr:45054/;.mp3
+#EXTINF:-1,IMAGINE 89.7
+http://imagine.1stepstream.com:8000/live
+#EXTINF:-1,904 ARISTERA STA FM 90.4
+http://icecast.902.gr:8000/904
+#EXTINF:-1,ZOO RADIO 90.8
+http://s10.voscast.com:9940/;
+#EXTINF:-1,V FM 91.1
+http://stream.myip.gr:8054/;
+#EXTINF:-1,OLA FM 91.4
+http://ola.isolservers.com:8300/;
+#EXTINF:-1,RSO 91.7
+http://rso.isolservers.com:8200/;
+#EXTINF:-1,RADIO EKFRASI 92.4
+http://sc.greekstream.net:4012/;listen.pls
+#EXTINF:-1,STO KOKKINO THESS 93.4
+http://ice.streamcloud.mediacdn.com/stokokkinothes
+#EXTINF:-1,RADIO THESS 94.5
+http://eu7.fastcast4u.com:6156/;
+#EXTINF:-1,EROTIKOS FM 94.8
+http://eu7.fastcast4u.com:6154/;
+#EXTINF:-1,COSMORADIO 95.1
+http://sc5.greekstream.net:5000/;
+#EXTINF:-1,METROPOLIS 95.5
+http://s10.voscast.com:9934/;
+#EXTINF:-1,NEXT 96.1
+http://37.187.79.153:5262/stream
+#EXTINF:-1,ALPHA THESS 96.5
+http://46.4.121.138:8888/;
+#EXTINF:-1,VELVET 96.8
+http://s10.voscast.com:9942/;
+#EXTINF:-1,NORTH 98
+http://eco.onestreaming.com:8382/;
+#EXTINF:-1,PANORAMA 98.4
+http://netradio.live24.gr/panorama984
+#EXTINF:-1,RADIO 1 99
+http://eco.onestreaming.com:8336/;
+#EXTINF:-1,RADIO EKRIKSI 99.7
+http://sc.greekstream.net:4006/;
+#EXTINF:-1,FM 100 100
+http://178.62.176.153:8000/stream
+#EXTINF:-1,REPUBLIC RADIO 100.3
+http://s10.voscast.com:9878/;
+#EXTINF:-1,DIMOTIKO RADIOFWNO THESS 100.6
+http://178.62.176.153:8002/stream
+#EXTINF:-1,RADIO MYGDONIA 100.6
+http://62.38.111.94:8000/radio.mp3
+#EXTINF:-1,RADIO LELEVWSE 101.3
+http://213.239.206.179:9652/;?1441893382001.mp3
+#EXTINF:-1,KALAMARIA FM 101.7
+http://www.kalamariafm.gr/kalamariafm_mp3.asx
+#EXTINF:-1,PLUS RADIO 102.6
+http://85.25.214.240:8120/;
+#EXTINF:-1,MORE 103
+http://85.25.214.240:8140/;
+#EXTINF:-1,STUDIO 3 103.5
+http://s1.onweb.gr:8408/;
+#EXTINF:-1,FOCUS 103.6
+http://focus.greekstream.net/;
+#EXTINF:-1,RADIOKYMATA 104.4
+http://s1.onweb.gr:8812/;
+#EXTINF:-1,ROCK RADIO 104.7
+http://rockradio.gr:1111/;
+#EXTINF:-1,RADIO DETH 104.9
+http://s3.onweb.gr:8436/;
+#EXTINF:-1,1055 ROCK 105.5
+http://radio.onweb.gr:8078/;listen.pls
+#EXTINF:-1,XRWMA 105.8
+http://hroma1058thess.live24.gr/hroma1058thess
+#EXTINF:-1,CITY INTERNATIONAL 106.1
+http://50.7.99.155:7519/stream/1/
+#EXTINF:-1,ORTHODOXI PAROYSIA 106.8
+http://188.226.161.133:8008/stream
+#EXTINF:-1,REAL FM THESS 107.1
+http://realfm.megabyte.gr:8999/;
+#EXTINF:-1,LIBERO FM 107.4
+http://eco.onestreaming.com:8081/;
+#EXTINF:-1,SUNSHINE 107.7
+http://50.7.173.162:8204/;
+#EXTINF:-1,1431 AM 1431
+http://155.207.18.114:8000/1431med
+
+#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",[COLOR orangered][B]Cyprus Radios[/B][/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1,KISS FM 89
+http://live3.istoikona.net:8195/;stream.nsv
+#EXTINF:-1,KANALI 7 91.8
+http://live.kanali7.com:4012/;stream.nsv
+#EXTINF:-1,RADIO ASTRA 92.8
+http://radio.dialogos.com.cy:8000/stream
+#EXTINF:-1,DEEJAY RADIO 93.5
+http://eradio.networksolutions.com.cy:1935/DeeJay/DeeJay.stream/playlist.m3u8
+#EXTINF:-1,RADIO PAPHOS 93.7
+http://213.149.180.233:88/broadwave.mp3
+#EXTINF:-1,STAR FM 93.7
+http://eco.onestreaming.com:8538/;stream.nsv
+#EXTINF:-1,RADIO APOSTOLOS ANTREAS 94.5
+mms://217.27.32.232:1755
+#EXTINF:-1,RADIO KOSMOS 95.2
+http://50.22.219.97:34470/;.mp3
+#EXTINF:-1,CUT RADIO 95.2
+http://radio.cut.ac.cy:8000/cutradio
+#EXTINF:-1,ZENITH RADIO 96.4
+mms://live.istoikona.com/zenith
+#EXTINF:-1,RADIO SFERA 96.8
+http://live3.istoikona.net:8193/;stream.nsv
+#EXTINF:-1,KLIK FM 98.2
+http://go.erad.io/asx/klik.asx
+#EXTINF:-1,ROCK FM 98.5
+http://live3.istoikona.net:8278/;stream.nsv
+#EXTINF:-1,RADIO 99 FM 99
+http://81.4.181.74:88/broadwave.mp3
+#EXTINF:-1,LOVE FM 100.7
+http://eradio.networksolutions.com.cy:1935/LoveRadio/Loveradio.stream/playlist.m3u8
+#EXTINF:-1,RADIO CAPITAL 101.4
+http://81.4.144.146:8000/live
+#EXTINF:-1,O LOGOS 101.6
+mmsh://live.istoikona.com/logos?MSWMExt=.asf
+#EXTINF:-1,MIX FM 102.3
+http://eco.onestreaming.com:8127/;stream.nsv
+#EXTINF:-1,ANT1 CY FM 102.7
+http://eco.onestreaming.com:8133/;stream.nsv
+#EXTINF:-1,DROMOS FM CY 102.9
+mms://stream-push2.live24.gr/dromoscyprus
+#EXTINF:-1,MELODY RADIO 103.1
+http://liveaudio.virtualict.com:8000/;stream.nsv
+#EXTINF:-1,SUPER SPOR FM CY 104
+http://sportfm-cyprus.live24.gr/sportfm-cyprus
+#EXTINF:-1,RADIO ASTRA 105.3
+http://radio.dialogos.com.cy:8000/stream
+#EXTINF:-1,KANALI 6 106
+http://stream.dnsgb.net:8012/;stream.nsv
+#EXTINF:-1,RADIO POLITEIA 106.7
+http://46.165.195.133:8145/;stream.nsv
+#EXTINF:-1,POLITIS 107.6
+http://live3.istoikona.com:8199/;stream.nsv
+#EXTINF:-1,HELLAS FM
+http://206.190.136.140:7257/;
+#EXTINF:-1,LGR 103.3
+http://live3.istoikona.net:8203/stream
+#EXTINF:-1,ELLINIKOS FM FM
+http://85.17.75.171/ellinikosfm
+#EXTINF:-1,CGR
+http://216.235.85.20/play?s=chicagogreekradio
+#EXTINF:-1,TCGH
+http://173.165.1.213:8000/;stream.mp3
+#EXTINF:-1,HELLENIC RADIO
+http://usa7.fastcast4u.com:5997/;
+#EXTINF:-1,RADIO FUSION
+http://50.7.71.219:7678/stream
+#EXTINF:-1,RADIO SYMBAN 151.675
+http://s4.onweb.gr:8430/;
+#EXTINF:-1,SFINAKIA FM 97.3
+http://70.167.242.173:8080/;
+#EXTINF:-1,WXYB 1520
+http://wpso.com:7071/;
+#EXTINF:-1,WPSO 1500
+http://wpso.com:8000/
+#EXTINF:-1,MANA ELLADA
+http://198.154.106.101:8348/;?1441962080856.mp3
+
+#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",[COLOR orangered][B]Kriti Radios[/B][/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1,RADIO ENA 87.6
+http://radio1.internode.on.net:8002/51
+#EXTINF:-1,HELLENIC RADIO
+http://216.246.37.52:8044/listen.pls
+#EXTINF:-1,GREEK WEB RADIO
+http://gwr.no-ip.biz:8000/;?1441963051597.mp3
+#EXTINF:-1,RADIO AMORE 87.5
+http://s4.onweb.gr:8442/;
+#EXTINF:-1,ERWTOKRITOS FM 87.9
+http://stream2.proradio.gr:8004/erotokritos
+#EXTINF:-1,MELODY 88
+http://s4.onweb.gr:8466/;
+#EXTINF:-1,STO KOKKINO KRITIS 88.4
+http://144.76.92.208:8840/;listen.pls
+#EXTINF:-1,TALWS FM 88.6
+http://goodradio.gr:9102/;
+#EXTINF:-1,KRHTIKOS FM 88.7
+http://192.240.97.69:9322/;listen.pls
+#EXTINF:-1,GAYDOS FM 88.8
+http://streaming.multiserver.gr:8044/;
+#EXTINF:-1,FLY FM 88.9
+http://go.erad.io/asx/fly889.asx
+#EXTINF:-1,METRO FM 89.2
+http://37.59.14.77:8152/1
+#EXTINF:-1,RADIO FAMILY 89.5
+http://193.227.111.111:8002/;
+#EXTINF:-1,SUPER FM 89.6
+http://s3.onweb.gr:8454/;
+#EXTINF:-1,RADIO MEGALONHSOS 89.8
+http://stream.all-host.gr/listen/9034.asx
+#EXTINF:-1,RADIO NIKITA 89.9
+http://stream-bg.net:7020/Nikita1
+#EXTINF:-1,SUPER RADIO 90.4
+http://50.7.77.179:8581/;listen.pls
+#EXTINF:-1,XANIA SPORT FM 90.5
+http://s4.onweb.gr:8896/;
+#EXTINF:-1,DREAM FM 90.6
+http://62.1.1.154/dreamfm
+#EXTINF:-1,PLANET RADIO 90.6
+http://eco.onestreaming.com:8432/;
+#EXTINF:-1,CAPITAL 90.7
+http://goodradio.gr:9108/;
+#EXTINF:-1,VENUS FM 91
+http://eco.onestreaming.com:8534/;listen.pls
+#EXTINF:-1,SKY FM 91.3
+http://link.onestreaming.com/asx/sky913fm.asx
+#EXTINF:-1,DIKTYO 91.5
+http://eu1.fastcast4u.com:3688/;
+#EXTINF:-1,TRAFFIC FM 91.8
+http://s5.onweb.gr:8506/;
+#EXTINF:-1,SKAI KRITIS 92.1
+http://sc2.streamwithq.com:8048/;
+#EXTINF:-1,RADIO LASITHI 92.3
+http://s7.onweb.gr:8802/;
+#EXTINF:-1,RADIO RIZITES 92.4
+http://s1.onweb.gr:8040/;
+#EXTINF:-1,PENA 92.5
+http://stream-mp3aac.live24.gr/max925-her
+#EXTINF:-1,LAMPSI HRAKLEIO 92.9
+http://ice.streamcloud.mediacdn.com/lampsi929herakleio
+#EXTINF:-1,EASY XANIA 93.2
+http://46.227.60.32:8026/;listen.pls
+#EXTINF:-1,RADIO ENTASH 93.5
+http://147.27.23.40:8000/;
+#EXTINF:-1,CLUB FM 93.7
+http://24streams.me:8075/;liste.pls
+#EXTINF:-1,KRHTIKORAMA FM 93.8
+http://46.4.37.132:9382/;listen.pls
+#EXTINF:-1,HXOS FM 94.2
+http://shoutcast.24radio.gr:8010/;listen.pls
+#EXTINF:-1,ORIGINAL 94.4
+http://eco.onestreaming.com:8105/;
+#EXTINF:-1,BEST RADIO HRAKLEIO 94.7
+http://95.154.254.153:17770/;?1441967826848.mp3
+#EXTINF:-1,MADNESS 95
+http://s7.onweb.gr:8044/;
+#EXTINF:-1,KENTRO KARDIAS 95
+http://37.59.14.77:8146/stream
+#EXTINF:-1,DRS 95.3
+http://drs953.live24.gr/drs953
+#EXTINF:-1,SHTEIA FM 95.5
+http://sitiafm.no-ip.info:8000/;
+#EXTINF:-1,FLY RADIO 95.9
+http://sc2.streamwithq.com:8074/;
+#EXTINF:-1,KISS FM KPHTHS 96.1
+http://s6.onweb.gr:8032/;
+#EXTINF:-1,D-CODE 96.2
+http://s3.onweb.gr:8032/;
+#EXTINF:-1,RADIO ASTRO 96.4
+http://eco.onestreaming.com:8099/;
+#EXTINF:-1,LAIKO RADIO 96.6
+https://streaming.radionomy.com/laikoradio1
+#EXTINF:-1,UOC RADIO 96.7
+http://rs.radio.uoc.gr:8000/uoc_128.mp3
+#EXTINF:-1,ANTENNA DYTIKHS KPHTHS 97
+http://s8.myradiostream.com:9208/;
+#EXTINF:-1,RADIO MOIPES 97.1
+http://s6.onweb.gr:8034/;
+#EXTINF:-1,RADIO XEPSONHSOS 97.2
+http://178.59.22.125:8081/live
+#EXTINF:-1,KPHTOPAMA 97.9
+http://sc2.streamwithq.com:8040/;
+#EXTINF:-1,STUDIO 98 98
+http://www.goodradio.gr:9104/;
+#EXTINF:-1,MAGIC 98.2
+http://46.227.60.32:8042/;
+#EXTINF:-1,RADIO 984 98.4
+http://eco.onestreaming.com:8237/live
+#EXTINF:-1,SFERA HPAKLEIOY - MELODY FM 98.7
+http://stream2.proradio.gr:8004/sfera987
+#EXTINF:-1,CHANIAFM 98.9
+http://s2.onweb.gr:8604/;
+#EXTINF:-1,IEPA APXIEPISKOPI KPHTHS 99.7
+http://s1.onweb.gr:8432/;
+#EXTINF:-1,HXW FM LASITHI 99.8
+http://162.253.149.235:8081/;listen.pls
+#EXTINF:-1,CITY FM HPAKLEIO 100
+http://eco.onestreaming.com:8173/;
+#EXTINF:-1,MAX FM XANIA 100.2
+http://stream2.proradio.gr:8004/maxfm?1441972115985.aac
+#EXTINF:-1,KPHTH FM 100.3
+http://s14.myradiostream.com:8354/;
+#EXTINF:-1,KNWSOS FM 100.6
+rtmp://37.99.194.179:1935/KnossosFM/KnossosFM
+#EXTINF:-1,MOYSIKO KANALI 101.3
+http://goodradio.gr:9112/;
+#EXTINF:-1,RADIO KPHTH 101.5
+rtmp://37.99.194.179:1935/RadioKriti
+#EXTINF:-1,STUDIO 19 101.9
+http://37.59.14.77:8159/stream
+#EXTINF:-1,TEAM FM 102
+http://goodradio.gr/asx/teamfm_2.asx
+#EXTINF:-1,PADYOKYMATA 102.6
+http://s8.onweb.gr:8702/;
+#EXTINF:-1,LOVE RADIO KPHTHS 102.8
+http://loveradio-her.live24.gr/loveradio-her2
+#EXTINF:-1,PETHYMNO SPORT FM 103.3
+http://goodradio.gr:9106/;
+#EXTINF:-1,LATW FM 103.3
+http://eco.onestreaming.com:8488/;
+#EXTINF:-1,RADIO YPAPXW 103.7
+http://www.onradio.gr/url_mp/433.asx
+#EXTINF:-1,ATHLETIC RADIO 104.2
+http://eco.onestreaming.com:8052/;
+#EXTINF:-1,RADIO 1044 104.4
+http://10440fm.live24.gr/10440fm
+#EXTINF:-1,RYTHMOS HPAKLEIOY 104.5
+http://stream.1045.gr/1045fm
+#EXTINF:-1,ALPHA FM 104.7
+http://radio.alpha1047.gr:8204/;
+#EXTINF:-1,MOYSIKO KANALI 105.1
+http://stream1.mousikokanali.gr:8100/mc?.mp3
+#EXTINF:-1,RETRO RADIO 105.4
+http://sc2.streamwithq.com:8062/;
+#EXTINF:-1,STUDIO FM1 TEI KPHTHS 105.4
+http://fm1.teicrete.gr:8000/live
+#EXTINF:-1,MUSIC CLUB 105.8
+http://s6.onweb.gr:8048/;
+#EXTINF:-1,ALPHA NEWS 106.2
+http://50.7.77.178:8041/;listen.pls
+#EXTINF:-1,JOY FM 106.5
+http://95.211.205.23/listen/2nwynzgmb.mp3
+#EXTINF:-1,COOL FM 106.8
+http://listen.onestreaming.com/asx/coolfm.asx
+#EXTINF:-1,YDPOGEIOS 106.9
+http://netradio.live24.gr/ydrogeios1069her
+#EXTINF:-1,AMORE FM 107.9
+http://www.e-radio.gr/asx/amorefm.asx
+
+#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",[COLOR orangered][B]Peloponnisos Radios[/B][/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1,L RADIO 87.5
+http://s3.onweb.gr:8472/;
+#EXTINF:-1,KAPPA RADIO 87.9
+http://go.erad.io/asx/kappa879.asx
+#EXTINF:-1,LIFE FM 88
+http://life.onairsolution.gr:55880/;
+#EXTINF:-1,LIKE RADIO 88.2
+http://streams.onairsolution.gr:59882/;
+#EXTINF:-1,LYXNOS RADIO 88.4
+http://37.48.68.74:8468/
+#EXTINF:-1,KANALI 20 88.6
+http://213.239.206.179:7086/;
+#EXTINF:-1,MELODY 88.8
+http://s3.onweb.gr:8514/;
+#EXTINF:-1,KISS FM KALAMATAS 89
+http://144.76.102.231:8006/stream
+#EXTINF:-1,EPIKOINWNIA 89.1
+http://s2.onweb.gr:8608/;
+#EXTINF:-1,SKAI PATRAS 89.4
+http://r4.webradiostreams.com:7002/;
+#EXTINF:-1,STYLE FM 89.6
+http://46.4.65.194:8011/;listen.pls
+#EXTINF:-1,MY RADIO 89.6
+http://eco.onestreaming.com:8528/;
+#EXTINF:-1,FLY RADIO 89.7
+http://eco.onestreaming.com:8272/;
+#EXTINF:-1,MASTER FM 90.2
+http://streaming.468.gr:9902/;listen.pls
+#EXTINF:-1,PANEPISTHMIO PATRAS FM 90.4
+http://150.140.147.131:8000/;listen.pls
+#EXTINF:-1,PALMOS 90.5
+http://helium.kncdn.net:7502/;
+#EXTINF:-1,MYTHOS FM 90.6
+http://46.4.65.194:8047/;
+#EXTINF:-1,COOL FM 90.7
+http://shoutcast.24radio.gr:8064/;
+#EXTINF:-1,POLITEIA FM 90.7
+http://live.onestreaming.com/politia
+#EXTINF:-1,TIME FM 90.9
+http://148.251.179.119:8052/stream?1442050679483.mp3
+#EXTINF:-1,HLIDA 91.1
+http://eco.onestreaming.com:8532/;listen.pls
+#EXTINF:-1,YES 91.2
+http://46.4.65.194:8039/;
+#EXTINF:-1,DHMOTIKH PADOFWNIA TPIPOLHS 91.5
+http://eco.onestreaming.com:8185/;
+#EXTINF:-1,LIFE RADIO 91.6
+http://178.63.16.92:8026/;listen.pls
+#EXTINF:-1,RADIO ENTER 91.7
+http://5.172.194.206:9982/;
+#EXTINF:-1,NOVEL RADIO 91.8
+http://192.99.0.170:5770/;
+#EXTINF:-1,KISS FM PATRAS 92.9
+http://stream.kiss922.gr:59922/;
+#EXTINF:-1,STAR FM - PADIOFWNIA ARGOLIDOS 92.9
+http://46.4.65.194:8025/;
+#EXTINF:-1,MAX FM 93.4
+http://legacy-100-ams.servers.mediacdn.com/maxfm93-4-patra
+#EXTINF:-1,RADIO KYPAPISSIA 93.6
+http://s1.onweb.gr:8096/;
+#EXTINF:-1,ARCADIA 93.8
+http://46.4.82.243:8000/;
+#EXTINF:-1,RADIO GAMMA 94
+http://radiogamma.live24.gr/radiogamma
+#EXTINF:-1,SFERA RADIO ARGOS 94.1
+http://netradio.live24.gr/sfera941nauplio
+#EXTINF:-1,STAR FM SPARTH 94.1
+http://s1.onweb.gr:8056/;
+#EXTINF:-1,RADIO DEEJAY KOPINTHOS 94.2
+http://usa2-vn.mixstream.net/8018.asx
+#EXTINF:-1,KANALI 1 KALAMATAS 94.8
+http://live.kanali1.gr:8000/kanali1
+#EXTINF:-1,AKTINA RADIO 95
+http://live.e-streaming.eu:8110/;
+#EXTINF:-1,ANATOLIKOS FM 95.8
+http://s1.onweb.gr:8022/;
+#EXTINF:-1,IONION FM 95.8
+http://stream2.proradio.gr:8004/ionionfmf?type=.flv
+#EXTINF:-1,SPORT FM PATRAS 96.3
+http://netradio.live24.gr/sportfmpatras
+#EXTINF:-1,RADIO JUST 96.4
+http://213.16.181.250:8000/just964
+#EXTINF:-1,RADIO NIKI FILIATRA 96.4
+http://95.154.254.151:3933
+#EXTINF:-1,HORIZON FM 96.5
+http://144.76.92.208:9650/live.mp3
+#EXTINF:-1,SFERA PATRAS 96.6
+http://144.76.92.208:9650/live.mp3
+#EXTINF:-1,ELLADA FM 96.7
+http://live.onestreaming.com/elladaradio
+#EXTINF:-1,LOUTPAKI FM 96.9
+http://s3.onweb.gr:8510/;
+#EXTINF:-1,MUST FM 97
+http://shoutcast.24radio.gr:8012/;listen.pls
+#EXTINF:-1,BEST FM KALAMATAS 97.3
+http://stream.24100.com:8000/bestfm
+#EXTINF:-1,WAVE FM 97.4
+http://85.25.106.137:8007/;
+#EXTINF:-1,MESSATIDA 98
+http://66.90.103.144:8954/;
+#EXTINF:-1,APOLLON FM 98.1
+http://apollonfm981.dyndns.org:8124/;
+#EXTINF:-1,PALMOS FM KOPINTHOS 98.2
+http://stream.palmos.fm:8100/;listen.pls
+#EXTINF:-1,RADIO MAKISTIA 98.6
+http://live.onestreaming.com/makistia
+#EXTINF:-1,HLEKTPA 98.8
+http://stream2.proradio.gr:8004/hlektra
+#EXTINF:-1,DIAYLOS 99.2
+http://213.239.206.179:7060/;
+#EXTINF:-1,RADIO AIGIO 99.2
+http://85.25.171.129:9998/;
+#EXTINF:-1,GRECA 99.4
+http://eco.onestreaming.com:8109/;
+#EXTINF:-1,FASMA 99.7
+http://67.212.165.106:8104/;listen.pls
+#EXTINF:-1,PADIOFWNO SPAPTHS 99.7
+http://144.76.84.8:8284/;listen.pls
+#EXTINF:-1,ENALLAKS FM 99.9
+http://www.enallax.gr/enallax.asx
+#EXTINF:-1,YOU FM 100.1
+http://www.youfmradio.gr:8880/;listen.pls
+#EXTINF:-1,ASTEPAS RADIO 100.1
+http://stream.katsiris.net:7500/;
+#EXTINF:-1,MELWDIA PATPAS 100.4
+http://176.9.39.43:7006/;stream.mp3
+#EXTINF:-1,SMART FM 100.7
+http://smartfm.serverroom.us:8030/;
+#EXTINF:-1,BRAKE FM 100.8
+http://stream2.proradio.gr:8004/brake?type=.flv
+#EXTINF:-1,FREE 101.1
+http://playstathmos-lh.akamaihd.net/z/event_1@119298/manifest.m3u8
+#EXTINF:-1,RADIO KEFI 101.3
+http://live.kefiradio.gr:9988/;
+#EXTINF:-1,PARADISE RADIO 101.6
+http://213.239.206.179:8850/;listen.pls
+#EXTINF:-1,XPWMA FM 102.1
+http://stream.xromafm.gr:59102/;
+#EXTINF:-1,ISHMERIA - SKAI ARGOLIDAS 102.3
+http://s11.myradiostream.com:5980/;
+#EXTINF:-1,LUX RADIO 102.7
+http://legacy-100-ams.servers.mediacdn.com/mfm102-7-patra
+#EXTINF:-1,MFM 102.7
+http://go.erad.io/asx/mfm1027.asx
+#EXTINF:-1,MEGALOPOLH FM 103.1
+http://95.154.254.157:39071
+#EXTINF:-1,VOX 103.3
+http://sc2.streamwithq.com:8086/;
+#EXTINF:-1,MOYSIKH LAMPSH 103.3
+http://lampsi.serverroom.us:7668/;
+#EXTINF:-1,CITY FM 103.8
+http://213.239.206.179:7027/;liste.pls
+#EXTINF:-1,RYTHMOS ARGOS 103.8
+http://162.253.149.235:8088/;
+#EXTINF:-1,BEST RADIO SPAPTHS 103.9
+http://87.117.197.33:19756/;?1442066578444.mp3
+#EXTINF:-1,REC 104
+http://shoutcast.24radio.gr:8022/;
+#EXTINF:-1,PALMOS PATPAS 104.1
+http://r4.webradiostreams.com:7004/;
+#EXTINF:-1,PADIO EPMIONIDA 104.3
+http://go.erad.io/asx/ermionida.asx
+#EXTINF:-1,VENUS FM 105.1
+http://www.venusfm.gr/venus.asx
+#EXTINF:-1,IEPA MHTPOPOLH APGOLIDOS 105.2
+http://listen.onestreaming.com/asx/imargol1052.asx
+#EXTINF:-1,PALMOS POPOS 105.4
+http://s6.onweb.gr:8010/;
+#EXTINF:-1,AQUARIUS FM 105.5
+http://s1.onweb.gr:8008/;
+#EXTINF:-1,TSIPIGO FM 105.6
+http://s2.onweb.gr:8622/;
+#EXTINF:-1,DERTI FM PATPAS 105.7
+http://46.4.65.194:8033/;
+#EXTINF:-1,GALAXY PATPAS 106.1
+http://46.4.65.194:8015/;listen.pls
+#EXTINF:-1,DIVA FM 106.1
+http://62.75.145.148:9996/;listen.pls
+#EXTINF:-1,RADIO ENEPGEIA 106.4
+http://s1.onweb.gr:8828/;
+#EXTINF:-1,PADIO APGOSAPONIKOS 106.4
+http://s3.onweb.gr:8536/;
+#EXTINF:-1,MINI FM 107.1
+http://eco.onestreaming.com:8142/;
+#EXTINF:-1,NEMEA RADIO 107.6
+http://s1.onweb.gr:8898/;
+#EXTINF:-1,MOJO RADIO 107.7
+http://mojoradio.live24.gr/mojoradio
+
+#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",[COLOR orangered][B]Sterea Ellada Radios[/B][/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1,PHASE RADIO 87.7
+http://streaming.multiserver.gr:8013/;
+#EXTINF:-1,MELWDIA LAMIAS 88
+http://eco.onestreaming.com:8129/;
+#EXTINF:-1,DALKAS 88.2
+http://212.7.199.201:8018/;
+#EXTINF:-1,PADIO KSHPOMEPO
+http://www.jayradio.gr/playerJay/asx/596.asx
+#EXTINF:-1,HOME 89.1
+http://144.76.102.231:8028/;listen.pls
+#EXTINF:-1,IEPA MHTPOPOLH FTHIWTIDOS 89.4
+http://eco.onestreaming.com:8264/;
+#EXTINF:-1,LIVE FM 89.6
+http://netradio.live24.gr/livefm896
+#EXTINF:-1,EYPIPPOS FM 90
+http://stereo.wavestreamer.com:8412/;listen.pls
+#EXTINF:-1,METPO 90.3
+http://metro903.live24.gr/metro903
+#EXTINF:-1,ELLHNIKOS 90.3
+http://live.ellinikos.gr:8010/903.mp3
+#EXTINF:-1,OSCAR FM 90.9
+http://78.46.37.77:8099/live
+#EXTINF:-1,CITY FM 92
+http://cityfm92.live24.gr/cityfm92
+#EXTINF:-1,PADIO MESSOLOGI 92
+http://178.63.80.9:8462/;
+#EXTINF:-1,NOVA FM 92.1
+http://46.4.65.194:8007/;
+#EXTINF:-1,GALAXIAS FM 92.1
+http://91.138.198.64:18500/listen.pls/;
+#EXTINF:-1,APIA FM 92.4
+http://www.gointernet.gr:8255/;listen.pls
+#EXTINF:-1,JUST RADIO 93
+http://194.219.98.110:8002/;
+#EXTINF:-1,AGPINIO 93.7
+http://stream2.proradio.gr:8004/anemos
+#EXTINF:-1,STYLIDA FM 94.1
+http://s1.onweb.gr:8860/;
+#EXTINF:-1,ENERGY 94.2
+http://netradio.live24.gr/energy942art
+#EXTINF:-1,RYTHMOS 94.6
+http://sc2.streamwithq.com:8098/;listen.pls
+#EXTINF:-1,NRG 95
+http://212.7.199.201:8012/;
+#EXTINF:-1,PALMOS LAMIAS 95
+http://s7.onweb.gr:8554/;
+#EXTINF:-1,MUSIC LIFE 95.1
+http://213.239.206.179:9501/;listen.pls
+#EXTINF:-1,NEA STYPA FM 95.4
+http://62.103.68.29:8000/;
+#EXTINF:-1,MONADIKH POLITEIA 96
+http://67.212.189.122:8153/;
+#EXTINF:-1,LAMEIA FM1 96.2
+http://sc2.streamwithq.com:8092/;listen.pls
+#EXTINF:-1,O STATHMOS TWN EPGAZOMENWN 96.5
+http://178.63.80.9:9972
+#EXTINF:-1,STAR LAMEIAS FM 97.1
+http://eco.onestreaming.com:8434/;
+#EXTINF:-1,PADIO THHBA 97.5
+http://144.76.102.231:8034/;stream.mp3
+#EXTINF:-1,AVANTI 97.7
+http://avanti977lamia.live24.gr/avanti977lamia
+#EXTINF:-1,AGIOS TIMOTHEIOS EYRIPOY 97.7
+http://62.103.68.167:8000/RIMX
+#EXTINF:-1,PADIO POYMELI NEWS FM 98
+http://www.radioplanet.gr/roumeli/roumeli.mp3
+#EXTINF:-1,PADIO 1 98.1
+http://proradio.gr:8004/radio981m
+#EXTINF:-1,XPWMA LAMIAS 98.5
+http://xroma985.live24.gr/xroma985
+#EXTINF:-1,MPLE 99
+http://212.7.199.201:8002/;listen.pls
+#EXTINF:-1,AEPAS FM 99.5
+http://ice.streamcloud.mediacdn.com/aerasfm995
+#EXTINF:-1,PADIO KOSMOS XALKIDAS 100
+http://s1.onweb.gr:8856/;
+#EXTINF:-1,PADIO ISTIAIA 100.4
+http://www.radioistiaia.gr/music1.mp3
+#EXTINF:-1,LAIKOS LAMIAS 100.6
+http://s5.onweb.gr:8864/;listen.pls
+#EXTINF:-1,AVANTI XALKIDAS 101.2
+http://netradio.live24.gr/metrofm1012xalkida
+#EXTINF:-1,RADIO LEPANTO 101.4
+http://s26.myradiostream.com:8574/;
+#EXTINF:-1,PADIO NET 101.9
+http://66.90.103.144:8940/;
+#EXTINF:-1,PADIO ALIVEPI 102.2
+http://85.25.105.195:8291/;
+#EXTINF:-1,MAGIC FM AGPINIO 102.9
+http://live.magicfmagrinio.net:9500/;
+#EXTINF:-1,HIT FM XALKIDAS 103.5
+http://94.23.62.189:5650/stream
+#EXTINF:-1,PADIO EYBOIA 104.1
+http://178.21.169.118:8012/live
+#EXTINF:-1,PADIO AMFISA 104.4
+http://stream3.468.gr:8104/;listen.pls
+#EXTINF:-1,MAGIA 104.7
+http://37.59.14.77:7275/;
+
+#EXTINF:-1,SOK FM 104.8
+http://212.7.199.201:8000/;
+
+#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",Sok FM 104.8 Halkida
+http://s3.onweb.gr:8530/
+
+#EXTINF:-1,PADIO DISTOMO 106.1
+http://radio.icehosting.com:8091
+#EXTINF:-1,IEPA MHTPOPOLH AITWLIAS KAI AKAPNANIAS 106.3
+http://144.76.84.8:8048/;
+#EXTINF:-1,RADIO IN 106.5
+http://go.radioin.audio:7002/;listen.pls
+#EXTINF:-1,MAD RADIO AGPINIOY 107
+http://37.59.14.77:7038/;listen.pls
+#EXTINF:-1,ARIA FM 107.4
+http://176.9.107.200:9998/;
+
+#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",[COLOR orangered][B]Ipeiros Radios[/B][/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1,DHMOTIKH PADIOFWNIA PREBEZAS 87.9
+http://46.227.60.32:8046/;
+#EXTINF:-1,PADIO HGOYMENITSA 89.2
+http://85.25.144.39:8912/;
+#EXTINF:-1,IWANNINA DEE JAY 89.6
+http://50.7.70.58:8748/;
+#EXTINF:-1,BEST RADIO IWANNINA 90.7
+http://907ioannina.live24.gr/907ioannina
+#EXTINF:-1,PRISMA 91.6
+http://50.7.86.138:8117/;listen.pls
+#EXTINF:-1,RADIO PREVEZA 93
+http://sc2.streamwithq.com:8050/;
+#EXTINF:-1,ENERGY PREVEZA 93.4
+http://50.7.173.162:8175/;
+#EXTINF:-1,HIT RADIO IWANNINA 93.5
+http://s3.onweb.gr:8006/;
+#EXTINF:-1,PADIO PWMAIOS 94
+http://el1.info:9400/;listen.pls
+#EXTINF:-1,PADIO HPEIPOS 94.5
+http://el1.info:9450/;
+#EXTINF:-1,STAR FM IWANNINA 95.7
+http://144.76.84.8:8044/;
+#EXTINF:-1,PADIO THESPRWTIA 97.1
+http://144.76.102.231:8015/live
+#EXTINF:-1,LOVE RADIO - TOP FM IWANNINA 97.2
+http://eco.onestreaming.com:8072/;
+#EXTINF:-1,ALFA PREBEZAS 98.1
+http://184.154.90.186:8306/stream
+#EXTINF:-1,ACTION RADIO 98.2
+http://eco.onestreaming.com:8153/stream
+#EXTINF:-1,SKY RADIO 99.2
+http://live.skyradio.gr:9920/;
+#EXTINF:-1,PADIO IONIO 99.9
+http://167.114.131.90:5192/;listen.pls
+#EXTINF:-1,PADIO APTA 101.5
+http://eco.onestreaming.com:8460/;
+#EXTINF:-1,MUSIC RADIO ARTA 102.1
+http://iphone.live24.gr/musicradioarta
+#EXTINF:-1,HXW RADIO IWANNINWN 102.7
+http://eco.onestreaming.com:8266/;
+#EXTINF:-1,SAFARI RADIO 104.7
+http://109.123.114.74:8018/;listen.pls
+#EXTINF:-1,PIGASOS APTA 106
+http://ice.streamcloud.mediacdn.com/pegasosarta-128mp3
+#EXTINF:-1,RYTHMOS FM IWANNINA 107.5
+http://radio.pointer.gr:8013/live
+#EXTINF:-1,PINDOS FM 107.7
+http://netradio.live24.gr/radiopindos1077
+
+#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",[COLOR orangered][B]Ionion Nison Radios[/B][/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1,PADIO LEYKADA 88.4
+http://50.7.173.162:8167/;
+#EXTINF:-1,STAR FM KEPKYPA 88.8
+http://s1.onweb.gr:8800/;
+#EXTINF:-1,BRAVO 89.6
+http://andromeda.shoutca.st:8121/;stream/1
+#EXTINF:-1,KYMA FM 90.3
+http://s1.onweb.gr:8028/;
+#EXTINF:-1,STUDIO LEFKATAS 90.5
+mms://live.onestreaming.com/lefkada
+#EXTINF:-1,IONIAN GALAXY 90.8
+http://s4.onweb.gr:8018/;
+#EXTINF:-1,O AGIOS SPYPIDON 91.2
+http://eco.onestreaming.com:8516/;
+#EXTINF:-1,EPMHS PADIO 91.8
+http://s6.myradiostream.com:36662/;
+#EXTINF:-1,ANTENNA KEPKYPA 92.6
+http://eco.onestreaming.com:8276/;
+#EXTINF:-1,ELEFTHEPH PADIOFWNIA KEFALONIAS - EASY KEFALONIAS 93.9
+http://eco.onestreaming.com:8072/;
+#EXTINF:-1,RYTHMOS ZAKYNTHOS 94.3
+http://eco.onestreaming.com:8217/;
+#EXTINF:-1,KISS KEPKYPAS 95.8
+http://66.90.103.144:8990/;stream.mp3
+#EXTINF:-1,COSMOS 96.5
+http://217.28.20.20:8043/;stream.mp3
+#EXTINF:-1,CORFU RADIO DEE JAY 97.5
+http://s20.myradiostream.com:6524/;listen.pls
+#EXTINF:-1,STIGMA RADIO 97.6
+http://andromeda.shoutca.st:8114/;stream/cid=1
+#EXTINF:-1,NEO PADIOFWNO 97.9
+http://s1.onweb.gr:8820/;
+#EXTINF:-1,PALMOS KEFALLONIAS 98.3
+http://ice.streamcloud.mediacdn.com/palmos983
+#EXTINF:-1,GAGA RADIO 98.4
+http://s4.onweb.gr:8840/;stream.nsv
+#EXTINF:-1,PADIO EPTANHSA 98.8
+http://s8.onweb.gr:8716/;
+#EXTINF:-1,PYTHMOS KEPKYPAS 99.7
+http://s4.onweb.gr:8832/;
+#EXTINF:-1,KISS FM KEFALONIAS 100.6
+http://46.4.65.194:8043/;
+#EXTINF:-1,POP FM 102.1
+http://s1.onweb.gr:8422/;
+#EXTINF:-1,LIFE FM 102.9
+http://s1.onweb.gr:8836/;
+#EXTINF:-1,AKTINA FM 104.7
+http://sc2.streamwithq.com:8018/;
+#EXTINF:-1,PADIO LEYKIMMH 105.5
+http://66.90.103.144:8976/;
+
+#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",[COLOR orangered][B]Anatoliki Makedonia Kai Thraki Radios[/B][/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1,PADIO XPONOS 87.5
+http://s6.onweb.gr:8006/;
+#EXTINF:-1,SUPER FM 88
+http://eco.onestreaming.com:8354/;
+#EXTINF:-1,HEAT RADIO 88.3
+http://ams01.egihosting.com:9108/;
+#EXTINF:-1,MY FM 89.5
+http://89.40.221.212:26800/;
+#EXTINF:-1,OMOPFH POLH 89.9
+http://213.16.179.209:8081/broadwavehigh.mp3
+#EXTINF:-1,PARADISE 90.3
+http://stream-mp3aac.live24.gr/paradise903
+#EXTINF:-1,XANTHI RADIO DEEJAY 90.6
+http://s4.onweb.gr:8402/;
+#EXTINF:-1,RADIO PLAY 91.5
+http://85.17.121.230:8058/;listen.pls
+#EXTINF:-1,DIAYLOS PODOPHS 92.4
+http://live.onestreaming.com/diavlosrodopis
+#EXTINF:-1,926 92.6
+http://s6.onweb.gr:8042/;
+#EXTINF:-1,NOVA RADIO 93.1
+http://stream-mp3aac.live24.gr/nova931
+#EXTINF:-1,PADIO KSANTHI 93.5
+http://78.47.56.126:8022/;
+#EXTINF:-1,MAXIMUM FM 93.6
+http://s1.onweb.gr:8838/;
+#EXTINF:-1,DIAKONIA 93.8
+http://213.16.179.209:8081/broadwavehigh.mp3?src=2/;
+#EXTINF:-1,PADIO PAPATHPHTHS 94
+http://s6.onweb.gr:8020/;
+#EXTINF:-1,STATUS RADIO 94.2
+http://eco.onestreaming.com:8131/;
+#EXTINF:-1,PADIO PODOPH 95.5
+http://173.236.59.82:8060/;
+#EXTINF:-1,IEPA MHTPOPOLH MAPWNEIAS KAI KOMOTHNHS 95.8
+http://ice.streamcloud.mediacdn.com/imkomotini
+#EXTINF:-1,METHOPIOS 96
+http://live.onestreaming.com/methorios
+#EXTINF:-1,TOP FM KSANTHHS 96.9
+http://eco.onestreaming.com:8226/;
+#EXTINF:-1,PADIO EBPOS 97.1
+http://caster.opennetwork.gr:8000/live
+#EXTINF:-1,NRG ALEKSANDPOYPOYLHS 98.5
+http://eco.onestreaming.com:8452/;listen.pls
+#EXTINF:-1,ELLADA FM 98.7
+http://188.138.121.94:8012/;
+#EXTINF:-1,SFAIPIKOS 99.3
+http://eco.onestreaming.com:8012/;
+#EXTINF:-1,PADIO PATPIDA 100.4
+http://66.90.103.144:8962/;
+#EXTINF:-1,EUROSKY 100.4
+http://caster.opennetwork.gr:8004/stream
+#EXTINF:-1,SKY FM OPESTIADAS 100.7
+http://213.239.206.179:8107/;listen.pls
+#EXTINF:-1,GLENTI FM 101.1
+http://s3.onweb.gr:8532/;
+#EXTINF:-1,YPAPXW FM 101.4
+http://144.76.84.8:8206/;
+#EXTINF:-1,LEGEND FM 101.6
+http://s6.onweb.gr:8002/;
+#EXTINF:-1,POLIS 102.6
+http://eco.onestreaming.com:8334/;
+#EXTINF:-1,PADIO ALFA 104
+http://caster.opennetwork.gr:8006/stream
+#EXTINF:-1,PADIO XYLAGANI 104.5
+http://69.175.13.130:8060/;
+#EXTINF:-1,PYTHMOS KSANTHHS 106
+http://s4.onweb.gr:8406/;
+#EXTINF:-1,MAD RADIO KSANTHI 107
+http://46.227.60.32:8052/;
+
+#EXTINF:-1,[COLOR magenta][B]» » ===NEWS=== « «[/B][/COLOR]
