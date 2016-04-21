@@ -104,7 +104,7 @@
 			<name>RIK 2</name>
 			<url>http://over.ddns.net:65114/</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>RIK SAT</name>
 			<url>http://cdnvideo.webvideocore.net/live11uk/out_2xtqzyrq6gysc48ko0cs/index.m3u8</url>
 			<base>http://www.riknews.com.cy/index.php/tv/sat-live</base>
