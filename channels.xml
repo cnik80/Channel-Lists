@@ -3,17 +3,17 @@
 	<area name="PANHELLENIC">
 		<channel active="True">
 			<name>EPT1</name>
-			<url>http://ertworld-lh.akamaihd.net/i/live_1@362313/master.m3u8</url>
+			<url>http://over.ddns.net:65101/</url>
 			<base>http://webtv.ert.gr/ert1/</base>
 		</channel>
 		<channel active="True">
 			<name>EPT2</name>
-			<url>http://ert2world-lh.akamaihd.net/i/live_1@367166/master.m3u8</url>
+			<url>http://over.ddns.net:65102/</url>
 			<base>http://webtv.ert.gr/ert2/</base>
 		</channel>
 		<channel active="True">
 			<name>EPT3</name>
-			<url>http://ert3-lh.akamaihd.net/i/live_1@329807/master.m3u8</url>
+			<url>http://over.ddns.net:65103/</url>
 			<base>http://webtv.ert.gr/ert3/</base>
 		</channel>
 		<channel active="True">
@@ -23,7 +23,7 @@
 		</channel>
 		<channel active="True">
 			<name>ANT1</name>
-			<url>http://antennatv-lh.akamaihd.net/i/live_1@329667/master.m3u8</url>
+			<url>http://over.ddns.net:65106/</url>
 			<base>http://www.antenna.gr/webtv/doubleip/live</base>
 		</channel>
 		<channel active="True">
@@ -33,7 +33,7 @@
 		</channel>
 		<channel active="True">
 			<name>ALPHA</name>
-			<url>http://alfakanali-lh.akamaihd.net/i/live_1@90368/master.m3u8</url>
+			<url>http://over.ddns.net:65105/</url>
 			<base>http://www.alphatv.gr/webtv/live</base>
 		</channel>
 		<channel active="True">
@@ -43,7 +43,7 @@
 		</channel>
 		<channel active="True">
 			<name>E TV</name>
-			<url>http://mgrouphdlive4-f.akamaihd.net/i/live_1@324569/master.m3u8</url>
+			<url>http://over.ddns.net:65108/</url>
 			<base>http://www.epsilontv.gr/</base>
 		</channel>
 		<channel active="True">
@@ -416,10 +416,9 @@
 		<channel active="False">
 			<name>KOSMO TV</name>
 		</channel>
-		<channel active="False">
+		<channel active="True">
 			<name>START TV</name>
-			<type>veetle</type>
-			<url>http://veetle.com/index.php/channel/view#5378ba5fe38e8</url>
+			<url>http://94.23.218.186:1935/StartMedia/StartMedia/playlist.m3u8</url>
 			<base>http://www.startmedia.gr/</base>
 		</channel>
 		<channel active="False">
