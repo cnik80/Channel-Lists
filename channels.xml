@@ -18,7 +18,7 @@
 		</channel>
 		<channel active="True">
 			<name>MEGA</name>
-			<url>http://over.ddns.net:65110/</url>
+			<url>http://megahdlive1-f.akamaihd.net/i/live_1@105260/master.m3u8</url>
 			<base>http://www.megatv.com/webtv/default.asp</base>
 		</channel>
 		<channel active="True">
@@ -28,7 +28,7 @@
 		</channel>
 		<channel active="True">
 			<name>STAR</name>
-			<url>http://over.ddns.net:65111/</url>
+			<url>http://starhdlive2-lh.akamaihd.net/i/live_1@181243/master.m3u8</url>
 			<base>http://www.star.gr/tv/el/Pages/LiveVideo.aspx</base>
 		</channel>
 		<channel active="True">
@@ -38,7 +38,7 @@
 		</channel>
 		<channel active="True">
 			<name>SKAI</name>
-			<url>http://over.ddns.net:65112/</url>
+			<url>http://38.140.63.250:1935/gr-live/skai.sdp/playlist.m3u8</url>
 			<base>http://www.skai.gr</base>
 		</channel>
 		<channel active="True">
@@ -48,13 +48,12 @@
 		</channel>
 		<channel active="True">
 			<name>MACEDONIA TV</name>
-			<url>http://stream.maktv.gr/i/live_1@332903/master.m3u8</url>
+			<url>http://over.ddns.net:65109/</url>
 			<base>http://www.maktv.gr/Live</base>
 		</channel>
 		<channel active="True">
 			<name>ART CHANNEL</name>
-			<type>ustream</type>
-			<url>http://www.ustream.tv/embed/19497341</url>
+			<url>https://video02-atl.streamup.com/app/artthleorashs-channel/playlist.m3u8</url>
 			<base>http://www.arttv.info/</base>
 		</channel>
 		<channel active="True">
@@ -94,7 +93,7 @@
 			<url>http://over.ddns.net:65120/</url>
 		</channel>
 		<channel active="True">
-			<name>EXTRA TV</name>
+			<name>EXTRA CY</name>
 			<url>http://over.ddns.net:65119/</url>
 		</channel>
 		<channel active="True">
@@ -105,7 +104,7 @@
 			<name>RIK 2</name>
 			<url>http://over.ddns.net:65114/</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>RIK SAT</name>
 			<url>http://cdnvideo.webvideocore.net/live11uk/out_2xtqzyrq6gysc48ko0cs/index.m3u8</url>
 			<base>http://www.riknews.com.cy/index.php/tv/sat-live</base>
@@ -416,10 +415,9 @@
 		<channel active="False">
 			<name>KOSMO TV</name>
 		</channel>
-		<channel active="False">
+		<channel active="True">
 			<name>START TV</name>
-			<type>veetle</type>
-			<url>http://veetle.com/index.php/channel/view#5378ba5fe38e8</url>
+			<url>http://94.23.218.186:1935/StartMedia/StartMedia/playlist.m3u8</url>
 			<base>http://www.startmedia.gr/</base>
 		</channel>
 		<channel active="False">
