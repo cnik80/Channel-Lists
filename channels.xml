@@ -48,13 +48,12 @@
 		</channel>
 		<channel active="True">
 			<name>MACEDONIA TV</name>
-			<url>http://stream.maktv.gr/i/live_1@332903/master.m3u8</url>
+			<url>http://over.ddns.net:65109/</url>
 			<base>http://www.maktv.gr/Live</base>
 		</channel>
 		<channel active="True">
 			<name>ART CHANNEL</name>
-			<type>ustream</type>
-			<url>http://www.ustream.tv/embed/19497341</url>
+			<url>http://over.ddns.net:65107/</url>
 			<base>http://www.arttv.info/</base>
 		</channel>
 		<channel active="True">
@@ -94,7 +93,7 @@
 			<url>http://over.ddns.net:65120/</url>
 		</channel>
 		<channel active="True">
-			<name>EXTRA TV</name>
+			<name>EXTRA CY</name>
 			<url>http://over.ddns.net:65119/</url>
 		</channel>
 		<channel active="True">
