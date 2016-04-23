@@ -130,7 +130,7 @@
 			<url>http://136.243.200.188:1935/tvlive/tvlive/playlist.m3u8</url>
 			<base>http://www.blueskytv.gr/</base>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>CHANNEL 9</name>
 			<type>livestream</type>
 			<url>http://www.channel9.gr/livestream/</url>
@@ -727,7 +727,6 @@
 		</channel>
 		<channel active="True">
 			<name>THRAKI NET</name>
-			<type>hls</type>
 			<url>http://hls.onestreaming.com:1935/live/thrakinettv/master.m3u8</url>
 			<base>http://www.thrakinet.tv/</base>
 		</channel>

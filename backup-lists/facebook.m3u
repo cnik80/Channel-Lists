@@ -151,7 +151,7 @@ rtmp://cp77174.live.edgefcs.net/live/123456@19937
 http://iphone-streaming.ustream.tv/uhls/14718903/streams/live/iphone/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="http://i.imgur.com/M1vn8hv.png", group-title="PERIFEREIAKA",[COLOR blue][B]EBS[/B][/COLOR]
-http://ott.ec.streamcloud.be/live/disk1/EBS/hls_el/EBS-audio_AACL_ell_66400_207=66400-video=800000.m3u8#
+http://ott.ec.streamcloud.be/live/disk1/EBS/hls_el/EBS-audio_AACL_ell_66400_207=66400-video=800000.m3u8
 
 #EXTINF:-1, tvg-logo="http://i.imgur.com/n907AGO.png", group-title="PERIFEREIAKA",[COLOR blue][B]EBS PLUS[/B][/COLOR]
 http://ott.ec.streamcloud.be/live/disk1/EBSplus/hls_el/EBSplus-audio_AACL_ell_66400_407=66400-video=800000.m3u8
