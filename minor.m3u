@@ -1,40 +1,8 @@
 #EXTM3U
-#EXTINF:0,EPT 1
-http://38.140.63.250:1935/gr-live/et1.sdp/playlist.m3u8
-#EXTINF:0,EPT 2
-http://38.140.63.250:1935/gr-live/neritplus.sdp/playlist.m3u8
-#EXTINF:0,EPT 3
-http://ert3-lh.akamaihd.net/i/live_1@329807/master.m3u8
-#EXTINF:0,MEGA
-http://38.140.63.250:1935/gr-live/mega.sdp/playlist.m3u8
-#EXTINF:0,ANT1
-http://antennatv-lh.akamaihd.net/i/live_1@329667/master.m3u8
-#EXTINF:0,ALPHA
-http://38.140.63.250:1935/gr-live/alpha.sdp/playlist.m3u8
-#EXTINF:0,SKAI
-http://38.140.63.250:1935/gr-live/skai.sdp/playlist.m3u8
-#EXTINF:0,E TV
-http://mgrouphdlive4-f.akamaihd.net/i/live_1@324569/master.m3u8
-#EXTINF:0,Makedonia TV
-http://stream.maktv.gr/i/live_1@332903/master.m3u8
-#EXTINF:0,Euronews
-rtsp://ewns-hls-p-stream.hexaglobe.net/rtpeuronewslive/gr_vidan350_rtp.sdp
-#EXTINF:0,MEGA CY
-http://over.ddns.net:65117/
-#EXTINF:0,ANT1 CY
-http://over.ddns.net:65116/
-#EXTINF:0,SIGMA CY
-http://81.21.47.74/hls/live.m3u8
-#EXTINF:0,CAPITAL CY
-http://over.ddns.net:65118/
-#EXTINF:0,MAD CY
-http://eradio.networksolutions.com.cy:1935/live/livestream/playlist.m3u8
 #EXTINF:0,RIK1
 http://over.ddns.net:65113/
 #EXTINF:0,RIK2
 http://over.ddns.net:65114/
-#EXTINF:0,RIK SAT
-http://cdnvideo.webvideocore.net/live11uk/out_2xtqzyrq6gysc48ko0cs/index.m3u8
 #EXTINF:0,SBC
 http://xsbcgrx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:0,EXTRA CHANNEL
@@ -53,8 +21,6 @@ mms://tvgold.webcast.mediacdn.com/tvgold
 http://xmpaxalotv1x.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:0,HELLAS TV
 http://176.9.123.140:1935/hellastv/_definst_/mp4:stream/master.m3u8
-#EXTINF:0,RIK SAT
-http://cdnvideo.webvideocore.net/livenl/out_2xtqzyrq6gysc48ko0cs/index.m3u8
 #EXTINF:0,4E
 http://82.192.84.30:554/live/myStream.sdp/playlist.m3u8
 #EXTINF:0,WZRA
@@ -71,18 +37,12 @@ http://srv.viiideo.gr:1935/tvcreta/live/playlist.m3u8
 http://178.62.176.153:1935/TV100/myStream/playlist.m3u8
 #EXTINF:0,DIKTYO TV
 http://iphone-streaming.ustream.tv/uhls/2785459/streams/live/iphone/playlist.m3u8
-#EXTINF:0,PONTOS TV
-http://xdiontvx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:0,ENA CHANNEL
 http://wpc.68fc.edgecastcdn.net/hls-live/2068FC/ena-channel-live/video/video.m3u8
-#EXTINF:0,THRAKI NET
-http://hls.onestreaming.com:1935/live/thrakinettv/master.m3u8
 #EXTINF:0,DELTA TV
 mms://deltatv1.dyndns.org:1194
 #EXTINF:0,AXELWOS TV
 http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8
-#EXTINF:0,EPIRUS TV1
-http://xepirustv1livex.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:0,START TV
 http://94.23.218.186:1935/StartMedia/StartMedia/playlist.m3u8
 #EXTINF:0,ASTRA TV
@@ -117,8 +77,6 @@ rtmp://78.47.151.114/tilesport/movie1
 http://rythmostv-lh.akamaihd.net/i/live_1@334551/master.m3u8
 #EXTINF:0,KLIK FM WEB TV
 http://smooth2.istoikona.net:1935/live/klikfm/master.m3u8
-#EXTINF:0,RADIO VERENIKI WEB TV
-http://iphone-streaming.ustream.tv/uhls/7948248/streams/live/iphone/playlist.m3u8
 #EXTINF:0,RYTHMOS 94.3 WEB TV
 http://rythmoscam.dyndns.org:1935/live/myStream/master.m3u8
 #EXTINF:0,FAROS WEB TV

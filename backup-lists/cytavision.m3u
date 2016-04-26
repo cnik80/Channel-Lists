@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:0 tvg-logo=http://over.ddns.net/channels/android/240/joker.png , CYTAVISION/PRIMETEL
+http://over.ddns.net:65401/
+#EXTINF:0 tvg-logo=http://over.ddns.net/channels/android/240/joker.png , CYTAVISION/PRIMETEL
+http://over.ddns.net:65402/
+#EXTINF:0 tvg-logo=http://over.ddns.net/channels/android/240/joker.png , SPORTS3
+http://over.ddns.net:65403/
+#EXTINF:0 tvg-logo=http://over.ddns.net/channels/android/240/joker.png , SPORTS4
+http://over.ddns.net:65404/
+#EXTINF:0 tvg-logo=http://over.ddns.net/channels/android/240/joker.png , SPORTS5
+http://over.ddns.net:65405/
+#EXTINF:0 tvg-logo=http://over.ddns.net/channels/android/240/joker.png , SPORTS6
+http://over.ddns.net:65406/
+#EXTINF:0 tvg-logo=http://over.ddns.net/channels/android/240/joker.png , SPORTS7
+http://over.ddns.net:65407/
+#EXTINF:0 tvg-logo=http://over.ddns.net/channels/android/240/joker.png , SPORTS8
+http://over.ddns.net:65408/
