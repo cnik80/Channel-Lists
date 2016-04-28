@@ -42,7 +42,7 @@
 			<base>http://www.skai.gr</base>
 		</channel>
 		<channel active="True">
-			<name>E</name>
+			<name>E TV</name>
 			<url>http://mgrouphdlive4-f.akamaihd.net/i/live_1@324569/master.m3u8</url>
 			<base>http://www.epsilontv.gr/</base>
 		</channel>
