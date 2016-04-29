@@ -3,22 +3,22 @@
 	<area name="PANHELLENIC">
 		<channel active="True">
 			<name>EPT1</name>
-			<url>http://over.ddns.net:65101/</url>
+			<url>http://ertworld-lh.akamaihd.net/i/live_1@362313/master.m3u8</url>
 			<base>http://webtv.ert.gr/ert1/</base>
 		</channel>
 		<channel active="True">
 			<name>EPT2</name>
-			<url>http://over.ddns.net:65102/</url>
+			<url>http://ert2world-lh.akamaihd.net/i/live_1@367166/master.m3u8</url>
 			<base>http://webtv.ert.gr/ert2/</base>
 		</channel>
 		<channel active="True">
 			<name>EPT3</name>
-			<url>http://over.ddns.net:65103/</url>
+			<url>http://ert3-lh.akamaihd.net/i/live_1@329807/master.m3u8</url>
 			<base>http://webtv.ert.gr/ert3/</base>
 		</channel>
 		<channel active="True">
 			<name>MEGA</name>
-			<url>http://over.ddns.net:65110/</url>
+			<url>http://megahdlive1-f.akamaihd.net/i/live_1@105260/master.m3u8</url>
 			<base>http://www.megatv.com/webtv/default.asp</base>
 		</channel>
 		<channel active="True">
@@ -28,17 +28,17 @@
 		</channel>
 		<channel active="True">
 			<name>STAR</name>
-			<url>http://over.ddns.net:65111/</url>
+			<url>http://38.140.63.250:1935/gr-live/star.sdp/playlist.m3u8</url>
 			<base>http://www.star.gr/tv/el/Pages/LiveVideo.aspx</base>
 		</channel>
 		<channel active="True">
 			<name>ALPHA</name>
-			<url>http://over.ddns.net:65105/</url>
+			<url>http://alfakanali-lh.akamaihd.net/i/live_1@90368/master.m3u8</url>
 			<base>http://www.alphatv.gr/webtv/live</base>
 		</channel>
 		<channel active="True">
 			<name>SKAI</name>
-			<url>http://over.ddns.net:65112/</url>
+			<url>http://38.140.63.250:1935/gr-live/skai.sdp/playlist.m3u8</url>
 			<base>http://www.skai.gr</base>
 		</channel>
 		<channel active="True">
@@ -48,7 +48,7 @@
 		</channel>
 		<channel active="True">
 			<name>MACEDONIA TV</name>
-			<url>http://over.ddns.net:65109/</url>
+			<url>http://stream.maktv.gr/i/live_1@332903/master.m3u8</url>
 			<base>http://www.maktv.gr/Live</base>
 		</channel>
 		<channel active="True">
