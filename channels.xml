@@ -13,7 +13,7 @@
 		</channel>
 		<channel active="True">
 			<name>EPT3</name>
-			<url>http://ert3-lh.akamaihd.net/i/live_1@329807/master.m3u8</url>
+			<url>http://over.ddns.net:65103/</url>
 			<base>http://webtv.ert.gr/ert3/</base>
 		</channel>
 		<channel active="True">
@@ -28,22 +28,22 @@
 		</channel>
 		<channel active="True">
 			<name>STAR</name>
-			<url>http://38.140.63.250:1935/gr-live/star.sdp/playlist.m3u8</url>
+			<url>http://over.ddns.net:65111/</url>
 			<base>http://www.star.gr/tv/el/Pages/LiveVideo.aspx</base>
 		</channel>
 		<channel active="True">
 			<name>ALPHA</name>
-			<url>http://38.140.63.250:1935/gr-live/alpha.sdp/playlist.m3u8</url>
+			<url>http://over.ddns.net:65105/</url>
 			<base>http://www.alphatv.gr/webtv/live</base>
 		</channel>
 		<channel active="True">
 			<name>SKAI</name>
-			<url>http://38.140.63.250:1935/gr-live/skai.sdp/playlist.m3u8</url>
+			<url>http://over.ddns.net:65112/</url>
 			<base>http://www.skai.gr</base>
 		</channel>
 		<channel active="True">
 			<name>E TV</name>
-			<url>http://38.140.63.250:1935/gr-live/otesport5.sdp/playlist.m3u8</url>
+			<url>http://over.ddns.net:65108/</url>
 			<base>http://www.epsilontv.gr/</base>
 		</channel>
 		<channel active="True">
