@@ -33,7 +33,7 @@
 		</channel>
 		<channel active="True">
 			<name>ALPHA</name>
-			<url>http://over.ddns.net:65105/</url>
+			<url>http://38.140.63.250:1935/gr-live/alpha.sdp/playlist.m3u8</url>
 			<base>http://www.alphatv.gr/webtv/live</base>
 		</channel>
 		<channel active="True">
@@ -43,7 +43,7 @@
 		</channel>
 		<channel active="True">
 			<name>E TV</name>
-			<url>http://mgrouphdlive4-f.akamaihd.net/i/live_1@324569/master.m3u8</url>
+			<url>http://38.140.63.250:1935/gr-live/otesport5.sdp/playlist.m3u8</url>
 			<base>http://www.epsilontv.gr/</base>
 		</channel>
 		<channel active="True">
