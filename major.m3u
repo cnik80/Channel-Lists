@@ -1,31 +1,39 @@
 #EXTM3U
-#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/Twilight0/repo.twilight0/master/plugin.video.greek.tv/resources/logos/EPT1.png", EPT1
+#EXTINF:0, tvg-id="EPT1.gr" tvg-logo="https://raw.githubusercontent.com/Twilight0/repo.twilight0/master/plugin.video.greek.tv/resources/logos/EPT1.png", EPT1
 http://over.ddns.net:65101/
-#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/Twilight0/repo.twilight0/master/plugin.video.greek.tv/resources/logos/EPT2.png", EPT2
+#EXTINF:0, tvg-id="EPT2.gr" tvg-logo="https://raw.githubusercontent.com/Twilight0/repo.twilight0/master/plugin.video.greek.tv/resources/logos/EPT2.png", EPT2
 http://over.ddns.net:65102/
-#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/Twilight0/repo.twilight0/master/plugin.video.greek.tv/resources/logos/EPT3.png", EPT3
+#EXTINF:0, tvg-id="EPT3.gr" tvg-logo="https://raw.githubusercontent.com/Twilight0/repo.twilight0/master/plugin.video.greek.tv/resources/logos/EPT3.png", EPT3
 http://over.ddns.net:65103/
-#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/Twilight0/repo.twilight0/master/plugin.video.greek.tv/resources/logos/MEGA.png", MEGA
+#EXTINF:0, tvg-id="mega.gr" tvg-logo="https://raw.githubusercontent.com/Twilight0/repo.twilight0/master/plugin.video.greek.tv/resources/logos/MEGA.png", MEGA
 http://over.ddns.net:65110/
-#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/Twilight0/repo.twilight0/master/plugin.video.greek.tv/resources/logos/ANT1.png", ANT1
+#EXTINF:0, tvg-id="ant1.gr" tvg-logo="https://raw.githubusercontent.com/Twilight0/repo.twilight0/master/plugin.video.greek.tv/resources/logos/ANT1.png", ANT1
 http://antennatv-lh.akamaihd.net/i/live_1@329667/master.m3u8
-#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/Twilight0/repo.twilight0/master/plugin.video.greek.tv/resources/logos/ALPHA.png", ALPHA
+#EXTINF:0, tvg-id="alpha.gr" tvg-logo="https://raw.githubusercontent.com/Twilight0/repo.twilight0/master/plugin.video.greek.tv/resources/logos/ALPHA.png", ALPHA
 http://over.ddns.net:65105/
-#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/Twilight0/repo.twilight0/master/plugin.video.greek.tv/resources/logos/SKAI.png", SKAI
+#EXTINF:0, tvg-id="Skai.gr" tvg-logo="https://raw.githubusercontent.com/Twilight0/repo.twilight0/master/plugin.video.greek.tv/resources/logos/SKAI.png", SKAI
 http://over.ddns.net:65112/
-#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/Twilight0/repo.twilight0/master/plugin.video.greek.tv/resources/logos/E%20TV.png", E
+#EXTINF:0, tvg-id="ETV.gr" tvg-logo="https://raw.githubusercontent.com/Twilight0/repo.twilight0/master/plugin.video.greek.tv/resources/logos/E%20TV.png", E TV
 http://mgrouphdlive4-f.akamaihd.net/i/live_1@324569/master.m3u8
-#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/Twilight0/repo.twilight0/master/plugin.video.greek.tv/resources/logos/MACEDONIA%20TV.png", M.TV
+#EXTINF:0, tvg-id="Macedonia.gr" tvg-logo="https://raw.githubusercontent.com/Twilight0/repo.twilight0/master/plugin.video.greek.tv/resources/logos/MACEDONIA%20TV.png", M.TV
 http://stream.maktv.gr/i/live_1@332903/master.m3u8
-#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/Twilight0/repo.twilight0/master/plugin.video.greek.tv/resources/logos/EURONEWS.png", EURONEWS
+#EXTINF:0, tvg-id="Euronews.nws" tvg-logo="https://raw.githubusercontent.com/Twilight0/repo.twilight0/master/plugin.video.greek.tv/resources/logos/EURONEWS.png", EURONEWS
 rtsp://ewns-hls-p-stream.hexaglobe.net/rtpeuronewslive/gr_vidan350_rtp.sdp
-#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/Twilight0/repo.twilight0/master/plugin.video.greek.tv/resources/logos/MEGA.png", MEGA CY
+#EXTINF:0, tvg-id="Rik1.gr" tvg-logo="https://raw.githubusercontent.com/Twilight0/repo.twilight0/master/plugin.video.greek.tv/resources/logos/RIK%201.png" , PIK1 
+http://over.ddns.net:65113
+#EXTINF:0, tvg-id="Rik2.gr" tvg-logo="https://raw.githubusercontent.com/Twilight0/repo.twilight0/master/plugin.video.greek.tv/resources/logos/RIK%202.png" , PIK2 
+http://over.ddns.net:65114
+#EXTINF:0, tvg-id="MegaCY.gr" tvg-logo="https://raw.githubusercontent.com/Twilight0/repo.twilight0/master/plugin.video.greek.tv/resources/logos/MEGA.png", MEGA CY
 http://over.ddns.net:65117/
-#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/Twilight0/repo.twilight0/master/plugin.video.greek.tv/resources/logos/ANT1.png", ANT1 CY
+#EXTINF:0, tvg-id="Ant1CY.gr" tvg-logo="https://raw.githubusercontent.com/Twilight0/repo.twilight0/master/plugin.video.greek.tv/resources/logos/ANT1.png", ANT1 CY
 http://over.ddns.net:65116/
-#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/Twilight0/repo.twilight0/master/plugin.video.greek.tv/resources/logos/SIGMA.png", SIGMA CY
+#EXTINF:0, tvg-id="Sigma.gr" tvg-logo="https://raw.githubusercontent.com/Twilight0/repo.twilight0/master/plugin.video.greek.tv/resources/logos/SIGMA.png", SIGMA
 http://81.21.47.74/hls/live.m3u8
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/Twilight0/repo.twilight0/master/plugin.video.greek.tv/resources/logos/CAPITAL.png", CAPITAL
 http://over.ddns.net:65118/
+#EXTINF:0, tvg-id="ExtraCY.gr" tvg-logo="https://raw.githubusercontent.com/Twilight0/repo.twilight0/master/plugin.video.greek.tv/resources/logos/EXTRA%20CY.png" , EXTRA
+http://over.ddns.net:65119
+#EXTINF:0, tvg-id="PlustvCY.gr" tvg-logo="https://raw.githubusercontent.com/Twilight0/repo.twilight0/master/plugin.video.greek.tv/resources/logos/PLUS%20TV.png" , PLUS
+http://over.ddns.net:65120
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/Twilight0/repo.twilight0/master/plugin.video.greek.tv/resources/logos/NETV%20Toronto.png", NETV Toronto
 rtmp://176.9.25.17/NetvToronto/NetvToronto
