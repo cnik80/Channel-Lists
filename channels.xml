@@ -18,7 +18,7 @@
 		</channel>
 		<channel active="True">
 			<name>MEGA</name>
-			<url>http://megahdlive1-f.akamaihd.net/i/live_1@105260/master.m3u8</url>
+			<url>http://over.ddns.net:65110/</url>
 			<base>http://www.megatv.com/webtv/default.asp</base>
 		</channel>
 		<channel active="True">
@@ -147,13 +147,11 @@
 		</channel>
 		<channel active="True">
 			<name>KONTRA CHANNEL</name>
-			<type>hls</type>
 			<url>http://flashcloud.mediacdn.com/live/kontratv/playlist.m3u8</url>
 			<base>http://live24.gr/webtv/kontrachannel/</base>
 		</channel>
 		<channel active="True">
 			<name>SBC</name>
-			<type>livestream</type>
 			<url>http://xsbcgrx.api.channel.livestream.com/3.0/playlist.m3u8</url>
 			<base>http://www.sbctv.gr/</base>
 		</channel>
@@ -173,13 +171,11 @@
 	<area name="CENTRAL MACEDONIA">
 		<channel active="True">
 			<name>TV 100</name>
-			<type>hls</type>
 			<url>http://178.62.176.153:1935/TV100/myStream/playlist.m3u8</url>
 			<base>http://www.fm100.gr/</base>
 		</channel>
 		<channel active="True">
 			<name>4E</name>
-			<type>hls</type>
 			<url>http://mail.tv4e.gr:1935/live/myStream.sdp/playlist.m3u8</url>
 			<base>http://www.tv4e.gr/livestreaming.php</base>
 		</channel>
@@ -322,7 +318,6 @@
 		</channel>
 		<channel active="True">
 			<name>ZOUGLA TV</name>
-			<type>hls</type>
 			<url>http://zouglahd-f.akamaihd.net/i/zougla_1@56341/index_700_av-b.m3u8?rebase=on</url>
 			<base>http://www.zougla.gr/zouglatv</base>
 		</channel>
@@ -389,9 +384,7 @@
 		</channel>
 		<channel active="False">
 			<name>ACHELOOS TV</name>
-			<type>hls</type>
 			<url>http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8</url>
-			<base>http://axeloos.viiideo.gr/</base>
 			<base>http://www.axeloostv.gr/</base>
 		</channel>
 		<channel active="False">
