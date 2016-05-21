@@ -238,7 +238,7 @@
 	<area name="THEMATIC">
 		<channel active="True">
 			<name>NETV Toronto</name>
-			<url>rtmp://176.9.25.17/NetvToronto/NetvToronto</url>
+			<url>rtmp://live.netvtoronto.com/NetvToronto/NetvToronto</url>
 			<base>http://www.netvtoronto.com/</base>
 		</channel>
 		<channel active="False">

@@ -38,4 +38,4 @@ http://over.ddns.net:65119
 #EXTINF:0, tvg-id="PlustvCY.gr" tvg-logo="https://raw.githubusercontent.com/Twilight0/repo.twilight0/master/plugin.video.greek.tv/resources/logos/PLUS%20TV.png" , PLUS
 http://over.ddns.net:65120
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/Twilight0/repo.twilight0/master/plugin.video.greek.tv/resources/logos/NETV%20Toronto.png", NETV Toronto
-rtmp://176.9.25.17/NetvToronto/NetvToronto
+rtmp://live.netvtoronto.com/NetvToronto/NetvToronto
