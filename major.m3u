@@ -9,6 +9,8 @@ http://over.ddns.net:65103/
 http://over.ddns.net:65110/
 #EXTINF:0, tvg-id="ANT1.gr" tvg-logo="https://raw.githubusercontent.com/Twilight0/repo.twilight0/master/plugin.video.greek.tv/resources/logos/ANT1.png", Ant1
 http://antennatv-lh.akamaihd.net/i/live_1@329667/master.m3u8
+#EXTINF:0, tvg-id="star.gr" tvg-logo="https://raw.githubusercontent.com/Twilight0/repo.twilight0/master/plugin.video.greek.tv/resources/logos/STAR.png", STAR
+http://over.ddns.net:65111/
 #EXTINF:0, tvg-id="alpha.gr" tvg-logo="https://raw.githubusercontent.com/Twilight0/repo.twilight0/master/plugin.video.greek.tv/resources/logos/ALPHA.png", ALPHA
 http://over.ddns.net:65105/
 #EXTINF:0, tvg-id="Skai.gr" tvg-logo="https://raw.githubusercontent.com/Twilight0/repo.twilight0/master/plugin.video.greek.tv/resources/logos/SKAI.png", Skai
@@ -17,8 +19,6 @@ http://over.ddns.net:65112/
 http://mgrouphdlive4-f.akamaihd.net/i/live_1@324569/master.m3u8
 #EXTINF:0, tvg-id="Macedonia.gr" tvg-logo="https://raw.githubusercontent.com/Twilight0/repo.twilight0/master/plugin.video.greek.tv/resources/logos/MACEDONIA%20TV.png", M.TV
 http://stream.maktv.gr/i/live_1@332903/master.m3u8
-#EXTINF:0, tvg-id="Kontra.gr" tvg-logo="https://raw.githubusercontent.com/Twilight0/repo.twilight0/master/plugin.video.greek.tv/resources/logos/KONTRA%20CHANNEL.png", KONTRA
-http://flashcloud.mediacdn.com/live/kontratv/.m3u8
 #EXTINF:0, tvg-id="Euronews.nws" tvg-logo="https://raw.githubusercontent.com/Twilight0/repo.twilight0/master/plugin.video.greek.tv/resources/logos/EURONEWS.png", EURONEWS
 rtsp://ewns-hls-p-stream.hexaglobe.net/rtpeuronewslive/gr_vidan350_rtp.sdp
 #EXTINF:0, tvg-id="Rik1.gr" tvg-logo="https://raw.githubusercontent.com/Twilight0/repo.twilight0/master/plugin.video.greek.tv/resources/logos/RIK%201.png" , PIK1 
