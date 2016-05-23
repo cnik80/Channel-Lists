@@ -39,62 +39,8 @@ http://over.ddns.net:65119
 http://over.ddns.net:65120
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/Twilight0/repo.twilight0/master/plugin.video.greek.tv/resources/logos/NETV%20Toronto.png", NETV Toronto
 rtmp://live.netvtoronto.com/NetvToronto/NetvToronto
-#EXTINF:0, radio="true", PROTO PROGRAMMA 91.6
-http://nerit1radio-lh.akamaihd.net/i/proto_1@123327/master.m3u8
-#EXTINF:0, radio="true", DEUTERO PROGRAMMA 102.9
-http://nerit2radio-lh.akamaihd.net/i/deftero_1@123328/master.m3u8
-#EXTINF:0, radio="true", TRITO PROGRAMMA 90.9
-http://nerit3radio-lh.akamaihd.net/i/trito_1@123329/master.m3u8
-#EXTINF:0, radio="true", ERA SPORT 101.8
-http://erasport-lh.akamaihd.net/i/live_1@326375/master.m3u8
-#EXTINF:0, radio="true", KOSMOS 93.6
-http://nerit4radio-lh.akamaihd.net/i/kosmos_1@123354/master.m3u8
-#EXTINF:0, radio="true", I FONI TIS ELLADAS 7475
-http://voiceofgreece-lh.akamaihd.net/i/live_1@326376/master.m3u8
-#EXTINF:0, radio="true", ERT3 958 95.8
-http://958fm-lh.akamaihd.net/i/live_1@359477/master.m3u8
-#EXTINF:0, radio="true", ERT3 A PROGRAMMA 102
-http://neritmakedonia-lh.akamaihd.net/i/radiomakedonia_1@125579/master.m3u8
-#EXTINF:0, radio="true", ERTOPEN 106.7
+#EXTINF:0, radio="true", ERT OPEN FM 106.7
 http://radio.ertopen.com/erasport
-#EXTINF:0, radio="true", ERA AIGAIOY
-http://ert_aigaio-lh.akamaihd.net/i/ert_aigaio_1@334602/master.m3u8
-#EXTINF:0, radio="true", ERA BOLOY
-http://ert_volos-lh.akamaihd.net/i/ert_volos_1@334604/master.m3u8
-#EXTINF:0, radio="true", ERA ZAKYNTHOY
-http://ert_zakinthos-lh.akamaihd.net/i/ert_zakynthos_1@334607/master.m3u8
-#EXTINF:0, radio="true", ERA HRAKLEIOY
-http://ert_heraklio-lh.akamaihd.net/i/ert_heraklio_1@334609/master.m3u8
-#EXTINF:0, radio="true", ERA IWANNINWN
-http://ert_ioannina-lh.akamaihd.net/i/ert_ioannina_1@334610/master.m3u8
-#EXTINF:0, radio="true", ERA KABALAS
-http://ert_kavala-lh.akamaihd.net/i/ert_kavala_1@334611/master.m3u8
-#EXTINF:0, radio="true", ERA KALAMATAS
-http://ert_kalamata-lh.akamaihd.net/i/ert_kalamata_1@334612/master.m3u8
-#EXTINF:0, radio="true", ERA KERKYRAS
-http://ert_kerkyra-lh.akamaihd.net/i/ert_kerkyra_1@334614/master.m3u8
-#EXTINF:0, radio="true", ERA KOZANHS
-http://ert_kozani-lh.akamaihd.net/i/ert_kozani_1@334619/master.m3u8
-#EXTINF:0, radio="true", ERA KOMOTHNHS
-http://ert_komotini-lh.akamaihd.net/i/ert_komotini_1@334621/master.m3u8
-#EXTINF:0, radio="true", ERA LARISAS
-http://ert_larisa-lh.akamaihd.net/i/ert_larisa_1@334622/master.m3u8
-#EXTINF:0, radio="true", ERA ORESTIADAS
-http://ert_orestiada-lh.akamaihd.net/i/ert_orestiada_1@334623/master.m3u8
-#EXTINF:0, radio="true", ERA PATRAS
-http://ert_patra-lh.akamaihd.net/i/ert_patra_1@334652/master.m3u8
-#EXTINF:0, radio="true", ERA PYRGOY
-http://ert_pyrgos-lh.akamaihd.net/i/ert_pyrgos_1@334654/master.m3u8
-#EXTINF:0, radio="true", ERA RODOY
-http://ert_rodos-lh.akamaihd.net/i/ert_rodos_1@334655/master.m3u8
-#EXTINF:0, radio="true", ERA SERRWN
-http://ert_serres-lh.akamaihd.net/i/ert_serres_1@334656/master.m3u8
-#EXTINF:0, radio="true", ERA TRIPOLHS
-http://ert_tripoli-lh.akamaihd.net/i/ert_tripoli_1@334658/master.m3u8
-#EXTINF:0, radio="true", ERA FLWRINAS
-http://ert_florina-lh.akamaihd.net/i/ert_florina_1@334659/master.m3u8
-#EXTINF:0, radio="true", ERA XANIWN
-http://ert_chania-lh.akamaihd.net/i/ert_chania_1@334660/master.m3u8
 #EXTINF:0, radio="true", KPHTH FM 87.5
 http://s3.onweb.gr:8878/
 #EXTINF:0, radio="true", EN LEFKO 87.7
@@ -185,9 +131,9 @@ http://24streams.me:8077/minorefm
 http://hotfm.live24.gr/hotfm
 #EXTINF:0, radio="true", STYL FM 104.9
 http://85.17.122.39:8530/;stream.mp3
-#EXTINF:0, radio="true",  radio="true", ATLANTIS FM 105.2
+#EXTINF:0, radio="true", ATLANTIS FM 105.2
 http://144.76.84.8:8308/;*.mp3
-#EXTINF:0, radio="true",  radio="true", PALMOS FM 105.4
+#EXTINF:0, radio="true", PALMOS FM 105.4
 http://s6.onweb.gr:8010/;
 #EXTINF:0, radio="true", STO KOKKINO 105.5
 http://83.149.126.10/listen/kokkino-ath
