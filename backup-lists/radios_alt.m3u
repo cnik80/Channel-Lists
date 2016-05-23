@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 radio="true"tvg-logo="" group-title="RADIOS",[COLOR orangered][B]ERT Radios[/B][/COLOR]
+#EXTINF:0 radio="true" tvg-logo="" group-title="RADIOS",[COLOR orangered][B]ERT Radios[/B][/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1,PROTO PROGRAMMA 91.6
 http://nerit1radio-lh.akamaihd.net/i/proto_1@123327/master.m3u8
