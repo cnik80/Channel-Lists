@@ -19,11 +19,19 @@ http://over.ddns.net:65112/
 http://mgrouphdlive4-f.akamaihd.net/i/live_1@324569/master.m3u8
 #EXTINF:0, tvg-id="Macedonia.gr" tvg-logo="https://raw.githubusercontent.com/Twilight0/repo.twilight0/master/plugin.video.greek.tv/resources/logos/MACEDONIA%20TV.png", M.TV
 http://stream.maktv.gr/i/live_1@332903/master.m3u8
+#EXTINF:0, tvg-id="Kontra.gr" tvg-logo="https://raw.githubusercontent.com/Twilight0/repo.twilight0/master/plugin.video.greek.tv/resources/logos/KONTRA%20CHANNEL.png", Kontra Channel
+http://flashcloud.mediacdn.com/live/kontratv/.m3u8
+#EXTINF:0, tvg-id="vouli.gr" tvg-logo="https://raw.githubusercontent.com/Twilight0/repo.twilight0/master/plugin.video.greek.tv/resources/logos/BOYLH%20TV.png", VOULI
+http://over.ddns.net:65104
 #EXTINF:0, tvg-id="Euronews.nws" tvg-logo="https://raw.githubusercontent.com/Twilight0/repo.twilight0/master/plugin.video.greek.tv/resources/logos/EURONEWS.png", EURONEWS
 rtsp://ewns-hls-p-stream.hexaglobe.net/rtpeuronewslive/gr_vidan350_rtp.sdp
-#EXTINF:0, tvg-id="Rik1.gr" tvg-logo="https://raw.githubusercontent.com/Twilight0/repo.twilight0/master/plugin.video.greek.tv/resources/logos/RIK%201.png" , PIK1 
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/Twilight0/repo.twilight0/master/plugin.video.greek.tv/resources/logos/TV%20100.png", TV-100
+http://178.62.176.153:1935/TV100/myStream/playlist.m3u8
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/Twilight0/repo.twilight0/master/plugin.video.greek.tv/resources/logos/BERGINA.png", BERGINA
+http://195.81.140.80:1935/live/VerginaStream1/playlist.m3u8
+#EXTINF:0, tvg-id="Rik1.gr" tvg-logo="https://raw.githubusercontent.com/Twilight0/repo.twilight0/master/plugin.video.greek.tv/resources/logos/RIK%201.png" , PIK1
 http://over.ddns.net:65113
-#EXTINF:0, tvg-id="Rik2.gr" tvg-logo="https://raw.githubusercontent.com/Twilight0/repo.twilight0/master/plugin.video.greek.tv/resources/logos/RIK%202.png" , PIK2 
+#EXTINF:0, tvg-id="Rik2.gr" tvg-logo="https://raw.githubusercontent.com/Twilight0/repo.twilight0/master/plugin.video.greek.tv/resources/logos/RIK%202.png" , PIK2
 http://over.ddns.net:65114
 #EXTINF:0, tvg-id="MegaCY.gr" tvg-logo="https://raw.githubusercontent.com/Twilight0/repo.twilight0/master/plugin.video.greek.tv/resources/logos/MEGA.png", MEGA CY
 http://over.ddns.net:65117/
@@ -39,6 +47,8 @@ http://over.ddns.net:65119
 http://over.ddns.net:65120
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/Twilight0/repo.twilight0/master/plugin.video.greek.tv/resources/logos/NETV%20Toronto.png", NETV Toronto
 rtmp://live.netvtoronto.com/NetvToronto/NetvToronto
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/Twilight0/repo.twilight0/master/plugin.video.greek.tv/resources/logos/CANNALI%20WEB%20MUSIC.png", Cannali Web Music
+rtmp://live.streams.ovh/cannali/cannali
 #EXTINF:0, radio="true", ERT OPEN FM 106.7
 http://radio.ertopen.com/erasport
 #EXTINF:0, radio="true", KPHTH FM 87.5

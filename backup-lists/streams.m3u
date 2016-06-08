@@ -8,7 +8,7 @@ http://over.ddns.net:65102
 #EXTINF:-1, tvg-id="EPT3.gr" tvg-logo=http://over.ddns.net/channels/android/240/ert3.png , group-title="PANELLADIKA", [COLOR deepskyblue][B]EPT3[/B][/COLOR] 
 http://over.ddns.net:65103
 #EXTINF:-1, tvg-id="vouli.gr" tvg-logo=http://over.ddns.net/channels/android/240/vouli.png , group-title="PANELLADIKA", [COLOR deepskyblue][B]VOULI[/B][/COLOR]
- http://over.ddns.net:65104
+http://over.ddns.net:65104
 #EXTINF:-1, tvg-id="alpha.gr" tvg-logo=http://over.ddns.net/channels/android/240/alpha.png , group-title="PANELLADIKA", [COLOR deepskyblue][B]Alpha[/B][/COLOR] 
 http://over.ddns.net:65105
 #EXTINF:-1, tvg-id="ant1.gr" tvg-logo=http://over.ddns.net/channels/android/240/ant1new.png , group-title="PANELLADIKA", [COLOR deepskyblue][B]Ant1[/B][/COLOR] 
