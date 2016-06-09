@@ -242,7 +242,7 @@
 			<base>http://www.netvtoronto.com/</base>
 		</channel>
         <channel active="True">
-			<name>Cannali Web Music</name>
+			<name>CANNALI WEB MUSIC</name>
 			<url>rtmp://live.streams.ovh/cannali/cannali</url>
 			<base>http://www.netvtoronto.com/</base>
 		</channel>
