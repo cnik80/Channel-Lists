@@ -194,6 +194,8 @@ http://94.23.218.186:1935/cretatv/cretatv/playlist.m3u8
 
 #EXTINF:-1, tvg-id="MADTV.gr" tvg-logo=http://over.ddns.net/channels/android/240/mad.png , "MOYSIKA", [COLOR yellow][B]MAD GR[/B][/COLOR] 
 http://over.ddns.net:65213
+#EXTINF:-1, tvg-id='CANNALI WEB MUSIC' tvg-logo=4greeks.comlu.com/Wizard/cannali.jpg , "MOYSIKA" [COLOR yellow][B]CANNALI WEB MUSIC[/B][/COLOR]
+rtmp://live.streams.ovh/cannali/cannali
 #EXTINF:-1, tvg-logo="http://i.imgur.com/njCyV7W.jpg", "MOYSIKA", [COLOR yellow][B] JayzeeHD[/B][/COLOR]
 http://77.92.76.135:1935/jayzee/livestream/master.m3u8
 #EXTINF:-1, tvg-logo="http://i.imgur.com/sepsdxn.png", "MOYSIKA", [COLOR yellow][B] THEMA TV[/B][/COLOR]
