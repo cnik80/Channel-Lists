@@ -7,13 +7,13 @@ http://over.ddns.net:65102/
 http://over.ddns.net:65103/
 #EXTINF:0, tvg-id="mega.gr" tvg-logo="https://raw.githubusercontent.com/Twilight0/repo.twilight0/master/plugin.video.greek.tv/resources/logos/MEGA.png", MEGA
 http://over.ddns.net:65110/
-#EXTINF:0, tvg-id="ANT1.gr" tvg-logo="https://raw.githubusercontent.com/Twilight0/repo.twilight0/master/plugin.video.greek.tv/resources/logos/ANT1.png", Ant1
+#EXTINF:0, tvg-id="ANT1.gr" tvg-logo="https://raw.githubusercontent.com/Twilight0/repo.twilight0/master/plugin.video.greek.tv/resources/logos/ANT1.png", ANT1
 http://antennatv-lh.akamaihd.net/i/live_1@329667/master.m3u8
 #EXTINF:0, tvg-id="star.gr" tvg-logo="https://raw.githubusercontent.com/Twilight0/repo.twilight0/master/plugin.video.greek.tv/resources/logos/STAR.png", STAR
 http://over.ddns.net:65111/
 #EXTINF:0, tvg-id="alpha.gr" tvg-logo="https://raw.githubusercontent.com/Twilight0/repo.twilight0/master/plugin.video.greek.tv/resources/logos/ALPHA.png", ALPHA
 http://over.ddns.net:65105/
-#EXTINF:0, tvg-id="Skai.gr" tvg-logo="https://raw.githubusercontent.com/Twilight0/repo.twilight0/master/plugin.video.greek.tv/resources/logos/SKAI.png", Skai
+#EXTINF:0, tvg-id="Skai.gr" tvg-logo="https://raw.githubusercontent.com/Twilight0/repo.twilight0/master/plugin.video.greek.tv/resources/logos/SKAI.png", SKAI
 http://over.ddns.net:65112/
 #EXTINF:0, tvg-id="ETV.gr" tvg-logo="https://raw.githubusercontent.com/Twilight0/repo.twilight0/master/plugin.video.greek.tv/resources/logos/E%20TV.png", E TV
 http://mgrouphdlive4-f.akamaihd.net/i/live_1@324569/master.m3u8

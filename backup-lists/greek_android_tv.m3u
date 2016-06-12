@@ -217,3 +217,9 @@ http://176.9.123.140:1935/messinia/messinia/master.m3u8
 rtmp://78.47.151.114/tilesport/movie1
 #EXTINF:0, group-title="WEB TV" tvg-logo="http://i.imgur.com/uet8P2n.jpg", WZRA
 http://iphone-streaming.ustream.tv/uhls/1989576/streams/live/iphone/playlist.m3u8
+#EXTINF:0, NEW TV
+http://wowzacontrol.com:1935/8108/8108/playlist.m3u8
+#EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/3jGbSwz.gif",ACHAIA CHANNEL
+http://78.129.184.15:35845/streaming.../playlist.m3u8
+#EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/Hpu1DhY.png",BEST TV
+http://138.201.57.212:1935/best/myStream/playlist.m3u8
