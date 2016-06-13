@@ -220,6 +220,28 @@ http://iphone-streaming.ustream.tv/uhls/1989576/streams/live/iphone/playlist.m3u
 #EXTINF:0, NEW TV
 http://wowzacontrol.com:1935/8108/8108/playlist.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/3jGbSwz.gif",ACHAIA CHANNEL
-http://78.129.184.15:35845/streaming.../playlist.m3u8
+http://78.129.184.15:35845/streaming/stream/playlist.m3u8
 #EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/Hpu1DhY.png",BEST TV
 http://138.201.57.212:1935/best/myStream/playlist.m3u8
+#EXTINF:0, DIAVATA TV
+http://138.201.25.26:1935/diavatatv/diavatatv/playlist.m3u8
+#EXTINF:0, KANALI 6
+http://iphone-streaming.ustream.tv/uhls/11045578/streams/live/iphon/playlist.m3u8
+#EXTINF:0, TOP  CHANNEL
+http://iphone-streaming.ustream.tv/uhls/18640065/streams/live/iphon/playlist.m3u8
+#EXTINF:0, WEST  CHANNEL
+http://iphone-streaming.ustream.tv/uhls/14955467/streams/live/iphon/playlist.m3u8
+#EXTINF:0, ART TV (ARTAS)
+http://iphone-streaming.ustream.tv/uhls/6894275/streams/live/iphon/playlist.m3u8
+#EXTINF:0, VIMA TV
+http://iphone-streaming.ustream.tv/uhls/10731431/streams/live/iphon/playlist.m3u8
+#EXTINF:0, CORFU TV
+http://iphone-streaming.ustream.tv/uhls/5317295/streams/live/iphon/playlist.m3u8
+#EXTINF:0, HPEIROS TV 1
+http://iphone-streaming.ustream.tv/uhls/158633/streams/live/iphon/playlist.m3u8
+#EXTINF:0, ITV
+http://iphone-streaming.ustream.tv/uhls/6066221/streams/live/iphon/playlist.m3u8
+#EXTINF:0, SUPER B
+http://iphone-streaming.ustream.tv/uhls/6066221/streams/live/iphon/playlist.m3u8
+#EXTINF:0, LAMPSI TV
+http://live.streams.ovh:1935/LampsiTV/LampsiTV/playlist.m3u8
