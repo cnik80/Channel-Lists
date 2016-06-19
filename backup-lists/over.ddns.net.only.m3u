@@ -1,5 +1,4 @@
 ﻿#EXTM3U
-
 #EXTINF:0 tvg-logo=http://over.ddns.net/channels/android/240/ert1.png , EPT1
 http://over.ddns.net:65101/
 #EXTINF:0 tvg-logo=http://over.ddns.net/channels/android/240/ert2.png , EPT2

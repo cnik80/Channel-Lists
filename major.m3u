@@ -963,3 +963,7 @@ http://46.227.60.32:8052/;
 http://radionostalgiagr.dyndns.org:2314/
 #EXTINF:0, radio="true", tvg-logo="https://raw.githubusercontent.com/Twilight0/repo.twilight0/master/plugin.video.greek.tv/resources/logos/RADIO%20MELODIA%20TORONTO.png, RADIO MELODIA TORONTO
 http://74.91.20.139:8058/stream
+#EXTINF:0, radio="true", RADIOGREECE MELBOURNE
+http://78.129.163.73:29570/;stream.mp3
+#EXTINF:0, radio="true", HELLENIC RADIO PERTH
+http://87.117.201.152:23368/;stream.mp3
