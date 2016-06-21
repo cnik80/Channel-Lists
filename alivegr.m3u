@@ -1,0 +1,51 @@
+#EXTM3U
+#EXTINF:0, EPT1
+http://over.ddns.net:65101/
+#EXTINF:0, EPT2
+http://over.ddns.net:65102/
+#EXTINF:0, EPT3
+http://over.ddns.net:65103/
+#EXTINF:0, MEGA
+http://over.ddns.net:65110/
+#EXTINF:0, ANT1
+http://antennatv-lh.akamaihd.net/i/live_1@329667/master.m3u8
+#EXTINF:0, STAR
+http://over.ddns.net:65111/
+#EXTINF:0, ALPHA
+http://over.ddns.net:65105/
+#EXTINF:0, Skai
+http://over.ddns.net:65112/
+#EXTINF:0, E TV
+http://mgrouphdlive4-f.akamaihd.net/i/live_1@324569/master.m3u8
+#EXTINF:0, M.TV
+http://stream.maktv.gr/i/live_1@332903/master.m3u8
+#EXTINF:0, Kontra Channel
+http://flashcloud.mediacdn.com/live/kontratv/.m3u8
+#EXTINF:0, VOULI
+http://over.ddns.net:65104
+#EXTINF:0, EURONEWS
+rtsp://ewns-hls-p-stream.hexaglobe.net/rtpeuronewslive/gr_vidan350_rtp.sdp
+#EXTINF:0, TV-100
+http://178.62.176.153:1935/TV100/myStream/playlist.m3u8
+#EXTINF:0, BERGINA
+http://195.81.140.80:1935/live/VerginaStream1/playlist.m3u8
+#EXTINF:0, PIK1
+http://over.ddns.net:65113
+#EXTINF:0, PIK2
+http://over.ddns.net:65114
+#EXTINF:0, MEGA CY
+http://over.ddns.net:65117/
+#EXTINF:0, ANT1 CY
+http://over.ddns.net:65116/
+#EXTINF:0, SIGMA
+http://81.21.47.74/hls/live.m3u8
+#EXTINF:0, CAPITAL
+http://over.ddns.net:65118/
+#EXTINF:0, EXTRA
+http://over.ddns.net:65119
+#EXTINF:0, PLUS
+http://over.ddns.net:65120
+#EXTINF:0, NETV Toronto
+rtmp://live.netvtoronto.com/NetvToronto/NetvToronto
+#EXTINF:0, Cannali Web Music
+rtmp://live.streams.ovh/cannali/cannali

@@ -29,9 +29,9 @@ rtsp://ewns-hls-p-stream.hexaglobe.net/rtpeuronewslive/gr_vidan350_rtp.sdp
 http://178.62.176.153:1935/TV100/myStream/playlist.m3u8
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/Twilight0/repo.twilight0/master/plugin.video.greek.tv/resources/logos/BERGINA.png", BERGINA
 http://195.81.140.80:1935/live/VerginaStream1/playlist.m3u8
-#EXTINF:0, tvg-id="Rik1.gr" tvg-logo="https://raw.githubusercontent.com/Twilight0/repo.twilight0/master/plugin.video.greek.tv/resources/logos/RIK%201.png" , PIK1
+#EXTINF:0, tvg-id="Rik1.gr" tvg-logo="https://raw.githubusercontent.com/Twilight0/repo.twilight0/master/plugin.video.greek.tv/resources/logos/RIK%201.png", PIK1
 http://over.ddns.net:65113
-#EXTINF:0, tvg-id="Rik2.gr" tvg-logo="https://raw.githubusercontent.com/Twilight0/repo.twilight0/master/plugin.video.greek.tv/resources/logos/RIK%202.png" , PIK2
+#EXTINF:0, tvg-id="Rik2.gr" tvg-logo="https://raw.githubusercontent.com/Twilight0/repo.twilight0/master/plugin.video.greek.tv/resources/logos/RIK%202.png", PIK2
 http://over.ddns.net:65114
 #EXTINF:0, tvg-id="MegaCY.gr" tvg-logo="https://raw.githubusercontent.com/Twilight0/repo.twilight0/master/plugin.video.greek.tv/resources/logos/MEGA.png", MEGA CY
 http://over.ddns.net:65117/
@@ -41,9 +41,9 @@ http://over.ddns.net:65116/
 http://81.21.47.74/hls/live.m3u8
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/Twilight0/repo.twilight0/master/plugin.video.greek.tv/resources/logos/CAPITAL.png", CAPITAL
 http://over.ddns.net:65118/
-#EXTINF:0, tvg-id="ExtraCY.gr" tvg-logo="https://raw.githubusercontent.com/Twilight0/repo.twilight0/master/plugin.video.greek.tv/resources/logos/EXTRA%20CY.png" , EXTRA
+#EXTINF:0, tvg-id="ExtraCY.gr" tvg-logo="https://raw.githubusercontent.com/Twilight0/repo.twilight0/master/plugin.video.greek.tv/resources/logos/EXTRA%20CY.png", EXTRA
 http://over.ddns.net:65119
-#EXTINF:0, tvg-id="PlustvCY.gr" tvg-logo="https://raw.githubusercontent.com/Twilight0/repo.twilight0/master/plugin.video.greek.tv/resources/logos/PLUS%20TV.png" , PLUS
+#EXTINF:0, tvg-id="PlustvCY.gr" tvg-logo="https://raw.githubusercontent.com/Twilight0/repo.twilight0/master/plugin.video.greek.tv/resources/logos/PLUS%20TV.png", PLUS
 http://over.ddns.net:65120
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/Twilight0/repo.twilight0/master/plugin.video.greek.tv/resources/logos/NETV%20Toronto.png", NETV Toronto
 rtmp://live.netvtoronto.com/NetvToronto/NetvToronto
