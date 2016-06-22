@@ -693,7 +693,7 @@ http://s26.myradiostream.com:8574/;
 http://live.onestreaming.com/makistia
 #EXTINF:0, RADIO MEGALONHSOS 89.8
 http://stream.all-host.gr/listen/9034.asx
-#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/Twilight0/repo.twilight0/master/plugin.video.greek.tv/resources/logos/RADIO%20MELODIA%20TORONTO.png -  RADIO MELODIA TORONTO
+#EXTINF:0, RADIO MELODIA TORONTO
 http://74.91.20.139:8058/stream
 #EXTINF:0, RADIO MOIPES 97.1
 http://s6.onweb.gr:8034/;
