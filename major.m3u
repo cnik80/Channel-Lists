@@ -37,6 +37,8 @@ http://over.ddns.net:65114
 http://over.ddns.net:65117/
 #EXTINF:0, tvg-id="Ant1CY.gr" tvg-logo="https://raw.githubusercontent.com/Twilight0/repo.twilight0/master/plugin.video.greek.tv/resources/logos/ANT1.png", ANT1 CY
 http://over.ddns.net:65116/
+#EXTINF:0, tvg-id="AlphaCY.gr" tvg-logo="https://raw.githubusercontent.com/Twilight0/repo.twilight0/master/plugin.video.greek.tv/resources/logos/ALPHA.png", ALPHA CY
+http://over.ddns.net:65121/
 #EXTINF:0, tvg-id="Sigma.gr" tvg-logo="https://raw.githubusercontent.com/Twilight0/repo.twilight0/master/plugin.video.greek.tv/resources/logos/SIGMA.png", SIGMA
 http://81.21.47.74/hls/live.m3u8
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/Twilight0/repo.twilight0/master/plugin.video.greek.tv/resources/logos/CAPITAL.png", CAPITAL
