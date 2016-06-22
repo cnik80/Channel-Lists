@@ -13,13 +13,13 @@ http://antennatv-lh.akamaihd.net/i/live_1@329667/master.m3u8
 http://over.ddns.net:65111/
 #EXTINF:0, ALPHA
 http://over.ddns.net:65105/
-#EXTINF:0, Skai
+#EXTINF:0, SKAI
 http://over.ddns.net:65112/
 #EXTINF:0, E TV
 http://mgrouphdlive4-f.akamaihd.net/i/live_1@324569/master.m3u8
 #EXTINF:0, M.TV
 http://stream.maktv.gr/i/live_1@332903/master.m3u8
-#EXTINF:0, Kontra Channel
+#EXTINF:0, KONTRA
 http://flashcloud.mediacdn.com/live/kontratv/.m3u8
 #EXTINF:0, VOULI
 http://over.ddns.net:65104
@@ -49,3 +49,115 @@ http://over.ddns.net:65120
 rtmp://live.netvtoronto.com/NetvToronto/NetvToronto
 #EXTINF:0, Cannali Web Music
 rtmp://live.streams.ovh/cannali/cannali
+#EXTINF:0, 4E
+http://82.192.84.30:554/live/myStream.sdp/playlist.m3u8
+#EXTINF:0, APEIRO TV
+http://94.23.218.186:1935/galanos2/galanos2/playlist.m3u8
+#EXTINF:0, ART
+http://iphone-streaming.ustream.tv/uhls/6894275/streams/live/iphon/playlist.m3u8
+#EXTINF:0, APT SPORT ZONE
+rtmp://78.47.151.114/tilesport/movie1
+#EXTINF:0, ASTRA TV
+http://www.astratv.gr:8090/hls/livestream.m3u8
+#EXTINF:0, AXELWOS TV
+http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8
+#EXTINF:0, BEST TV
+http://138.201.57.212:1935/best/myStream/playlist.m3u8
+#EXTINF:0, BHMA TV
+http://iphone-streaming.ustream.tv/uhls/10731431/streams/live/iphone/playlist.m3u8
+#EXTINF:0, BLUE SKY
+http://136.243.200.188:1935/tvlive/tvlive/playlist.m3u8
+#EXTINF:0, CORFU CHANNEL
+http://iphone-streaming.ustream.tv/uhls/5317295/streams/live/iphon/playlist.m3u8
+#EXTINF:0, CRETA TV
+http://srv.viiideo.gr:1935/tvcreta/live/playlist.m3u8
+#EXTINF:0, DELTA TV
+mms://deltatv1.dyndns.org:1194
+#EXTINF:0, DIAVATA TV
+http://138.201.25.26:1935/diavatatv/diavatatv/playlist.m3u8
+#EXTINF:0, DIKTYO TV
+http://iphone-streaming.ustream.tv/uhls/2785459/streams/live/iphone/playlist.m3u8
+#EXTINF:0, EBS
+http://ott.ec.streamcloud.be/live/disk1/EBS/hls_el/EBS-audio_AACL_ell_66400_207=66400-video=800000.m3u8
+#EXTINF:0, EBS PLUS
+http://ott.ec.streamcloud.be/live/disk1/EBSplus/hls_el/EBSplus-audio_AACL_ell_66400_407=66400-video=800000.m3u8
+#EXTINF:0, ELLINIKOS TV
+http://o98d0njv.blue.onyxservers.com/hls-live/livepkgr/_definst_/liveevent/EllinikosFM.m3u8
+#EXTINF:0, EPILOGES TV
+http://iphone-streaming.ustream.tv/uhls/14718903/streams/live/iphone/playlist.m3u8
+#EXTINF:0, EPIRUS TV1
+http://iphone-streaming.ustream.tv/uhls/158633/streams/live/iphon/playlist.m3u8
+#EXTINF:0, ERT WORLD
+rtmp://freeview.fms.visionip.tv/live/tvnetwork-hellenictv-ertworld-hsslive-25f-4x3-SDh?PHPSESSID=8blpkkmbb990ekhc80gfht1cq3
+#EXTINF:0, EXTRA CHANNEL
+rtmp://213.16.167.186:1935/live/mpegts_256.stream
+#EXTINF:0, FOS
+http://wm1.gmlogic.com/ch-patra?ovpsv=2.3.1.0
+#EXTINF:0, HELLAS TV
+http://176.9.123.140:1935/hellastv/_definst_/mp4:stream/master.m3u8
+#EXTINF:0, ITV
+http://iphone-streaming.ustream.tv/uhls/6066221/streams/live/iphone/playlist.m3u8
+#EXTINF:0, JAYZEE HD
+http://77.92.76.135:1935/jayzee/livestream/master.m3u8
+#EXTINF:0, KANALI 6
+http://iphone-streaming.ustream.tv/uhls/11045578/streams/live/iphone/playlist.m3u8
+#EXTINF:0, KPHTH TV
+http://live.cretetv.gr:1935/cretetv/myStream/playlist.m3u8
+#EXTINF:0, LYCHNOS
+http://erato.multiserver.gr:1935/imp/imp/playlist.m3u8
+#EXTINF:0, MAD CY
+http://over.ddns.net:65213/
+#EXTINF:0, MANA ELLADA TV
+http://iphone-streaming.ustream.tv/uhls/17099727/streams/live/iphone/playlist.m3u8
+#EXTINF:0, MESSINIA TV
+http://176.9.123.140:1935/messinia/messinia/master.m3u8
+#EXTINF:0, MPAXALO TV
+http://xmpaxalotv1x.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:0, NATURA TV
+http://xnaturatv1x.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:0, NEA TV
+http://srv.viiideo.gr:1935/neatv/live/playlist.m3u8
+#EXTINF:0, NEW TV
+http://wowzacontrol.com:1935/8108/8108/playlist.m3u8
+#EXTINF:0, OMEGA TELEVISION
+http://stream2.omegatv.net/hls-live/livepkgr/_definst_/liveevent/omegatv.m3u8
+#EXTINF:0, RIK SAT
+rtmp://freeview.fms.visionip.tv/live/tvnetwork-hellenictv-riksat-hsslive-25f-4x3-SDh?PHPSESSID=8blpkkmbb990ekhc80gfht1cq3
+#EXTINF:0, RTVR SAVATE
+http://176.9.123.140:1935/savate/mp4:stream/master.m3u8
+#EXTINF:0, SAMIAKI TV
+rtmp://94.23.218.186/samiaki/samiaki
+#EXTINF:0, SIGMALIVE
+http://live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8
+#EXTINF:0, SBC
+http://xsbcgrx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:0, START TV
+http://94.23.218.186:1935/StartMedia/StartMedia/playlist.m3u8
+#EXTINF:0, SUPER B
+http://iphone-streaming.ustream.tv/uhls/13351318/streams/live/iphon/playlist.m3u8
+#EXTINF:0, THEMA TV
+http://5.196.92.57/webtv/medium.m3u8
+#EXTINF:0, THRAKI NET
+http://hls.onestreaming.com:1935/live/thrakinettv/master.m3u8
+#EXTINF:0, TILEMOUSIKI
+mmsh://wpso.com:200/music
+#EXTINF:0, TOP CHANNEL
+http://iphone-streaming.ustream.tv/uhls/18640065/streams/live/iphone/playlist.m3u8
+#EXTINF:0, TRT TV
+http://xelladalivex.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:0, TV GOLD
+mms://tvgold.webcast.mediacdn.com/tvgold
+#EXTINF:0, TV MYTILINI
+rtmp://cp77174.live.edgefcs.net/live/123456@19937@
+#EXTINF:0, TV1
+http://176.9.123.140:1935/msg116s/msg116s/playlist.m3u8
+#EXTINF:0, VOLCANO
+rtmp://176.9.123.140:1935/santorini/santorini
+#EXTINF:0, WEST CHANNEL
+http://iphone-streaming.ustream.tv/uhls/14955467/streams/live/iphone/playlist.m3u8
+#EXTINF:0, WZRA
+http://iphone-streaming.ustream.tv/uhls/1989576/streams/live/iphone/playlist.m3u8
+#EXTINF:0, WZRA KIDS
+mmsh://wpso.com:200/kids
+#EXTINF:0, ZOUGLA TV
+http://zouglahd-f.akamaihd.net/i/zougla_1@56341/master.m3u8
