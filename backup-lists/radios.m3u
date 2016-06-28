@@ -916,3 +916,5 @@ http://74.91.20.139:8058/stream
 http://78.129.163.73:29570/;stream.mp3
 #EXTINF:0, radio="true", HELLENIC RADIO PERTH
 http://87.117.201.152:23368/;stream.mp3
+#EXTINF:0, radio="true", FONI NAOUSIS RADIO
+http://148.251.14.220:9944/
