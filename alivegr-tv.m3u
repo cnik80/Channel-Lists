@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0,EPT1
-plugin://plugin.video.youtube/play/?video_id=VaviMC3KGtQ
+http://38.140.63.250:1935/gr-live/et1.sdp/playlist.m3u8
 #EXTINF:0,EPT2
 plugin://plugin.video.youtube/play/?video_id=TyvdueFoCfA
 #EXTINF:0,EPT3
