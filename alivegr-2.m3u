@@ -71,6 +71,8 @@ mms://deltatv1.dyndns.org:1194
 http://138.201.25.26:1935/diavatatv/diavatatv/playlist.m3u8
 #EXTINF:0,DIKTYO TV
 http://iphone-streaming.ustream.tv/uhls/2785459/streams/live/iphone/playlist.m3u8
+#EXTINF:0,DRAMA TV
+plugin://plugin.video.youtube/play/?video_id=rOBW6DJwlv0
 #EXTINF:0,EBS
 http://ott.ec.streamcloud.be/live/disk1/EBS/hls_el/EBS-audio_AACL_ell_66400_207=66400-video=800000.m3u8
 #EXTINF:0,EBS PLUS
