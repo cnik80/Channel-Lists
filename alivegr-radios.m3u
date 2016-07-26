@@ -899,6 +899,8 @@ http://wpso.com:7071/;
 http://s4.onweb.gr:8896/;
 #EXTINF:0,XANTHI RADIO DEEJAY 90.6
 http://s4.onweb.gr:8402/;
+#EXTINF:0,XRONIKA WEB RADIO
+http://209.95.50.189:8049/stream
 #EXTINF:0,XPWMA FM 102.1
 http://stream.xromafm.gr:59102/;
 #EXTINF:0,XPWMA LAMIAS 98.5
