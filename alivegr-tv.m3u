@@ -14,7 +14,7 @@ http://38.140.63.250:1935/gr-live/star.sdp/playlist.m3u8
 #EXTINF:0,ALPHA
 http://193.92.37.235:1935/liveedge/live@720/chunklist_w518635263_DVR.m3u8
 #EXTINF:0,Skai
-http://38.140.63.250:1935/gr-live/skai.sdp/playlist.m3u8
+plugin://plugin.video.youtube/play/?video_id=FgYgbzdkm0g
 #EXTINF:0,E TV
 http://mgrouphdlive4-f.akamaihd.net/i/live_1@324569/master.m3u8
 #EXTINF:0,M.TV
