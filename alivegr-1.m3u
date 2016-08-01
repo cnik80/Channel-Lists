@@ -43,6 +43,8 @@ rtmp://live.netvtoronto.com/NetvToronto/NetvToronto
 rtmp://live.streams.ovh/cannali/cannali
 #EXTINF:0,4E
 http://82.192.84.30:554/live/myStream.sdp/playlist.m3u8
+#EXTINF:0,ACTION 24
+http://stream-13.vty.dailymotion.com/06/dm/1/x2p626q/live.isml/events(live-1468827636)/live-audio=64000-video=400000.m3u8
 #EXTINF:0,ALERT TV
 plugin://plugin.video.youtube/play/?video_id=4TxS3Je89Iw
 #EXTINF:0,ALITHEIA TV
@@ -73,6 +75,8 @@ mms://deltatv1.dyndns.org:1194
 http://138.201.25.26:1935/diavatatv/diavatatv/playlist.m3u8
 #EXTINF:0,DIKTYO TV
 http://iphone-streaming.ustream.tv/uhls/2785459/streams/live/iphone/playlist.m3u8
+#EXTINF:0,DR TV
+plugin://plugin.video.youtube/play/?video_id=txPl0fKQqrc
 #EXTINF:0,DRAMA TV
 plugin://plugin.video.youtube/play/?video_id=rOBW6DJwlv0
 #EXTINF:0,EBS
@@ -105,6 +109,8 @@ http://77.92.76.135:1935/jayzee/livestream/master.m3u8
 http://iphone-streaming.ustream.tv/uhls/11045578/streams/live/iphone/playlist.m3u8
 #EXTINF:0,KPHTH TV
 http://live.cretetv.gr:1935/cretetv/myStream/playlist.m3u8
+#EXTINF:0,LEPANTO 
+http://stream-13.vty.dailymotion.com/07/dm/1/x4eyjfv/live.isml/events(live-1469725176)/live-audio=128000-video=700000.m3u8
 #EXTINF:0,LYCHNOS
 http://erato.multiserver.gr:1935/imp/imp/playlist.m3u8
 #EXTINF:0,MAD CY
@@ -133,6 +139,8 @@ rtmp://94.23.218.186/samiaki/samiaki
 http://live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8
 #EXTINF:0,SBC
 http://xsbcgrx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:0,STAR K.E.
+http://stream-08.vty.dailymotion.com/11/dm/1/xqjey2/live.isml/events(live-1468833651)/live-audio=128000-video=2000000.m3u8
 #EXTINF:0,START TV
 http://94.23.218.186:1935/StartMedia/StartMedia/playlist.m3u8
 #EXTINF:0,SUPER B
