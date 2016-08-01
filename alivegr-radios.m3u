@@ -427,6 +427,8 @@ http://eco.onestreaming.com:8127/;stream.nsv
 http://mojoradio.live24.gr/mojoradio
 #EXTINF:0,MONADIKH POLITEIA 96
 http://67.212.189.122:8153/;
+#EXTINF:0,MONTREAL GREEK RADIO
+http://209.95.50.189:8049/stream
 #EXTINF:0,MORE 103
 http://85.25.214.240:8140/;
 #EXTINF:0,MOYSIKH LAMPSH 103.3

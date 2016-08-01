@@ -45,6 +45,8 @@ rtmp://live.streams.ovh/cannali/cannali
 http://82.192.84.30:554/live/myStream.sdp/playlist.m3u8
 #EXTINF:0,ALERT TV
 plugin://plugin.video.youtube/play/?video_id=4TxS3Je89Iw
+#EXTINF:0,ALITHEIA TV
+plugin://plugin.video.youtube/play/?video_id=84O5Z7Ryogg
 #EXTINF:0,APEIRO TV
 http://94.23.218.186:1935/galanos2/galanos2/playlist.m3u8
 #EXTINF:0,ART
@@ -84,7 +86,7 @@ http://iphone-streaming.ustream.tv/uhls/14718903/streams/live/iphone/playlist.m3
 #EXTINF:0,EPIRUS TV1
 http://iphone-streaming.ustream.tv/uhls/158633/streams/live/iphon/playlist.m3u8
 #EXTINF:0,ERT WORLD
-plugin://plugin.video.youtube/play/?video_id=1k4kYsQVtC0
+rtmp://freeview.fms.visionip.tv/live/tvnetwork-hellenictv-ertworld-hsslive-25f-4x3-SDh?PHPSESSID=8blpkkmbb990ekhc80gfht1cq3
 #EXTINF:0,EXTRA CHANNEL
 rtmp://213.16.167.186:1935/live/mpegts_256.stream
 #EXTINF:0,FLASH
@@ -106,11 +108,13 @@ http://live.cretetv.gr:1935/cretetv/myStream/playlist.m3u8
 #EXTINF:0,LYCHNOS
 http://erato.multiserver.gr:1935/imp/imp/playlist.m3u8
 #EXTINF:0,MAD CY
-http://over.ddns.net:65213/
+rtmp://eradio.networksolutions.com.cy/live/livestream
 #EXTINF:0,MANA ELLADA TV
 http://iphone-streaming.ustream.tv/uhls/17099727/streams/live/iphone/playlist.m3u8
 #EXTINF:0,MESSINIA TV
 http://176.9.123.140:1935/messinia/messinia/master.m3u8
+#EXTINF:0,MONTREAL TV
+http://iphone-streaming.ustream.tv/uhls/22590560/streams/live/iphone/playlist.m3u8
 #EXTINF:0,MPAXALO TV
 http://xmpaxalotv1x.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:0,NATURA TV
