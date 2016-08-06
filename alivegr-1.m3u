@@ -14,7 +14,7 @@ http://starhdlive2-lh.akamaihd.net/i/live_1@181243/master.m3u8
 #EXTINF:0,ALPHA
 http://193.92.37.235:1935/liveedge/live@720/chunklist_w518635263_DVR.m3u8
 #EXTINF:0,SKAI
-plugin://plugin.video.youtube/play/?video_id=UgoJKmmQLtY
+plugin://plugin.video.skai.gr/play/?action=live
 #EXTINF:0,E TV
 http://mgrouphdlive4-f.akamaihd.net/i/live_1@324569/master.m3u8
 #EXTINF:0,M.TV
@@ -47,8 +47,6 @@ http://82.192.84.30:554/live/myStream.sdp/playlist.m3u8
 http://stream-13.vty.dailymotion.com/06/dm/1/x2p626q/live.isml/events(live-1468827636)/live-audio=64000-video=400000.m3u8
 #EXTINF:0,ALERT TV
 plugin://plugin.video.youtube/play/?video_id=4TxS3Je89Iw
-#EXTINF:0,ALITHEIA TV
-plugin://plugin.video.youtube/play/?video_id=84O5Z7Ryogg
 #EXTINF:0,APEIRO TV
 http://94.23.218.186:1935/galanos2/galanos2/playlist.m3u8
 #EXTINF:0,ART

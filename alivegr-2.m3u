@@ -47,8 +47,6 @@ http://82.192.84.30:554/live/myStream.sdp/playlist.m3u8
 http://stream-13.vty.dailymotion.com/06/dm/1/x2p626q/live.isml/events(live-1468827636)/live-audio=64000-video=400000.m3u8
 #EXTINF:0,ALERT TV
 plugin://plugin.video.youtube/play/?video_id=4TxS3Je89Iw
-#EXTINF:0,ALITHEIA TV
-plugin://plugin.video.youtube/play/?video_id=84O5Z7Ryogg
 #EXTINF:0,APEIRO TV
 http://94.23.218.186:1935/galanos2/galanos2/playlist.m3u8
 #EXTINF:0,ART
