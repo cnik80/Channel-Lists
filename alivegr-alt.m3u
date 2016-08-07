@@ -1,19 +1,45 @@
 #EXTM3U
-#EXTINF:0,EPT1
+#EXTINF:0,EPT1 (1)
+http://ert-live.hls.adaptive.level3.net/hls-live/ert-channel01/_definst_/live/stream3.m3u8
+#EXTINF:0,EPT1 (2)
 http://38.140.63.250:1935/gr-live/et1.sdp/playlist.m3u8
-#EXTINF:0,EPT2
+#EXTINF:0,EPT1 (3)
+plugin://plugin.video.youtube/play/?video_id=wyBm8cFiUp0
+#EXTINF:0,EPT2 (1)
+http://ert2-geo-live.hls.adaptive.level3.net/hls-live/ert-channel02geo/_definst_/live/stream3.m3u8
+#EXTINF:0,EPT2 (2)
 http://38.140.63.250:1935/gr-live/neritplus.sdp/playlist.m3u8
-#EXTINF:0,EPT3
-plugin://plugin.video.youtube/play/?video_id=hp5amPE7tIA
-#EXTINF:0,MEGA
+#EXTINF:0,EPT2 (3)
+plugin://plugin.video.youtube/play/?video_id=Zjbwf5QE7aI
+#EXTINF:0,EPT3 (1)
+http://195.130.122.84:1935/Live-Edge/smil:ert3-live.smil/playlist.m3u8
+#EXTINF:0,EPT3 (2)
+plugin://plugin.video.youtube/play/?video_id=nxebm_-DkF0
+#EXTINF:0,MEGA (1)
+plugin://plugin.video.youtube/play/?video_id=2Y8qsS_xH2Y
+#EXTINF:0,MEGA (2)
 http://38.140.63.250:1935/gr-live/mega.sdp/playlist.m3u8
-#EXTINF:0,ANT1
+#EXTINF:0,MEGA (3)
+http://94.23.218.186:1935/galanos3/galanos3/playlist.m3u8
+#EXTINF:0,ANT1 (1)
+http://antennatv-lh.akamaihd.net/i/live_1@329667/master.m3u8
+#EXTINF:0,ANT1 (2)
 http://38.140.63.250:1935/gr-live/ant1.sdp/playlist.m3u8
-#EXTINF:0,STAR
+#EXTINF:0,ANT1 (3)
+http://94.23.218.186:1935/galanos11/galanos11/playlist.m3u8
+#EXTINF:0,STAR (1)
+http://starhdlive2-lh.akamaihd.net/i/live_1@181243/master.m3u8
+#EXTINF:0,STAR (2)
 http://38.140.63.250:1935/gr-live/star.sdp/playlist.m3u8
-#EXTINF:0,ALPHA
+#EXTINF:0,STAR (3)
+http://94.23.218.186:1935/galanos21/galanos21/playlist.m3u8
+#EXTINF:0,ALPHA (1)
+http://193.92.37.235:1935/liveedge/live@720/chunklist_w518635263_DVR.m3u8
+#EXTINF:0,ALPHA (2)
 http://38.140.63.250:1935/gr-live/alpha.sdp/playlist.m3u8
-#EXTINF:0,SKAI
+#EXTINF:0,SKAI (1)
+plugin://plugin.video.skai.gr/play/?action=live
+#EXTINF:0,SKAI (2)
 http://38.140.63.250:1935/gr-live/skai.sdp/playlist.m3u8
 #EXTINF:0,E TV
 http://38.140.63.250:1935/gr-live/otesport5.sdp/playlist.m3u8
@@ -85,7 +111,9 @@ http://o98d0njv.blue.onyxservers.com/hls-live/livepkgr/_definst_/liveevent/Ellin
 http://iphone-streaming.ustream.tv/uhls/14718903/streams/live/iphone/playlist.m3u8
 #EXTINF:0,EPIRUS TV1
 http://iphone-streaming.ustream.tv/uhls/158633/streams/live/iphon/playlist.m3u8
-#EXTINF:0,ERT WORLD
+#EXTINF:0,ERT WORLD (1)
+plugin://plugin.video.youtube/play/?video_id=rdlulSBQPp8
+#EXTINF:0,ERT WORLD (2)
 rtmp://freeview.fms.visionip.tv/live/tvnetwork-hellenictv-ertworld-hsslive-25f-4x3-SDh?PHPSESSID=8blpkkmbb990ekhc80gfht1cq3
 #EXTINF:0,EXTRA CHANNEL
 rtmp://213.16.167.186:1935/live/mpegts_256.stream
