@@ -154,7 +154,7 @@ http://xelladalivex.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:0,TV GOLD
 mms://tvgold.webcast.mediacdn.com/tvgold
 #EXTINF:0,TV MYTILINI
-rtmp://cp77174.live.edgefcs.net/live/123456@19937@
+rtmp://cp77174.live.edgefcs.net/live/123456@19937
 #EXTINF:0,TV1
 http://176.9.123.140:1935/msg116s/msg116s/playlist.m3u8
 #EXTINF:0,VOLCANO

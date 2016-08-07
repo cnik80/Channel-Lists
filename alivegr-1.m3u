@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:0,EPT1
-plugin://plugin.video.youtube/play/?video_id=VaviMC3KGtQ
+http://ert-live.hls.adaptive.level3.net/hls-live/ert-channel01/_definst_/live/stream3.m3u8
 #EXTINF:0,EPT2
-plugin://plugin.video.youtube/play/?video_id=TyvdueFoCfA
+http://ert2-geo-live.hls.adaptive.level3.net/hls-live/ert-channel02geo/_definst_/live/stream3.m3u8
 #EXTINF:0,EPT3
-plugin://plugin.video.youtube/play/?video_id=TAPQISON4YM
+http://195.130.122.84:1935/Live-Edge/smil:ert3-live.smil/playlist.m3u8
 #EXTINF:0,MEGA
 plugin://plugin.video.youtube/play/?video_id=2Y8qsS_xH2Y
 #EXTINF:0,ANT1
@@ -44,7 +44,7 @@ rtmp://live.streams.ovh/cannali/cannali
 #EXTINF:0,4E
 http://82.192.84.30:554/live/myStream.sdp/playlist.m3u8
 #EXTINF:0,ACTION 24
-http://stream-13.vty.dailymotion.com/06/dm/1/x2p626q/live.isml/events(live-1468827636)/live-audio=64000-video=400000.m3u8
+http://stream-03.vty.dailymotion.com/06/dm/1/x2p626q/live.isml/events(live-1468827636)/live-audio=64000-video=400000.m3u8
 #EXTINF:0,ALERT TV
 plugin://plugin.video.youtube/play/?video_id=4TxS3Je89Iw
 #EXTINF:0,APEIRO TV
@@ -138,7 +138,7 @@ http://live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8
 #EXTINF:0,SBC
 http://xsbcgrx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:0,STAR K.E.
-http://stream-08.vty.dailymotion.com/11/dm/1/xqjey2/live.isml/events(live-1468833651)/live-audio=128000-video=2000000.m3u8
+http://stream-13.vty.dailymotion.com/38/dm/1/xqjey2/live.isml/events(live-1470236143)/live-audio=128000-video=1200000.m3u8
 #EXTINF:0,START TV
 http://94.23.218.186:1935/StartMedia/StartMedia/playlist.m3u8
 #EXTINF:0,SUPER B
@@ -156,7 +156,7 @@ http://xelladalivex.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:0,TV GOLD
 mms://tvgold.webcast.mediacdn.com/tvgold
 #EXTINF:0,TV MYTILINI
-rtmp://cp77174.live.edgefcs.net/live/123456@19937@
+rtmp://cp77174.live.edgefcs.net/live/123456@19937
 #EXTINF:0,TV1
 http://176.9.123.140:1935/msg116s/msg116s/playlist.m3u8
 #EXTINF:0,VOLCANO
