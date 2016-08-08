@@ -745,6 +745,8 @@ http://80.86.85.86:8006/;
 http://netradio.live24.gr/realfm
 #EXTINF:0,REAL FM THESS 107.1
 http://realfm.megabyte.gr:8999/;
+#EXTINF:0,REBETIKO SEALABS.NET
+http://rebetiko.sealabs.net:6900/radio
 #EXTINF:0,REC 104
 http://shoutcast.24radio.gr:8022/;
 #EXTINF:0,RED FM 96.3
