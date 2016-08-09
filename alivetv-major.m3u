@@ -10,9 +10,9 @@
 10 #EXTINF:0,ANT1 
 11 http://antennatv-lh.akamaihd.net/i/live_1@329667/master.m3u8 
 12 #EXTINF:0,STAR 
-13 http://starhdlive2-lh.akamaihd.net/i/live_1@181243/master.m3u8 
+13 http://38.140.63.250:1935/gr-live/star.sdp/playlist.m3u8
 14 #EXTINF:0,ALPHA 
-15 http://193.92.37.235:1935/liveedge/live@720/chunklist_w518635263_DVR.m3u8 
+15 http://38.140.63.250:1935/gr-live/alpha.sdp/playlist.m3u8 
 16 #EXTINF:0,SKAI 
 17 plugin://plugin.video.skai.gr/play/?action=live 
 18 #EXTINF:0,E TV 
@@ -39,3 +39,6 @@
 39 rtmp://live.netvtoronto.com/NetvToronto/NetvToronto 
 40 #EXTINF:0,CANNALI MUSIC 
 41 rtmp://live.streams.ovh/cannali/cannali 
+42 #EXTINF:0, 4E 
+43 http://82.192.84.30:554/live/myStream.sdp/playlist.m3u8 
+
