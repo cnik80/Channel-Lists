@@ -3,7 +3,7 @@
 http://ert-live.hls.adaptive.level3.net/hls-live/ert-channel01/_definst_/live/stream3.m3u8
 #EXTINF:0,EPT2
 http://ert2-geo-live.hls.adaptive.level3.net/hls-live/ert-channel02geo/_definst_/live/stream3.m3u8
-#EXTINF:0,EPT3
+#EXTINF:0,EPT33
 http://195.130.122.84:1935/Live-Edge/smil:ert3-live.smil/playlist.m3u8
 #EXTINF:0,MEGA
 plugin://plugin.video.youtube/play/?video_id=2Y8qsS_xH2Y
