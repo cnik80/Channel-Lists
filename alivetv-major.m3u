@@ -1,44 +1,43 @@
 #EXTM3U 
-2 #EXTINF:0,EPT1 
-3 http://ert-live.hls.adaptive.level3.net/hls-live/ert-channel01/_definst_/live/stream3.m3u8 
-4 #EXTINF:0,EPT2 
-5 http://ert2-geo-live.hls.adaptive.level3.net/hls-live/ert-channel02geo/_definst_/live/stream3.m3u8 
-6 #EXTINF:0,EPT3 
-7 http://195.130.122.84:1935/Live-Edge/smil:ert3-live.smil/playlist.m3u8 
-8 #EXTINF:0,MEGA 
-9 plugin://plugin.video.youtube/play/?video_id=2Y8qsS_xH2Y 
-10 #EXTINF:0,ANT1 
-11 http://antennatv-lh.akamaihd.net/i/live_1@329667/master.m3u8 
-12 #EXTINF:0,STAR 
-13 http://38.140.63.250:1935/gr-live/star.sdp/playlist.m3u8
-14 #EXTINF:0,ALPHA 
-15 http://38.140.63.250:1935/gr-live/alpha.sdp/playlist.m3u8 
-16 #EXTINF:0,SKAI 
-17 plugin://plugin.video.skai.gr/play/?action=live 
-18 #EXTINF:0,E TV 
-19 http://mgrouphdlive4-f.akamaihd.net/i/live_1@324569/master.m3u8 
-20 #EXTINF:0,M.TV 
-21 http://stream.maktv.gr/i/live_1@332903/master.m3u8 
-22 #EXTINF:0,KONTRA 
-23 http://flashcloud.mediacdn.com/live/kontratv/.m3u8 
-24 #EXTINF:0,VOULI 
-25 http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8 
-26 #EXTINF:0,EURONEWS 
-27 rtsp://ewns-hls-p-stream.hexaglobe.net/rtpeuronewslive/gr_vidan350_rtp.sdp 
-28 #EXTINF:0,TV-100 
-29 http://178.62.176.153:1935/TV100/myStream/playlist.m3u8 
-30 #EXTINF:0,BERGINA 
-31 http://195.81.140.80:1935/live/VerginaStream1/playlist.m3u8 
-32 #EXTINF:0,PIK 
-33 rtmp://freeview.fms.visionip.tv/live/tvnetwork-hellenictv-riksat-hsslive-25f-4x3-SDh?PHPSESSID=8blpkkmbb990ekhc80gfht1cq3 
-34 #EXTINF:0,ALPHA CY 
-35 plugin://plugin.video.youtube/play/?video_id=0khKa0_RnXk 
-36 #EXTINF:0,SIGMA 
-37 http://81.21.47.74/hls/live.m3u8 
-38 #EXTINF:0,NETV Toronto 
-39 rtmp://live.netvtoronto.com/NetvToronto/NetvToronto 
-40 #EXTINF:0,CANNALI MUSIC 
-41 rtmp://live.streams.ovh/cannali/cannali 
-42 #EXTINF:0, 4E 
-43 http://82.192.84.30:554/live/myStream.sdp/playlist.m3u8 
-
+#EXTINF:0,EPT1 
+http://ert-live.hls.adaptive.level3.net/hls-live/ert-channel01/_definst_/live/stream3.m3u8 
+#EXTINF:0,EPT2 
+http://ert2-geo-live.hls.adaptive.level3.net/hls-live/ert-channel02geo/_definst_/live/stream3.m3u8 
+#EXTINF:0,EPT3 
+http://195.130.122.84:1935/Live-Edge/smil:ert3-live.smil/playlist.m3u8 
+#EXTINF:0,MEGA 
+plugin://plugin.video.youtube/play/?video_id=2Y8qsS_xH2Y 
+#EXTINF:0,ANT1 
+http://antennatv-lh.akamaihd.net/i/live_1@329667/master.m3u8 
+#EXTINF:0,STAR 
+http://38.140.63.250:1935/gr-live/star.sdp/playlist.m3u8
+#EXTINF:0,ALPHA 
+http://38.140.63.250:1935/gr-live/alpha.sdp/playlist.m3u8 
+#EXTINF:0,SKAI 
+plugin://plugin.video.skai.gr/play/?action=live 
+#EXTINF:0,E TV 
+http://mgrouphdlive4-f.akamaihd.net/i/live_1@324569/master.m3u8 
+#EXTINF:0,M.TV 
+http://stream.maktv.gr/i/live_1@332903/master.m3u8 
+#EXTINF:0,KONTRA 
+http://flashcloud.mediacdn.com/live/kontratv/.m3u8 
+#EXTINF:0,VOULI 
+http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8 
+#EXTINF:0,EURONEWS 
+rtsp://ewns-hls-p-stream.hexaglobe.net/rtpeuronewslive/gr_vidan350_rtp.sdp 
+#EXTINF:0,TV-100 
+http://178.62.176.153:1935/TV100/myStream/playlist.m3u8 
+#EXTINF:0,BERGINA 
+http://195.81.140.80:1935/live/VerginaStream1/playlist.m3u8 
+#EXTINF:0,PIK 
+rtmp://freeview.fms.visionip.tv/live/tvnetwork-hellenictv-riksat-hsslive-25f-4x3-SDh?PHPSESSID=8blpkkmbb990ekhc80gfht1cq3 
+#EXTINF:0,ALPHA CY 
+plugin://plugin.video.youtube/play/?video_id=0khKa0_RnXk 
+#EXTINF:0,SIGMA 
+http://81.21.47.74/hls/live.m3u8 
+#EXTINF:0,NETV Toronto 
+rtmp://live.netvtoronto.com/NetvToronto/NetvToronto 
+#EXTINF:0,CANNALI MUSIC 
+rtmp://live.streams.ovh/cannali/cannali 
+#EXTINF:0, 4E 
+http://82.192.84.30:554/live/myStream.sdp/playlist.m3u8 
