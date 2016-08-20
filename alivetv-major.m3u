@@ -39,5 +39,5 @@ http://81.21.47.74/hls/live.m3u8
 rtmp://live.netvtoronto.com/NetvToronto/NetvToronto
 #EXTINF:0,tvg-logo="https://raw.githubusercontent.com/Twilight0/repo.twilight0/master/plugin.video.greek.tv/resources/logos/CANNALI%20WEB%20MUSIC.png",CANNALI MUSIC
 rtmp://live.streams.ovh/cannali/cannali
-#EXTINF:0, 4E 
+#EXTINF:0,tvg-logo="https://raw.githubusercontent.com/Twilight0/repo.twilight0/master/plugin.video.greek.tv/resources/logos/4E.png",4E 
 http://82.192.84.30:554/live/myStream.sdp/playlist.m3u8 
